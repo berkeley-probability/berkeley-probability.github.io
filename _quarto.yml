@@ -1,0 +1,16 @@
+project:
+  type: website
+
+website:
+  #site-url: https://probability.berkeley.edu
+  site-url: https://berkeley-probability.github.io
+  sidebar:
+    style: docked
+    title: "Probability"
+    #logo: assets/stat_bear.png
+    contents:
+      - href: index.qmd
+format:
+  html:
+    theme: cosmo
+    toc: true

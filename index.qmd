@@ -1,0 +1,11 @@
+---
+title: Probability at UC Berkeley
+---
+
+## Overview
+
+UC Berkeley's probability research group has been renowned since the 1950s, having included major 20th century figures such as David Blackwell, David Freedman, and Michel Loeve.  As well as its historic connection with statistics, in the 21st century probability has much extended its role as a key bridge between theoretical and applied mathematics.
+
+Current faculty  research interests include the theory of algorithms, phylogenetic trees, continuous and discrete statistical physics models, combinatorial mathematics, continuum limits of discrete random structures, and distributional properties of (mathematical) Brownian motion.
+
+The majority of this research is collaborative with researchers from other areas of the mathematical sciences, across a broad theory - applied spectrum. 
