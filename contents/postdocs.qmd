@@ -6,21 +6,21 @@
     name   = "Ethan Epperly"
     url    = "https://ethanepperly.com"
     image  = "/images/ethan-epperly.jpeg"
-    affil  = "Professor"
+    affil  = "Miller Research Fellow, Hosted by Lin Lin"
 >}}
 
 {{<faculty-card
     name   = "Simon Gabriel"
     url    = "https://gabriel-maths.github.io"
     image  = "/images/simon-gabriel.jpg"
-    affil  = "Professor of the Practice of Economics"
+    affil  = "Charles B. Morrey Math Fellow, Hosted by Fraydoun Rezakhanlou"
 >}}
 
 {{<faculty-card
     name   = "Zoe Himwich"
-    url    = "https://math.berkeley.edu/~dvv/"
+    url    = "https://scholar.google.com/citations?user=SvDf-MwAAAAJ&hl=en"
     image  = "/images/zoe-himwich.jpeg"
-    affil  = "Professor"
+    affil  = "NSF Postdoc, Hosted by Shirshendu Ganguly"
 >}}
 
 :::

@@ -24,7 +24,7 @@
 
 {{<faculty-card
     name   = "Karissa Huang"
-    image  = "/images/karissa-huang.jpg"
+    image  = "/images/karissa-huang.JPG"
     affil  = "Advised by: Christian Borgs, Jennifer Chayes"
 >}}
 

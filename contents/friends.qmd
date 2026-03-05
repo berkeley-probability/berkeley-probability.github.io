@@ -4,7 +4,7 @@
 
 {{<faculty-card
     name   = "Lisa Goldberg"
-    url    = "http://jenniferchayes.com/"
+    url    = "https://econ.berkeley.edu/profile/lisa-goldberg"
     image  = "/images/lisa-goldberg.jpg"
     affil  = "Professor of the Practice of Economics"
 >}}
