@@ -1,11 +1,30 @@
 ---
-title: Probability at UC Berkeley
+title: "Probability at Berkeley" 
 ---
 
-## Overview
+<!-- ::: {#buttons} ::: -->
 
-UC Berkeley's probability research group has been renowned since the 1950s, having included major 20th century figures such as David Blackwell, David Freedman, and Michel Loeve.  As well as its historic connection with statistics, in the 21st century probability has much extended its role as a key bridge between theoretical and applied mathematics.
+<div style="text-align: center; margin: 1.5em 0;">
+  <img src="/images/evans-view.jpg" alt="Description" style="max-width: 100%; border-radius: 8px;">
+</div>
 
-Current faculty  research interests include the theory of algorithms, phylogenetic trees, continuous and discrete statistical physics models, combinatorial mathematics, continuum limits of discrete random structures, and distributional properties of (mathematical) Brownian motion.
+<div style="border-left: 3px solid #ccc; padding: 0.5em 1em; margin: 1.5em 0 3em 0; color: #444;">
+<p style="margin: 0 0 0.4em 0; font-style: italic; text-align: center;">"It is remarkable that a science which began with the consideration of games of chance should have become the most important object of human knowledge."</p>
+<p style="margin: 0; font-size: 0.85em; text-align: right;">—Pierre Simon, Marquis de Laplace, <em>Théorie Analytique des Probabilités</em></p>
+</div>
 
-The majority of this research is collaborative with researchers from other areas of the mathematical sciences, across a broad theory - applied spectrum. 
+This is the homepage of the UC Berkeley Probability Group. The probability group includes faculty, postdocs, and students from the Departments of [Statistics](https://statistics.berkeley.edu/), [Mathematics](https://math.berkeley.edu/home), and [EECS](https://eecs.berkeley.edu/cs/) at Berkeley. The group also includes, at any given time, a number of visitors and a number of faculty in other fields with interests in probability. 
+
+The group's research interests span a broad array of topics in probability including random walks and Brownian motion, Markov chains, percolation, superprocesses, random matrices, random trees, combinatorial stochastic processes, phylogenetics, mathematical finance, and particle systems.
+
+The group holds a weekly [Probability Seminar](https://events.berkeley.edu/probability-seminar) and is often involved in programs and workshops at [SLMath (previously MSRI)](https://www.slmath.org/#) and the [Simons Institute](https://simons.berkeley.edu/homepage). Students in the group also run the [Student Probability Seminar](https://math.berkeley.edu/~chris.yao/seminar.html), a place to discover new topics in probability and learn about each other's research in a more casual setting.
+
+<!-- Events -->
+{{< include contents/events.qmd >}}
+
+<!-- News -->
+## News
+
+### Recent Papers
+
+{{< include contents/recent-papers.qmd >}}

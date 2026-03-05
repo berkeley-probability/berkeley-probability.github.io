@@ -1,0 +1,8 @@
+### Emeriti
+
+{{<faculty-card
+    name   = "David Aldous"
+    url    = "https://www.stat.berkeley.edu/~aldous/"
+    image  = "/images/stat_bear.png"
+    affil  = "Emeritus Professor, Statistics"
+>}}

@@ -1,0 +1,52 @@
+*Last updated March 05, 2026.*
+
+- **[Finite Free Information Inequalities](http://arxiv.org/abs/2602.15822v1)** (Feb 17, 2026)
+  Jorge Garza-Vargas, Nikhil Srivastava, Zachary Stier
+
+- **[Linear Systems and Eigenvalue Problems: Open Questions from a Simons Workshop](http://arxiv.org/abs/2602.05394v1)** (Feb 05, 2026)
+  Noah Amsel, Yves Baumann, Paul Beckman, Peter Bürgisser, Chris Camaño et al.
+
+- **[First Proof](http://arxiv.org/abs/2602.05192v1)** (Feb 05, 2026)
+  Mohammed Abouzaid, Andrew J. Blumberg, Martin Hairer, Joe Kileel, Tamara G. Kolda et al.
+
+- **[Macroscopic asymptotics in discrete beta-ensembles and random tilings](http://arxiv.org/abs/2601.16377v2)** (Jan 23, 2026)
+  Gaëtan Borot, Vadim Gorin, Alice Guionnet
+
+- **[van den Berg-Kesten--type correlation inequalities for disjoint polymers in the KPZ universality class](http://arxiv.org/abs/2512.17823v2)** (Dec 19, 2025)
+  Shirshendu Ganguly, Milind Hegde, Lingfu Zhang
+
+- **[Decoupling of clusters in independent sets in a percolated hypercube](http://arxiv.org/abs/2511.07350v1)** (Nov 10, 2025)
+  Mriganka Basu Roy Chowdhury, Shirshendu Ganguly, Vilas Winstein
+
+- **[On the Martin boundary for discrete TASEP](http://arxiv.org/abs/2510.23430v2)** (Oct 27, 2025)
+  Vadim Gorin, Sergei Korotkikh
+
+- **[From tug-of-war to Brownian Boost: explicit ODE solutions for player-funded stochastic-differential games](http://arxiv.org/abs/2510.07682v4)** (Oct 09, 2025)
+  Alan Hammond
+
+- **[On quantum to classical comparison for Davies generators](http://arxiv.org/abs/2510.07267v1)** (Oct 08, 2025)
+  Joao Basso, Shirshendu Ganguly, Alistair Sinclair, Nikhil Srivastava, Zachary Stier et al.
+
+- **[Largevars: An R Package for Testing Large VARs for the Presence of Cointegration](http://arxiv.org/abs/2509.06295v1)** (Sep 08, 2025)
+  Anna Bykhovskaya, Vadim Gorin, Eszter Kiss
+
+- **[Advancing Science- and Evidence-based AI Policy](http://arxiv.org/abs/2508.02748v1)** (Aug 02, 2025)
+  Rishi Bommasani, Sanjeev Arora, Jennifer Chayes, Yejin Choi, Mariano-Florentino Cuéllar et al.
+
+- **[Sharp moment and upper tail asymptotics for the critical $2d$ Stochastic Heat Flow](http://arxiv.org/abs/2507.22029v1)** (Jul 29, 2025)
+  Shirshendu Ganguly, Kyeongsik Nam
+
+- **[How weak are weak factors? Uniform inference for signal strength in signal plus noise models](http://arxiv.org/abs/2507.18554v2)** (Jul 24, 2025)
+  Anna Bykhovskaya, Vadim Gorin, Sasha Sodin
+
+- **[Spectral properties of the zero temperature Edwards-Anderson model](http://arxiv.org/abs/2507.10507v1)** (Jul 14, 2025)
+  Mriganka Basu Roy Chowdhury, Shirshendu Ganguly
+
+- **[The California Report on Frontier AI Policy](http://arxiv.org/abs/2506.17303v1)** (Jun 17, 2025)
+  Rishi Bommasani, Scott R. Singer, Ruth E. Appel, Sarah Cen, A. Feder Cooper et al.
+
+- **[Branch lengths for geodesics in the directed landscape and mutation patterns in growing spatially structured populations](http://arxiv.org/abs/2506.01787v1)** (Jun 02, 2025)
+  Shirshendu Ganguly, Jason Schweinsberg, Yubo Shuai
+
+- **[System of Agentic AI for the Discovery of Metal-Organic Frameworks](http://arxiv.org/abs/2504.14110v1)** (Apr 18, 2025)
+  Theo Jaffrelot Inizan, Sherry Yang, Aaron Kaplan, Yen-hsu Lin, Jian Yin et al.

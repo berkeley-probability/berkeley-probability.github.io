@@ -1,0 +1,16 @@
+---
+title: "People"
+---
+
+---
+
+{{< include contents/faculty.qmd >}}
+
+{{< include contents/friends.qmd >}}
+
+{{< include contents/postdocs.qmd >}}
+
+{{< include contents/students.qmd >}}
+
+{{< include contents/visitors.qmd >}}
+

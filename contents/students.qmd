@@ -1,0 +1,73 @@
+### Students
+
+::: {.grid}
+
+{{<faculty-card
+    name   = "Jorge Blanco"
+    image  = "/images/Jorge Blanco.jpg"
+    affil  = "Advised by: Vadim Gorin"
+>}}
+
+{{<faculty-card
+    name   = "Yang Chu"
+    url    = "https://sites.google.com/view/yangch2"
+    image  = "/images/CHU_Yang - Yang Chu.jpg"
+    affil  = "Advised by: Steven Evans, Alan Hammond"
+>}}
+
+{{<faculty-card
+    name   = "Victor Ginsburg"
+    url    = "https://math.berkeley.edu/~victor/"
+    image  = "/images/victor - Victor Ginsburg.jpg"
+    affil  = "Advised by: Shirshendu Ganguly"
+>}}
+
+{{<faculty-card
+    name   = "Karissa Huang"
+    image  = "/images/karissa-huang.jpg"
+    affil  = "Advised by: Christian Borgs, Jennifer Chayes"
+>}}
+
+
+{{<faculty-card
+    name   = "Kaihao Jing"
+    url    = "https://kaihao.org/"
+    image  = "/images/kaihao-jing.jpg"
+    affil  = "Advised by: Shirshendu Ganguly"
+>}}
+
+{{<faculty-card
+    name   = "Philip LaPorte"
+    url    = "https://philiplaporte.github.io"
+    image  = "/images/Philip_Laporte2 - Philip LaPorte.JPG"
+    affil  = "Advised by: Steven Evans"
+>}}
+
+{{<faculty-card
+    name   = "Daniel Raban"
+    url    = "https://pillowmath.github.io/"
+    image  = "/images/IMG_3615 - Daniel Cyrus Raban.jpg"
+    affil  = "Advised by: Steven Evans"
+>}}
+
+{{<faculty-card
+    name   = "Gabriel Raposo"
+    url    = "https://www.stat.berkeley.edu/~raposo/"
+    image  = "/images/PictureGabriel - Gabriel Raposo.jpeg"
+    affil  = "Advised by: Vadim Gorin"
+>}}
+
+{{<faculty-card
+    name   = "Vilas Winstein"
+    url    = "vilas.us"
+    image  = "/images/headshot - Vilas Sreenivasan Winstein.jpg"
+    affil  = "Advised by: Shirshendu Ganguly"
+>}}
+
+{{<faculty-card
+    name   = "Chris Yao"
+    url    = "https://math.berkeley.edu/~chris.yao/"
+    image  = "/images/Chris_Yao - Chris Yao.jpg"
+    affil  = "Advised by: Steven Evans"
+>}}
+:::

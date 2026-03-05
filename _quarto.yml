@@ -2,15 +2,30 @@ project:
   type: website
 
 website:
-  #site-url: https://probability.berkeley.edu
-  site-url: https://berkeley-probability.github.io
-  sidebar:
-    style: docked
-    title: "Probability"
-    #logo: assets/stat_bear.png
-    contents:
+    search: false
+    sidebar:
+      style: docked
+      logo: assets/logo/logo-dice.png
+      logo-alt: "Logo"
+      background: "#f9f9f9"
+      contents:
       - href: index.qmd
+        text: Home
+      - href: people.qmd
+        text: People
+      - href: contents/all-papers.qmd
+        text: Publications
+      - href: contents/alumni-list.qmd
+        text: Alumni
+      - href: contents/miscellaneous.qmd
+        text: Miscellaneous
+
+          
 format:
   html:
     theme: cosmo
-    toc: true
+    css: assets/styles.css
+    toc: false # true
+    include-in-header:
+      # - file: siteimprove.html
+      - file: assets/header-includes.html

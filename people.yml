@@ -1,0 +1,30 @@
+faculty:
+  - name: "Jennifer Chayes"
+    url: "http://jenniferchayes.com/"
+
+  - name: "Steven Evans"
+    url: "https://www.stat.berkeley.edu/~evans/"
+
+  - name: "Shirshendu Ganguly"
+    url: "https://www.stat.berkeley.edu/~sganguly/"
+
+  - name: "Vadim Gorin"
+    url: "https://www.stat.berkeley.edu/~vadicgor/"
+
+  - name: "Alan Hammond"
+    url: "https://math.berkeley.edu/~alanmh/"
+
+  - name: "Svetlana Jitomirskaya"
+    url: "https://www.math.uci.edu/~szhitomi/"
+
+  - name: "Michael J. Lindsey"
+    url: "https://quantumtative.github.io/"
+
+  - name: "Fraydoun Rezakhanlou"
+    url: "https://math.berkeley.edu/~rezakhan/"
+
+  - name: "Alistair Sinclair"
+    url: "https://people.eecs.berkeley.edu/~sinclair/"
+
+  - name: "Nikhil Srivastava"
+    url: "https://math.berkeley.edu/~nikhil/"

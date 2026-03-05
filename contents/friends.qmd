@@ -1,0 +1,19 @@
+### Friends of Probability
+
+::: {.grid}
+
+{{<faculty-card
+    name   = "Lisa Goldberg"
+    url    = "http://jenniferchayes.com/"
+    image  = "/images/lisa-goldberg.jpg"
+    affil  = "Professor of the Practice of Economics"
+>}}
+
+{{<faculty-card
+    name   = "Dan-Virgil Voiculescu"
+    url    = "https://math.berkeley.edu/~dvv/"
+    image  = "/images/dvv_1.jpg"
+    affil  = "Professor"
+>}}
+
+:::

@@ -1,0 +1,6 @@
+title: Person Card
+contributes:
+  shortcodes:
+    - faculty-card.lua
+    - student-card.lua
+    - alumni-card.lua

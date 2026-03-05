@@ -1,0 +1,26 @@
+### Postdocs
+
+::: {.grid}
+
+{{<faculty-card
+    name   = "Ethan Epperly"
+    url    = "https://ethanepperly.com"
+    image  = "/images/ethan-epperly.jpeg"
+    affil  = "Professor"
+>}}
+
+{{<faculty-card
+    name   = "Simon Gabriel"
+    url    = "https://gabriel-maths.github.io"
+    image  = "/images/simon-gabriel.jpg"
+    affil  = "Professor of the Practice of Economics"
+>}}
+
+{{<faculty-card
+    name   = "Zoe Himwich"
+    url    = "https://math.berkeley.edu/~dvv/"
+    image  = "/images/zoe-himwich.jpeg"
+    affil  = "Professor"
+>}}
+
+:::

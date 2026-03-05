@@ -1,0 +1,90 @@
+### Faculty
+
+::: {.grid}
+
+{{<faculty-card
+    name   = "David Aldous"
+    url    = "https://www.stat.berkeley.edu/~aldous/"
+    image  = "/images/david-aldous.jpg"
+    affil  = "Professor Emeritus"
+>}}
+
+{{<faculty-card
+    name   = "Jennifer Chayes"
+    url    = "http://jenniferchayes.com/"
+    image  = "/images/jennifer-chayes.jpg"
+    affil  = "Distinguished Professor and Dean, College of Computing, Data Science, and Society"
+>}}
+
+{{<faculty-card
+    name   = "Steven Evans"
+    url    = "https://www.stat.berkeley.edu/~evans/"
+    image  = "/images/steve-evans.jpg"
+    affil  = "Distinguished Professor"
+>}}
+
+{{<faculty-card
+    name   = "Shirshendu Ganguly"
+    url    = "https://www.stat.berkeley.edu/~sganguly/"
+    image  = "/images/shirshendu-ganguly.jpg"
+    affil  = "Associate Professor"
+>}}
+
+{{<faculty-card
+    name   = "Vadim Gorin"
+    url    = "https://www.stat.berkeley.edu/~vadicgor/"
+    image  = "/images/vadim-gorin.jpg"
+    affil  = "Professor"
+>}}
+
+{{<faculty-card
+    name   = "Alan Hammond"
+    url    = "https://math.berkeley.edu/~alanmh/"
+    image  = "/images/alan-hammond.jpg"
+    affil  = "Professor"
+>}}
+
+{{<faculty-card
+    name   = "Svetlana Jitomirskaya"
+    url    = "https://www.math.uci.edu/~szhitomi/"
+    image  = "/images/svetlana-jitomirskaya.jpg"
+    affil  = "Professor"
+>}}
+
+{{<faculty-card
+    name   = "Michael J. Lindsey"
+    url    = "https://quantumtative.github.io/"
+    image  = "/images/lindsey - Michael Lindsey.jpeg"
+    affil  = "Professor"
+>}}
+
+{{<faculty-card
+    name   = "Jim Pitman"
+    url    = "https://vcresearch.berkeley.edu/faculty/james-pitman"
+    image  = "/images/jim-pitman.jpg"
+    affil  = "Professor of the Graduate School, Emeritus"
+>}}
+
+{{<faculty-card
+    name   = "Fraydoun Rezakhanlou"
+    url    = "https://math.berkeley.edu/~rezakhan/"
+    image  = "/images/Fraydoun-Rezakhanlou.jpg"
+    affil  = "Professor"
+>}}
+
+
+{{<faculty-card
+    name   = "Alistair Sinclair"
+    url    = "https://people.eecs.berkeley.edu/~sinclair/"
+    image  = "/images/alistair-sinclair.jpg"
+    affil  = "Professor"
+>}}
+
+{{<faculty-card
+    name   = "Nikhil Srivastava"
+    url    = "https://math.berkeley.edu/~nikhil/"
+    image  = "/images/nikhil-srivastava.jpg"
+    affil  = "Associate Professor"
+>}}
+
+:::
