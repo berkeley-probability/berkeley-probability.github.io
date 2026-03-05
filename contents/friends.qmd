@@ -16,4 +16,11 @@
     affil  = "Professor"
 >}}
 
+{{<faculty-card
+    name   = "Nikita Zhivotovskiy"
+    url    = "https://sites.google.com/view/nikitazhivotovskiy/"
+    image  = "/images/nikita-zhivotovskiy.jpg"
+    affil  = "Assistant Professor"
+>}}
+
 :::
