@@ -55,7 +55,7 @@
     name   = "Michael J. Lindsey"
     url    = "https://quantumtative.github.io/"
     image  = "/images/lindsey - Michael Lindsey.jpeg"
-    affil  = "Professor"
+    affil  = "Assistant Professor"
 >}}
 
 {{<faculty-card
