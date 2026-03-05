@@ -1,4 +1,6 @@
-*Last updated March 05, 2026.*
+### Papers
+
+*Last updated March 05, 2026. Papers going back ~1 year.*
 
 - **[Fluctuations in the weakly coupled 4D Anderson Hamiltonian](http://arxiv.org/abs/2602.22509v1)** (Feb 26, 2026)
   Simon Gabriel, Tommaso Rosati
