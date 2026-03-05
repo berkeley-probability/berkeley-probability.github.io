@@ -1,5 +1,11 @@
 *Last updated March 05, 2026. See more [here](contents/all-papers.qmd).*
 
+- **[Fluctuations in the weakly coupled 4D Anderson Hamiltonian](http://arxiv.org/abs/2602.22509v1)** (Feb 26, 2026)
+  Simon Gabriel, Tommaso Rosati
+
+- **[Fast, High-Accuracy, Randomized Nullspace Computations for Tall Matrices](http://arxiv.org/abs/2602.16797v1)** (Feb 18, 2026)
+  Ethan N. Epperly, Taejun Park, Yuji Nakatsukasa
+
 - **[Finite Free Information Inequalities](http://arxiv.org/abs/2602.15822v1)** (Feb 17, 2026)
   Jorge Garza-Vargas, Nikhil Srivastava, Zachary Stier
 
@@ -9,23 +15,17 @@
 - **[First Proof](http://arxiv.org/abs/2602.05192v1)** (Feb 05, 2026)
   Mohammed Abouzaid, Andrew J. Blumberg, Martin Hairer, Joe Kileel, Tamara G. Kolda et al.
 
+- **[The matrix-vector complexity of $Ax=b$](http://arxiv.org/abs/2602.04842v2)** (Feb 04, 2026)
+  Michał Dereziński, Ethan N. Epperly, Raphael A. Meyer
+
 - **[Macroscopic asymptotics in discrete beta-ensembles and random tilings](http://arxiv.org/abs/2601.16377v2)** (Jan 23, 2026)
   Gaëtan Borot, Vadim Gorin, Alice Guionnet
 
+- **[Wasserstein distances between ERGMs and Erdős-Rényi models](http://arxiv.org/abs/2601.14170v1)** (Jan 20, 2026)
+  Vilas Winstein
+
+- **[Approximate FKG inequalities for phase-bound spin systems](http://arxiv.org/abs/2601.07169v1)** (Jan 12, 2026)
+  Satyaki Mukherjee, Vilas Winstein
+
 - **[van den Berg-Kesten--type correlation inequalities for disjoint polymers in the KPZ universality class](http://arxiv.org/abs/2512.17823v2)** (Dec 19, 2025)
   Shirshendu Ganguly, Milind Hegde, Lingfu Zhang
-
-- **[Decoupling of clusters in independent sets in a percolated hypercube](http://arxiv.org/abs/2511.07350v1)** (Nov 10, 2025)
-  Mriganka Basu Roy Chowdhury, Shirshendu Ganguly, Vilas Winstein
-
-- **[On the Martin boundary for discrete TASEP](http://arxiv.org/abs/2510.23430v2)** (Oct 27, 2025)
-  Vadim Gorin, Sergei Korotkikh
-
-- **[From tug-of-war to Brownian Boost: explicit ODE solutions for player-funded stochastic-differential games](http://arxiv.org/abs/2510.07682v4)** (Oct 09, 2025)
-  Alan Hammond
-
-- **[On quantum to classical comparison for Davies generators](http://arxiv.org/abs/2510.07267v1)** (Oct 08, 2025)
-  Joao Basso, Shirshendu Ganguly, Alistair Sinclair, Nikhil Srivastava, Zachary Stier et al.
-
-- **[Largevars: An R Package for Testing Large VARs for the Presence of Cointegration](http://arxiv.org/abs/2509.06295v1)** (Sep 08, 2025)
-  Anna Bykhovskaya, Vadim Gorin, Eszter Kiss

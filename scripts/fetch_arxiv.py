@@ -32,7 +32,7 @@ def get_papers():
     # Load faculty names from people.yml
     with open(PEOPLE_FILE) as f:
         people = yaml.safe_load(f)
-    faculty = people.get("faculty", [])
+    faculty = people.get("people", [])
 
     # Build a single search query: au:"Name1" OR au:"Name2" OR ...
     names = [p["name"] for p in faculty if p.get("name")]
