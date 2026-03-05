@@ -21,6 +21,8 @@ The group's research interests span a broad array of topics in probability inclu
 
 The group holds a weekly [Probability Seminar](https://events.berkeley.edu/probability-seminar) and is often involved in programs and workshops at [SLMath (previously MSRI)](https://www.slmath.org/#) and the [Simons Institute](https://simons.berkeley.edu/homepage). Students in the group also run the [Student Probability Seminar](https://math.berkeley.edu/~chris.yao/seminar.html), a place to discover new topics in probability and learn about each other's research in a more casual setting.
 
+Feel free to join our [mailing list](https://groups.google.com/a/lists.berkeley.edu/g/probability/) for more events and updates.
+
 <!-- Events -->
 {{< include contents/events.qmd >}}
 
