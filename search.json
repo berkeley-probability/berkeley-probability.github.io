@@ -1,22 +1,145 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Probability at UC Berkeley",
+    "objectID": "people.html",
+    "href": "people.html",
+    "title": "People",
     "section": "",
-    "text": "UC Berkeley’s probability research group has been renowned since the 1950s, having included major 20th century figures such as David Blackwell, David Freedman, and Michel Loeve. As well as its historic connection with statistics, in the 21st century probability has much extended its role as a key bridge between theoretical and applied mathematics.\nCurrent faculty research interests include the theory of algorithms, phylogenetic trees, continuous and discrete statistical physics models, combinatorial mathematics, continuum limits of discrete random structures, and distributional properties of (mathematical) Brownian motion.\nThe majority of this research is collaborative with researchers from other areas of the mathematical sciences, across a broad theory - applied spectrum.",
+    "text": "Faculty\n\n\n\n\n\n\n\n\nDavid Aldous\n\nProfessor Emeritus\n\n\n\n\n\n\n\n\n\n\n\n\nJennifer Chayes\n\nDistinguished Professor and Dean, College of Computing, Data Science, and Society\n\n\n\n\n\n\n\n\n\n\n\n\nSteven Evans\n\nDistinguished Professor\n\n\n\n\n\n\n\n\n\n\n\n\nShirshendu Ganguly\n\nAssociate Professor\n\n\n\n\n\n\n\n\n\n\n\n\nVadim Gorin\n\nProfessor\n\n\n\n\n\n\n\n\n\n\n\n\nAlan Hammond\n\nProfessor\n\n\n\n\n\n\n\n\n\n\n\n\nSvetlana Jitomirskaya\n\nProfessor\n\n\n\n\n\n\n\n\n\n\n\n\nMichael J. Lindsey\n\nProfessor\n\n\n\n\n\n\n\n\n\n\n\n\nJim Pitman\n\nProfessor of the Graduate School, Emeritus\n\n\n\n\n\n\n\n\n\n\n\n\nFraydoun Rezakhanlou\n\nProfessor\n\n\n\n\n\n\n\n\n\n\n\n\nAlistair Sinclair\n\nProfessor\n\n\n\n\n\n\n\n\n\n\n\n\nNikhil Srivastava\n\nAssociate Professor\n\n\n\n\n\n\n\n\nFriends of Probability\n\n\n\n\n\n\n\n\nLisa Goldberg\n\nProfessor of the Practice of Economics\n\n\n\n\n\n\n\n\n\n\n\n\nDan-Virgil Voiculescu\n\nProfessor\n\n\n\n\n\n\n\n\nPostdocs\n\n\n\n\n\n\n\n\nEthan Epperly\n\nProfessor\n\n\n\n\n\n\n\n\n\n\n\n\nSimon Gabriel\n\nProfessor of the Practice of Economics\n\n\n\n\n\n\n\n\n\n\n\n\nZoe Himwich\n\nProfessor\n\n\n\n\n\n\n\n\nStudents\n\n\n\n\n\n\n\n\nJorge Blanco\n\nAdvised by: Vadim Gorin\n\n\n\n\n\n\n\n\n\n\n\n\nYang Chu\n\nAdvised by: Steven Evans, Alan Hammond\n\n\n\n\n\n\n\n\n\n\n\n\nVictor Ginsburg\n\nAdvised by: Shirshendu Ganguly\n\n\n\n\n\n\n\n\n\n\n\n\nKarissa Huang\n\nAdvised by: Christian Borgs, Jennifer Chayes\n\n\n\n\n\n\n\n\n\n\n\n\nKaihao Jing\n\nAdvised by: Shirshendu Ganguly\n\n\n\n\n\n\n\n\n\n\n\n\nPhilip LaPorte\n\nAdvised by: Steven Evans\n\n\n\n\n\n\n\n\n\n\n\n\nDaniel Raban\n\nAdvised by: Steven Evans\n\n\n\n\n\n\n\n\n\n\n\n\nGabriel Raposo\n\nAdvised by: Vadim Gorin\n\n\n\n\n\n\n\n\n\n\n\n\nVilas Winstein\n\nAdvised by: Shirshendu Ganguly\n\n\n\n\n\n\n\n\n\n\n\n\nChris Yao\n\nAdvised by: Steven Evans\n\n\n\n\n\n\n\n\nVisitors",
     "crumbs": [
-      "Probability at UC Berkeley"
+      "People"
     ]
   },
   {
-    "objectID": "index.html#overview",
-    "href": "index.html#overview",
-    "title": "Probability at UC Berkeley",
+    "objectID": "contents/postdocs.html",
+    "href": "contents/postdocs.html",
+    "title": "",
     "section": "",
-    "text": "UC Berkeley’s probability research group has been renowned since the 1950s, having included major 20th century figures such as David Blackwell, David Freedman, and Michel Loeve. As well as its historic connection with statistics, in the 21st century probability has much extended its role as a key bridge between theoretical and applied mathematics.\nCurrent faculty research interests include the theory of algorithms, phylogenetic trees, continuous and discrete statistical physics models, combinatorial mathematics, continuum limits of discrete random structures, and distributional properties of (mathematical) Brownian motion.\nThe majority of this research is collaborative with researchers from other areas of the mathematical sciences, across a broad theory - applied spectrum.",
+    "text": "Postdocs\n\n\n\n\n\n\n\n\nEthan Epperly\n\nProfessor\n\n\n\n\n\n\n\n\n\n\n\n\nSimon Gabriel\n\nProfessor of the Practice of Economics\n\n\n\n\n\n\n\n\n\n\n\n\nZoe Himwich\n\nProfessor"
+  },
+  {
+    "objectID": "contents/students.html",
+    "href": "contents/students.html",
+    "title": "",
+    "section": "",
+    "text": "Students\n\n\n\n\n\n\n\n\nJorge Blanco\n\nAdvised by: Vadim Gorin\n\n\n\n\n\n\n\n\n\n\n\n\nYang Chu\n\nAdvised by: Steven Evans, Alan Hammond\n\n\n\n\n\n\n\n\n\n\n\n\nVictor Ginsburg\n\nAdvised by: Shirshendu Ganguly\n\n\n\n\n\n\n\n\n\n\n\n\nKarissa Huang\n\nAdvised by: Christian Borgs, Jennifer Chayes\n\n\n\n\n\n\n\n\n\n\n\n\nKaihao Jing\n\nAdvised by: Shirshendu Ganguly\n\n\n\n\n\n\n\n\n\n\n\n\nPhilip LaPorte\n\nAdvised by: Steven Evans\n\n\n\n\n\n\n\n\n\n\n\n\nDaniel Raban\n\nAdvised by: Steven Evans\n\n\n\n\n\n\n\n\n\n\n\n\nGabriel Raposo\n\nAdvised by: Vadim Gorin\n\n\n\n\n\n\n\n\n\n\n\n\nVilas Winstein\n\nAdvised by: Shirshendu Ganguly\n\n\n\n\n\n\n\n\n\n\n\n\nChris Yao\n\nAdvised by: Steven Evans"
+  },
+  {
+    "objectID": "contents/events.html",
+    "href": "contents/events.html",
+    "title": "",
+    "section": "",
+    "text": "Student Probability Seminar on Wednesdays, 2:00-3:00pm, Evans 891\nProbability Seminar on Wednesdays, 3:00-4:00pm, Evans 334"
+  },
+  {
+    "objectID": "contents/events.html#events",
+    "href": "contents/events.html#events",
+    "title": "",
+    "section": "",
+    "text": "Student Probability Seminar on Wednesdays, 2:00-3:00pm, Evans 891\nProbability Seminar on Wednesdays, 3:00-4:00pm, Evans 334"
+  },
+  {
+    "objectID": "contents/recent-papers.html",
+    "href": "contents/recent-papers.html",
+    "title": "",
+    "section": "",
+    "text": "Last updated March 05, 2026. See more here.\n\nFluctuations in the weakly coupled 4D Anderson Hamiltonian (Feb 26, 2026) Simon Gabriel, Tommaso Rosati\nFast, High-Accuracy, Randomized Nullspace Computations for Tall Matrices (Feb 18, 2026) Ethan N. Epperly, Taejun Park, Yuji Nakatsukasa\nFinite Free Information Inequalities (Feb 17, 2026) Jorge Garza-Vargas, Nikhil Srivastava, Zachary Stier\nLinear Systems and Eigenvalue Problems: Open Questions from a Simons Workshop (Feb 05, 2026) Noah Amsel, Yves Baumann, Paul Beckman, Peter Bürgisser, Chris Camaño et al.\nFirst Proof (Feb 05, 2026) Mohammed Abouzaid, Andrew J. Blumberg, Martin Hairer, Joe Kileel, Tamara G. Kolda et al.\nThe matrix-vector complexity of \\(Ax=b\\) (Feb 04, 2026) Michał Dereziński, Ethan N. Epperly, Raphael A. Meyer\nMacroscopic asymptotics in discrete beta-ensembles and random tilings (Jan 23, 2026) Gaëtan Borot, Vadim Gorin, Alice Guionnet\nWasserstein distances between ERGMs and Erdős-Rényi models (Jan 20, 2026) Vilas Winstein\nApproximate FKG inequalities for phase-bound spin systems (Jan 12, 2026) Satyaki Mukherjee, Vilas Winstein\nvan den Berg-Kesten–type correlation inequalities for disjoint polymers in the KPZ universality class (Dec 19, 2025) Shirshendu Ganguly, Milind Hegde, Lingfu Zhang"
+  },
+  {
+    "objectID": "contents/emeritus.html",
+    "href": "contents/emeritus.html",
+    "title": "",
+    "section": "",
+    "text": "Emeriti\n\n\n\n\n\n\n\nDavid Aldous\n\nEmeritus Professor, Statistics"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Probability at Berkeley",
+    "section": "",
+    "text": "This is the homepage of the UC Berkeley Probability Group. The probability group includes faculty, postdocs, and students from the Departments of Statistics, Mathematics, and EECS at Berkeley. The group also includes, at any given time, a number of visitors and a number of faculty in other fields with interests in probability.\nThe group’s research interests span a broad array of topics in probability including random walks and Brownian motion, Markov chains, percolation, superprocesses, random matrices, random trees, combinatorial stochastic processes, phylogenetics, mathematical finance, and particle systems.\nThe group holds a weekly Probability Seminar and is often involved in programs and workshops at SLMath (previously MSRI) and the Simons Institute. Students in the group also run the Student Probability Seminar, a place to discover new topics in probability and learn about each other’s research in a more casual setting.",
     "crumbs": [
-      "Probability at UC Berkeley"
+      "Home"
+    ]
+  },
+  {
+    "objectID": "index.html#events",
+    "href": "index.html#events",
+    "title": "Probability at Berkeley",
+    "section": "Events",
+    "text": "Events\n\nStudent Probability Seminar on Wednesdays, 2:00-3:00pm, Evans 891\nProbability Seminar on Wednesdays, 3:00-4:00pm, Evans 334",
+    "crumbs": [
+      "Home"
+    ]
+  },
+  {
+    "objectID": "index.html#news",
+    "href": "index.html#news",
+    "title": "Probability at Berkeley",
+    "section": "News",
+    "text": "News\n\nRecent Papers\nLast updated March 05, 2026. See more here.\n\nFluctuations in the weakly coupled 4D Anderson Hamiltonian (Feb 26, 2026) Simon Gabriel, Tommaso Rosati\nFast, High-Accuracy, Randomized Nullspace Computations for Tall Matrices (Feb 18, 2026) Ethan N. Epperly, Taejun Park, Yuji Nakatsukasa\nFinite Free Information Inequalities (Feb 17, 2026) Jorge Garza-Vargas, Nikhil Srivastava, Zachary Stier\nLinear Systems and Eigenvalue Problems: Open Questions from a Simons Workshop (Feb 05, 2026) Noah Amsel, Yves Baumann, Paul Beckman, Peter Bürgisser, Chris Camaño et al.\nFirst Proof (Feb 05, 2026) Mohammed Abouzaid, Andrew J. Blumberg, Martin Hairer, Joe Kileel, Tamara G. Kolda et al.\nThe matrix-vector complexity of \\(Ax=b\\) (Feb 04, 2026) Michał Dereziński, Ethan N. Epperly, Raphael A. Meyer\nMacroscopic asymptotics in discrete beta-ensembles and random tilings (Jan 23, 2026) Gaëtan Borot, Vadim Gorin, Alice Guionnet\nWasserstein distances between ERGMs and Erdős-Rényi models (Jan 20, 2026) Vilas Winstein\nApproximate FKG inequalities for phase-bound spin systems (Jan 12, 2026) Satyaki Mukherjee, Vilas Winstein\nvan den Berg-Kesten–type correlation inequalities for disjoint polymers in the KPZ universality class (Dec 19, 2025) Shirshendu Ganguly, Milind Hegde, Lingfu Zhang",
+    "crumbs": [
+      "Home"
+    ]
+  },
+  {
+    "objectID": "contents/all-papers.html",
+    "href": "contents/all-papers.html",
+    "title": "",
+    "section": "",
+    "text": "Last updated March 05, 2026.\n\nFluctuations in the weakly coupled 4D Anderson Hamiltonian (Feb 26, 2026) Simon Gabriel, Tommaso Rosati\nFast, High-Accuracy, Randomized Nullspace Computations for Tall Matrices (Feb 18, 2026) Ethan N. Epperly, Taejun Park, Yuji Nakatsukasa\nFinite Free Information Inequalities (Feb 17, 2026) Jorge Garza-Vargas, Nikhil Srivastava, Zachary Stier\nLinear Systems and Eigenvalue Problems: Open Questions from a Simons Workshop (Feb 05, 2026) Noah Amsel, Yves Baumann, Paul Beckman, Peter Bürgisser, Chris Camaño et al.\nFirst Proof (Feb 05, 2026) Mohammed Abouzaid, Andrew J. Blumberg, Martin Hairer, Joe Kileel, Tamara G. Kolda et al.\nThe matrix-vector complexity of \\(Ax=b\\) (Feb 04, 2026) Michał Dereziński, Ethan N. Epperly, Raphael A. Meyer\nMacroscopic asymptotics in discrete beta-ensembles and random tilings (Jan 23, 2026) Gaëtan Borot, Vadim Gorin, Alice Guionnet\nWasserstein distances between ERGMs and Erdős-Rényi models (Jan 20, 2026) Vilas Winstein\nApproximate FKG inequalities for phase-bound spin systems (Jan 12, 2026) Satyaki Mukherjee, Vilas Winstein\nvan den Berg-Kesten–type correlation inequalities for disjoint polymers in the KPZ universality class (Dec 19, 2025) Shirshendu Ganguly, Milind Hegde, Lingfu Zhang\nMake the most of what you have: Resource-efficient randomized algorithms for matrix computations (Dec 17, 2025) Ethan N. Epperly\nExponential Absolute Minimizing extension and biased infinity Laplacian (Dec 15, 2025) Yang Chu\nDecoupling of clusters in independent sets in a percolated hypercube (Nov 10, 2025) Mriganka Basu Roy Chowdhury, Shirshendu Ganguly, Vilas Winstein\nOn the Martin boundary for discrete TASEP (Oct 27, 2025) Vadim Gorin, Sergei Korotkikh\nTravel Bans vs. Social Distancing: A Mathematical Analysis (Oct 10, 2025) Christian Borgs, Karissa Huang, Geng Zhao\nFrom tug-of-war to Brownian Boost: explicit ODE solutions for player-funded stochastic-differential games (Oct 09, 2025) Alan Hammond\nOn quantum to classical comparison for Davies generators (Oct 08, 2025) Joao Basso, Shirshendu Ganguly, Alistair Sinclair, Nikhil Srivastava, Zachary Stier et al.\nAdaptive randomized pivoting and volume sampling (Oct 02, 2025) Ethan N. Epperly\nCoupling Theory, Optimal Transport, and Strassen’s Theorem Beyond Regular Orders (Sep 25, 2025) Adam Quinn Jaffe, Daniel Raban\nLargevars: An R Package for Testing Large VARs for the Presence of Cointegration (Sep 08, 2025) Anna Bykhovskaya, Vadim Gorin, Eszter Kiss\nFaster Linear Algebra Algorithms with Structured Random Matrices (Aug 28, 2025) Chris Camaño, Ethan N. Epperly, Raphael A. Meyer, Joel A. Tropp\nDoes block size matter in randomized block Krylov low-rank approximation? (Aug 08, 2025) Tyler Chen, Ethan N. Epperly, Raphael A. Meyer, Christopher Musco, Akash Rao\nAdvancing Science- and Evidence-based AI Policy (Aug 02, 2025) Rishi Bommasani, Sanjeev Arora, Jennifer Chayes, Yejin Choi, Mariano-Florentino Cuéllar et al.\nSharp moment and upper tail asymptotics for the critical \\(2d\\) Stochastic Heat Flow (Jul 29, 2025) Shirshendu Ganguly, Kyeongsik Nam\nGlobal fluctuations for standard Young tableaux (Jul 24, 2025) Gabriel Raposo\nHow weak are weak factors? Uniform inference for signal strength in signal plus noise models (Jul 24, 2025) Anna Bykhovskaya, Vadim Gorin, Sasha Sodin\nModulated Poisson-Dirichlet diffusions arising from inclusion processes with a slow phase (Jul 18, 2025) Simon Gabriel\nQuantitative central limit theorems for exponential random graphs (Jul 14, 2025) Vilas Winstein\nSpectral properties of the zero temperature Edwards-Anderson model (Jul 14, 2025) Mriganka Basu Roy Chowdhury, Shirshendu Ganguly\nDetecting weighted hidden cliques (Jun 26, 2025) Urmisha Chatterjee, Karissa Huang, Ritabrata Karmakar, B. R. Vinay Kumar, Gábor Lugosi et al.\nThe California Report on Frontier AI Policy (Jun 17, 2025) Rishi Bommasani, Scott R. Singer, Ruth E. Appel, Sarah Cen, A. Feder Cooper et al.\nBranch lengths for geodesics in the directed landscape and mutation patterns in growing spatially structured populations (Jun 02, 2025) Shirshendu Ganguly, Jason Schweinsberg, Yubo Shuai\nLaws of Large Numbers for Information Resolution (May 12, 2025) Daniel Raban\nSystem of Agentic AI for the Discovery of Metal-Organic Frameworks (Apr 18, 2025) Theo Jaffrelot Inizan, Sherry Yang, Aaron Kaplan, Yen-hsu Lin, Jian Yin et al.\nSuccessive randomized compression: A randomized algorithm for the compressed MPO-MPS product (Apr 08, 2025) Chris Camaño, Ethan N. Epperly, Joel A. Tropp\nConcentration via metastable mixing, with applications to the supercritical exponential random graph model (Mar 10, 2025) Vilas Winstein",
+    "crumbs": [
+      "Publications"
+    ]
+  },
+  {
+    "objectID": "contents/visitors.html",
+    "href": "contents/visitors.html",
+    "title": "",
+    "section": "",
+    "text": "Visitors"
+  },
+  {
+    "objectID": "contents/faculty.html",
+    "href": "contents/faculty.html",
+    "title": "",
+    "section": "",
+    "text": "Faculty\n\n\n\n\n\n\n\n\nDavid Aldous\n\nProfessor Emeritus\n\n\n\n\n\n\n\n\n\n\n\n\nJennifer Chayes\n\nDistinguished Professor and Dean, College of Computing, Data Science, and Society\n\n\n\n\n\n\n\n\n\n\n\n\nSteven Evans\n\nDistinguished Professor\n\n\n\n\n\n\n\n\n\n\n\n\nShirshendu Ganguly\n\nAssociate Professor\n\n\n\n\n\n\n\n\n\n\n\n\nVadim Gorin\n\nProfessor\n\n\n\n\n\n\n\n\n\n\n\n\nAlan Hammond\n\nProfessor\n\n\n\n\n\n\n\n\n\n\n\n\nSvetlana Jitomirskaya\n\nProfessor\n\n\n\n\n\n\n\n\n\n\n\n\nMichael J. Lindsey\n\nProfessor\n\n\n\n\n\n\n\n\n\n\n\n\nJim Pitman\n\nProfessor of the Graduate School, Emeritus\n\n\n\n\n\n\n\n\n\n\n\n\nFraydoun Rezakhanlou\n\nProfessor\n\n\n\n\n\n\n\n\n\n\n\n\nAlistair Sinclair\n\nProfessor\n\n\n\n\n\n\n\n\n\n\n\n\nNikhil Srivastava\n\nAssociate Professor"
+  },
+  {
+    "objectID": "contents/alumni-list.html",
+    "href": "contents/alumni-list.html",
+    "title": "Alumni",
+    "section": "",
+    "text": "Forthcoming",
+    "crumbs": [
+      "Alumni"
+    ]
+  },
+  {
+    "objectID": "contents/friends.html",
+    "href": "contents/friends.html",
+    "title": "",
+    "section": "",
+    "text": "Friends of Probability\n\n\n\n\n\n\n\n\nLisa Goldberg\n\nProfessor of the Practice of Economics\n\n\n\n\n\n\n\n\n\n\n\n\nDan-Virgil Voiculescu\n\nProfessor"
+  },
+  {
+    "objectID": "contents/miscellaneous.html",
+    "href": "contents/miscellaneous.html",
+    "title": "",
+    "section": "",
+    "text": "An old version of the probability website: The Probability Web",
+    "crumbs": [
+      "Miscellaneous"
+    ]
+  },
+  {
+    "objectID": "contents/miscellaneous.html#miscellaneous-probability-links",
+    "href": "contents/miscellaneous.html#miscellaneous-probability-links",
+    "title": "",
+    "section": "",
+    "text": "An old version of the probability website: The Probability Web",
+    "crumbs": [
+      "Miscellaneous"
     ]
   }
 ]

@@ -1,7 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://berkeley-probability.github.io/people.html</loc>
+    <lastmod>2026-03-05T21:21:30.749Z</lastmod>
+  </url>
+  <url>
+    <loc>https://berkeley-probability.github.io/contents/postdocs.html</loc>
+    <lastmod>2026-03-05T21:21:30.676Z</lastmod>
+  </url>
+  <url>
+    <loc>https://berkeley-probability.github.io/contents/students.html</loc>
+    <lastmod>2026-03-05T21:21:30.676Z</lastmod>
+  </url>
+  <url>
+    <loc>https://berkeley-probability.github.io/contents/events.html</loc>
+    <lastmod>2026-03-05T21:21:30.676Z</lastmod>
+  </url>
+  <url>
+    <loc>https://berkeley-probability.github.io/contents/recent-papers.html</loc>
+    <lastmod>2026-03-05T21:21:30.676Z</lastmod>
+  </url>
+  <url>
+    <loc>https://berkeley-probability.github.io/contents/emeritus.html</loc>
+    <lastmod>2026-03-05T21:21:30.676Z</lastmod>
+  </url>
+  <url>
     <loc>https://berkeley-probability.github.io/index.html</loc>
-    <lastmod>2026-02-03T20:55:06.060Z</lastmod>
+    <lastmod>2026-03-05T21:21:30.749Z</lastmod>
+  </url>
+  <url>
+    <loc>https://berkeley-probability.github.io/contents/all-papers.html</loc>
+    <lastmod>2026-03-05T21:21:30.674Z</lastmod>
+  </url>
+  <url>
+    <loc>https://berkeley-probability.github.io/contents/visitors.html</loc>
+    <lastmod>2026-03-05T21:21:30.676Z</lastmod>
+  </url>
+  <url>
+    <loc>https://berkeley-probability.github.io/contents/faculty.html</loc>
+    <lastmod>2026-03-05T21:21:30.676Z</lastmod>
+  </url>
+  <url>
+    <loc>https://berkeley-probability.github.io/contents/alumni-list.html</loc>
+    <lastmod>2026-03-05T21:21:30.676Z</lastmod>
+  </url>
+  <url>
+    <loc>https://berkeley-probability.github.io/contents/friends.html</loc>
+    <lastmod>2026-03-05T21:21:30.676Z</lastmod>
+  </url>
+  <url>
+    <loc>https://berkeley-probability.github.io/contents/miscellaneous.html</loc>
+    <lastmod>2026-03-05T21:21:30.676Z</lastmod>
   </url>
 </urlset>
