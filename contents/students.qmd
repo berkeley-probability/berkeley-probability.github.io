@@ -44,6 +44,12 @@
 >}}
 
 {{<faculty-card
+    name   = "Zoe McDonald"
+    image  = "/images/zoe-mcdonald.jpeg"
+    affil  = "Advised by: Steven Evans"
+>}}
+
+{{<faculty-card
     name   = "Daniel Raban"
     url    = "https://pillowmath.github.io/"
     image  = "/images/IMG_3615 - Daniel Cyrus Raban.jpg"
