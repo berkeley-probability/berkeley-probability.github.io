@@ -8,6 +8,8 @@ title: "People"
 
 {{< include contents/friends.qmd >}}
 
+{{< include contents/emeritus.qmd >}}
+
 {{< include contents/postdocs.qmd >}}
 
 {{< include contents/students.qmd >}}

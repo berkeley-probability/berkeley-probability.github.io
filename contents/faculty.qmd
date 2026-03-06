@@ -3,13 +3,6 @@
 ::: {.grid}
 
 {{<faculty-card
-    name   = "David Aldous"
-    url    = "https://www.stat.berkeley.edu/~aldous/"
-    image  = "/images/david-aldous.jpg"
-    affil  = "Professor Emeritus"
->}}
-
-{{<faculty-card
     name   = "Jennifer Chayes"
     url    = "http://jenniferchayes.com/"
     image  = "/images/jennifer-chayes.jpg"
@@ -56,13 +49,6 @@
     url    = "https://quantumtative.github.io/"
     image  = "/images/lindsey - Michael Lindsey.jpeg"
     affil  = "Assistant Professor"
->}}
-
-{{<faculty-card
-    name   = "Jim Pitman"
-    url    = "https://vcresearch.berkeley.edu/faculty/james-pitman"
-    image  = "/images/jim-pitman.jpg"
-    affil  = "Professor of the Graduate School, Emeritus"
 >}}
 
 {{<faculty-card
