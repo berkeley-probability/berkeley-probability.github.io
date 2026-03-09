@@ -23,4 +23,11 @@
     affil  = "NSF Postdoc, Hosted by Shirshendu Ganguly"
 >}}
 
+
+{{<faculty-card
+    name   = "Arash Jamshidpey"
+    url    = "https://sites.google.com/view/arash-jamshidpey"
+    image  = "/images/Arash-Jamshidpey.jpg"
+    affil  = "Neyamn Assistant Professor"
+>}}
 :::
