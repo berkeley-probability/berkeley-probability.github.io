@@ -1,111 +1,469 @@
+```{=html}
+<style>
+.paper-list-updated {
+  color: #555;
+  margin-bottom: 1rem;
+}
+
+.paper-card {
+  border-top: 1px solid #d8dee6;
+  padding: 1rem 0 1.1rem 0;
+  margin: 0;
+}
+
+.paper-card:last-child {
+  border-bottom: 1px solid #d8dee6;
+}
+
+.paper-date {
+  color: #666;
+  font-size: 0.9em;
+  margin-bottom: 0.15rem;
+}
+
+.paper-title {
+  font-size: 1.05em;
+  font-weight: 700;
+  line-height: 1.35;
+}
+
+.paper-authors {
+  color: #333;
+  margin-top: 0.2rem;
+}
+
+.paper-links {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.4rem;
+  margin-top: 0.45rem;
+}
+
+.paper-badge,
+.paper-category {
+  border: 1px solid #d4dce5;
+  border-radius: 4px;
+  color: #1a6aab;
+  display: inline-block;
+  font-size: 0.82em;
+  line-height: 1;
+  padding: 0.28rem 0.42rem;
+}
+
+.paper-category {
+  color: #555;
+}
+</style>
+```
+
 ### Papers
 
-*Last updated March 05, 2026. Papers going back ~1 year.*
+<p class="paper-list-updated"><em>Last updated May 06, 2026. Papers going back ~1 year.</em></p>
 
-- **[Fluctuations in the weakly coupled 4D Anderson Hamiltonian](http://arxiv.org/abs/2602.22509v1)** (Feb 26, 2026)
-  Simon Gabriel, Tommaso Rosati
+::: {.paper-card}
+<div class="paper-date">May 04, 2026</div>
+<div class="paper-title"><a href="https://arxiv.org/abs/2605.03206v1">The maximum-entropy median-martingale</a></div>
+<div class="paper-authors">Rikhav Shah, Vilas Winstein</div>
+<div class="paper-links">
+<a class="paper-badge" href="https://arxiv.org/abs/2605.03206v1">arXiv:2605.03206v1</a>
+<a class="paper-badge" href="https://arxiv.org/pdf/2605.03206v1">PDF</a>
+<span class="paper-category">math.PR</span>
+</div>
+:::
 
-- **[Fast, High-Accuracy, Randomized Nullspace Computations for Tall Matrices](http://arxiv.org/abs/2602.16797v1)** (Feb 18, 2026)
-  Ethan N. Epperly, Taejun Park, Yuji Nakatsukasa
+::: {.paper-card}
+<div class="paper-date">Apr 30, 2026</div>
+<div class="paper-title"><a href="https://arxiv.org/abs/2604.27619v1">Rising GUE Eigenvalue Process from a Fixed Level</a></div>
+<div class="paper-authors">Zoe Himwich</div>
+<div class="paper-links">
+<a class="paper-badge" href="https://arxiv.org/abs/2604.27619v1">arXiv:2604.27619v1</a>
+<a class="paper-badge" href="https://arxiv.org/pdf/2604.27619v1">PDF</a>
+<span class="paper-category">math.PR</span>
+</div>
+:::
 
-- **[Finite Free Information Inequalities](http://arxiv.org/abs/2602.15822v1)** (Feb 17, 2026)
-  Jorge Garza-Vargas, Nikhil Srivastava, Zachary Stier
+::: {.paper-card}
+<div class="paper-date">Mar 17, 2026</div>
+<div class="paper-title"><a href="https://arxiv.org/abs/2603.17177v1">Discrete RG flow of a hierarchical singular SPDE</a></div>
+<div class="paper-authors">Leonard Ferdinand, Simon Gabriel</div>
+<div class="paper-links">
+<a class="paper-badge" href="https://arxiv.org/abs/2603.17177v1">arXiv:2603.17177v1</a>
+<a class="paper-badge" href="https://arxiv.org/pdf/2603.17177v1">PDF</a>
+<span class="paper-category">math.PR</span>
+</div>
+:::
 
-- **[Linear Systems and Eigenvalue Problems: Open Questions from a Simons Workshop](http://arxiv.org/abs/2602.05394v1)** (Feb 05, 2026)
-  Noah Amsel, Yves Baumann, Paul Beckman, Peter Bürgisser, Chris Camaño et al.
+::: {.paper-card}
+<div class="paper-date">Mar 17, 2026</div>
+<div class="paper-title"><a href="https://arxiv.org/abs/2603.18053v1">Auditing the Auditors: Does Community-based Moderation Get It Right?</a></div>
+<div class="paper-authors">Yeganeh Alimohammadi, Karissa Huang, Christian Borgs, Jennifer Chayes</div>
+<div class="paper-links">
+<a class="paper-badge" href="https://arxiv.org/abs/2603.18053v1">arXiv:2603.18053v1</a>
+<a class="paper-badge" href="https://arxiv.org/pdf/2603.18053v1">PDF</a>
+<span class="paper-category">cs.SI, cs.CY, econ.GN</span>
+</div>
+:::
 
-- **[First Proof](http://arxiv.org/abs/2602.05192v1)** (Feb 05, 2026)
-  Mohammed Abouzaid, Andrew J. Blumberg, Martin Hairer, Joe Kileel, Tamara G. Kolda et al.
+::: {.paper-card}
+<div class="paper-date">Feb 26, 2026</div>
+<div class="paper-title"><a href="https://arxiv.org/abs/2602.22509v1">Fluctuations in the weakly coupled 4D Anderson Hamiltonian</a></div>
+<div class="paper-authors">Simon Gabriel, Tommaso Rosati</div>
+<div class="paper-links">
+<a class="paper-badge" href="https://arxiv.org/abs/2602.22509v1">arXiv:2602.22509v1</a>
+<a class="paper-badge" href="https://arxiv.org/pdf/2602.22509v1">PDF</a>
+<span class="paper-category">math.PR, math.AP</span>
+</div>
+:::
 
-- **[The matrix-vector complexity of $Ax=b$](http://arxiv.org/abs/2602.04842v2)** (Feb 04, 2026)
-  Michał Dereziński, Ethan N. Epperly, Raphael A. Meyer
+::: {.paper-card}
+<div class="paper-date">Feb 18, 2026</div>
+<div class="paper-title"><a href="https://arxiv.org/abs/2602.16797v1">Fast, High-Accuracy, Randomized Nullspace Computations for Tall Matrices</a></div>
+<div class="paper-authors">Ethan N. Epperly, Taejun Park, Yuji Nakatsukasa</div>
+<div class="paper-links">
+<a class="paper-badge" href="https://arxiv.org/abs/2602.16797v1">arXiv:2602.16797v1</a>
+<a class="paper-badge" href="https://arxiv.org/pdf/2602.16797v1">PDF</a>
+<span class="paper-category">math.NA</span>
+</div>
+:::
 
-- **[Macroscopic asymptotics in discrete beta-ensembles and random tilings](http://arxiv.org/abs/2601.16377v2)** (Jan 23, 2026)
-  Gaëtan Borot, Vadim Gorin, Alice Guionnet
+::: {.paper-card}
+<div class="paper-date">Feb 17, 2026</div>
+<div class="paper-title"><a href="https://arxiv.org/abs/2602.15822v1">Finite Free Information Inequalities</a></div>
+<div class="paper-authors">Jorge Garza-Vargas, Nikhil Srivastava, Zachary Stier</div>
+<div class="paper-links">
+<a class="paper-badge" href="https://arxiv.org/abs/2602.15822v1">arXiv:2602.15822v1</a>
+<a class="paper-badge" href="https://arxiv.org/pdf/2602.15822v1">PDF</a>
+<span class="paper-category">math.PR, math.CA, math.CO</span>
+</div>
+:::
 
-- **[Wasserstein distances between ERGMs and Erdős-Rényi models](http://arxiv.org/abs/2601.14170v1)** (Jan 20, 2026)
-  Vilas Winstein
+::: {.paper-card}
+<div class="paper-date">Feb 05, 2026</div>
+<div class="paper-title"><a href="https://arxiv.org/abs/2602.05394v2">Linear Systems and Eigenvalue Problems: Open Questions from a Simons Workshop</a></div>
+<div class="paper-authors">Noah Amsel, Yves Baumann, Paul Beckman, Peter Bürgisser, Chris Camaño, Tyler Chen, Edmond Chow, Anil Damle et al.</div>
+<div class="paper-links">
+<a class="paper-badge" href="https://arxiv.org/abs/2602.05394v2">arXiv:2602.05394v2</a>
+<a class="paper-badge" href="https://arxiv.org/pdf/2602.05394v2">PDF</a>
+<span class="paper-category">math.NA, cs.DS</span>
+</div>
+:::
 
-- **[Approximate FKG inequalities for phase-bound spin systems](http://arxiv.org/abs/2601.07169v1)** (Jan 12, 2026)
-  Satyaki Mukherjee, Vilas Winstein
+::: {.paper-card}
+<div class="paper-date">Feb 05, 2026</div>
+<div class="paper-title"><a href="https://arxiv.org/abs/2602.05192v2">First Proof</a></div>
+<div class="paper-authors">Mohammed Abouzaid, Andrew J. Blumberg, Martin Hairer, Joe Kileel, Tamara G. Kolda, Paul D. Nelson, Daniel Spielman, Nikhil Srivastava et al.</div>
+<div class="paper-links">
+<a class="paper-badge" href="https://arxiv.org/abs/2602.05192v2">arXiv:2602.05192v2</a>
+<a class="paper-badge" href="https://arxiv.org/pdf/2602.05192v2">PDF</a>
+<span class="paper-category">cs.AI, math.AG, math.CO</span>
+</div>
+:::
 
-- **[van den Berg-Kesten--type correlation inequalities for disjoint polymers in the KPZ universality class](http://arxiv.org/abs/2512.17823v2)** (Dec 19, 2025)
-  Shirshendu Ganguly, Milind Hegde, Lingfu Zhang
+::: {.paper-card}
+<div class="paper-date">Feb 04, 2026</div>
+<div class="paper-title"><a href="https://arxiv.org/abs/2602.04842v2">The matrix-vector complexity of $Ax=b$</a></div>
+<div class="paper-authors">Michał Dereziński, Ethan N. Epperly, Raphael A. Meyer</div>
+<div class="paper-links">
+<a class="paper-badge" href="https://arxiv.org/abs/2602.04842v2">arXiv:2602.04842v2</a>
+<a class="paper-badge" href="https://arxiv.org/pdf/2602.04842v2">PDF</a>
+<span class="paper-category">cs.DS, math.NA, math.OC</span>
+</div>
+:::
 
-- **[Make the most of what you have: Resource-efficient randomized algorithms for matrix computations](http://arxiv.org/abs/2512.15929v1)** (Dec 17, 2025)
-  Ethan N. Epperly
+::: {.paper-card}
+<div class="paper-date">Jan 23, 2026</div>
+<div class="paper-title"><a href="https://arxiv.org/abs/2601.16377v2">Macroscopic asymptotics in discrete beta-ensembles and random tilings</a></div>
+<div class="paper-authors">Gaëtan Borot, Vadim Gorin, Alice Guionnet</div>
+<div class="paper-links">
+<a class="paper-badge" href="https://arxiv.org/abs/2601.16377v2">arXiv:2601.16377v2</a>
+<a class="paper-badge" href="https://arxiv.org/pdf/2601.16377v2">PDF</a>
+<span class="paper-category">math.PR, math-ph</span>
+</div>
+:::
 
-- **[Exponential Absolute Minimizing extension and biased infinity Laplacian](http://arxiv.org/abs/2512.13664v1)** (Dec 15, 2025)
-  Yang Chu
+::: {.paper-card}
+<div class="paper-date">Jan 20, 2026</div>
+<div class="paper-title"><a href="https://arxiv.org/abs/2601.14170v1">Wasserstein distances between ERGMs and Erdős-Rényi models</a></div>
+<div class="paper-authors">Vilas Winstein</div>
+<div class="paper-links">
+<a class="paper-badge" href="https://arxiv.org/abs/2601.14170v1">arXiv:2601.14170v1</a>
+<a class="paper-badge" href="https://arxiv.org/pdf/2601.14170v1">PDF</a>
+<span class="paper-category">math.PR, cond-mat.stat-mech, cs.DM</span>
+</div>
+:::
 
-- **[Decoupling of clusters in independent sets in a percolated hypercube](http://arxiv.org/abs/2511.07350v1)** (Nov 10, 2025)
-  Mriganka Basu Roy Chowdhury, Shirshendu Ganguly, Vilas Winstein
+::: {.paper-card}
+<div class="paper-date">Jan 12, 2026</div>
+<div class="paper-title"><a href="https://arxiv.org/abs/2601.07169v1">Approximate FKG inequalities for phase-bound spin systems</a></div>
+<div class="paper-authors">Satyaki Mukherjee, Vilas Winstein</div>
+<div class="paper-links">
+<a class="paper-badge" href="https://arxiv.org/abs/2601.07169v1">arXiv:2601.07169v1</a>
+<a class="paper-badge" href="https://arxiv.org/pdf/2601.07169v1">PDF</a>
+<span class="paper-category">math.PR, cond-mat.stat-mech, cs.DM</span>
+</div>
+:::
 
-- **[On the Martin boundary for discrete TASEP](http://arxiv.org/abs/2510.23430v2)** (Oct 27, 2025)
-  Vadim Gorin, Sergei Korotkikh
+::: {.paper-card}
+<div class="paper-date">Dec 19, 2025</div>
+<div class="paper-title"><a href="https://arxiv.org/abs/2512.17823v2">van den Berg-Kesten--type correlation inequalities for disjoint polymers in the KPZ universality class</a></div>
+<div class="paper-authors">Shirshendu Ganguly, Milind Hegde, Lingfu Zhang</div>
+<div class="paper-links">
+<a class="paper-badge" href="https://arxiv.org/abs/2512.17823v2">arXiv:2512.17823v2</a>
+<a class="paper-badge" href="https://arxiv.org/pdf/2512.17823v2">PDF</a>
+<span class="paper-category">math.PR, math-ph</span>
+</div>
+:::
 
-- **[Travel Bans vs. Social Distancing: A Mathematical Analysis](http://arxiv.org/abs/2510.08895v1)** (Oct 10, 2025)
-  Christian Borgs, Karissa Huang, Geng Zhao
+::: {.paper-card}
+<div class="paper-date">Dec 17, 2025</div>
+<div class="paper-title"><a href="https://arxiv.org/abs/2512.15929v1">Make the most of what you have: Resource-efficient randomized algorithms for matrix computations</a></div>
+<div class="paper-authors">Ethan N. Epperly</div>
+<div class="paper-links">
+<a class="paper-badge" href="https://arxiv.org/abs/2512.15929v1">arXiv:2512.15929v1</a>
+<a class="paper-badge" href="https://arxiv.org/pdf/2512.15929v1">PDF</a>
+<span class="paper-category">math.NA, cs.DS, stat.CO</span>
+</div>
+:::
 
-- **[From tug-of-war to Brownian Boost: explicit ODE solutions for player-funded stochastic-differential games](http://arxiv.org/abs/2510.07682v4)** (Oct 09, 2025)
-  Alan Hammond
+::: {.paper-card}
+<div class="paper-date">Dec 15, 2025</div>
+<div class="paper-title"><a href="https://arxiv.org/abs/2512.13664v1">Exponential Absolute Minimizing extension and biased infinity Laplacian</a></div>
+<div class="paper-authors">Yang Chu</div>
+<div class="paper-links">
+<a class="paper-badge" href="https://arxiv.org/abs/2512.13664v1">arXiv:2512.13664v1</a>
+<a class="paper-badge" href="https://arxiv.org/pdf/2512.13664v1">PDF</a>
+<span class="paper-category">math.AP, math.MG, math.OC</span>
+</div>
+:::
 
-- **[On quantum to classical comparison for Davies generators](http://arxiv.org/abs/2510.07267v1)** (Oct 08, 2025)
-  Joao Basso, Shirshendu Ganguly, Alistair Sinclair, Nikhil Srivastava, Zachary Stier et al.
+::: {.paper-card}
+<div class="paper-date">Nov 10, 2025</div>
+<div class="paper-title"><a href="https://arxiv.org/abs/2511.07350v1">Decoupling of clusters in independent sets in a percolated hypercube</a></div>
+<div class="paper-authors">Mriganka Basu Roy Chowdhury, Shirshendu Ganguly, Vilas Winstein</div>
+<div class="paper-links">
+<a class="paper-badge" href="https://arxiv.org/abs/2511.07350v1">arXiv:2511.07350v1</a>
+<a class="paper-badge" href="https://arxiv.org/pdf/2511.07350v1">PDF</a>
+<span class="paper-category">math.PR, cond-mat.stat-mech, cs.DM</span>
+</div>
+:::
 
-- **[Adaptive randomized pivoting and volume sampling](http://arxiv.org/abs/2510.02513v1)** (Oct 02, 2025)
-  Ethan N. Epperly
+::: {.paper-card}
+<div class="paper-date">Oct 27, 2025</div>
+<div class="paper-title"><a href="https://arxiv.org/abs/2510.23430v2">On the Martin boundary for discrete TASEP</a></div>
+<div class="paper-authors">Vadim Gorin, Sergei Korotkikh</div>
+<div class="paper-links">
+<a class="paper-badge" href="https://arxiv.org/abs/2510.23430v2">arXiv:2510.23430v2</a>
+<a class="paper-badge" href="https://arxiv.org/pdf/2510.23430v2">PDF</a>
+<span class="paper-category">math.PR, math-ph, math.CO</span>
+</div>
+:::
 
-- **[Coupling Theory, Optimal Transport, and Strassen's Theorem Beyond Regular Orders](http://arxiv.org/abs/2509.21616v2)** (Sep 25, 2025)
-  Adam Quinn Jaffe, Daniel Raban
+::: {.paper-card}
+<div class="paper-date">Oct 10, 2025</div>
+<div class="paper-title"><a href="https://arxiv.org/abs/2510.08895v1">Travel Bans vs. Social Distancing: A Mathematical Analysis</a></div>
+<div class="paper-authors">Christian Borgs, Karissa Huang, Geng Zhao</div>
+<div class="paper-links">
+<a class="paper-badge" href="https://arxiv.org/abs/2510.08895v1">arXiv:2510.08895v1</a>
+<a class="paper-badge" href="https://arxiv.org/pdf/2510.08895v1">PDF</a>
+<span class="paper-category">math.PR</span>
+</div>
+:::
 
-- **[Largevars: An R Package for Testing Large VARs for the Presence of Cointegration](http://arxiv.org/abs/2509.06295v1)** (Sep 08, 2025)
-  Anna Bykhovskaya, Vadim Gorin, Eszter Kiss
+::: {.paper-card}
+<div class="paper-date">Oct 09, 2025</div>
+<div class="paper-title"><a href="https://arxiv.org/abs/2510.07682v5">From tug-of-war to Brownian Boost: explicit ODE solutions for player-funded stochastic-differential games</a></div>
+<div class="paper-authors">Alan Hammond</div>
+<div class="paper-links">
+<a class="paper-badge" href="https://arxiv.org/abs/2510.07682v5">arXiv:2510.07682v5</a>
+<a class="paper-badge" href="https://arxiv.org/pdf/2510.07682v5">PDF</a>
+<span class="paper-category">math.PR, econ.TH, math.CA</span>
+</div>
+:::
 
-- **[Faster Linear Algebra Algorithms with Structured Random Matrices](http://arxiv.org/abs/2508.21189v1)** (Aug 28, 2025)
-  Chris Camaño, Ethan N. Epperly, Raphael A. Meyer, Joel A. Tropp
+::: {.paper-card}
+<div class="paper-date">Oct 08, 2025</div>
+<div class="paper-title"><a href="https://arxiv.org/abs/2510.07267v1">On quantum to classical comparison for Davies generators</a></div>
+<div class="paper-authors">Joao Basso, Shirshendu Ganguly, Alistair Sinclair, Nikhil Srivastava, Zachary Stier, Thuy-Duong Vuong</div>
+<div class="paper-links">
+<a class="paper-badge" href="https://arxiv.org/abs/2510.07267v1">arXiv:2510.07267v1</a>
+<a class="paper-badge" href="https://arxiv.org/pdf/2510.07267v1">PDF</a>
+<span class="paper-category">quant-ph, cs.DS, math-ph</span>
+</div>
+:::
 
-- **[Does block size matter in randomized block Krylov low-rank approximation?](http://arxiv.org/abs/2508.06486v2)** (Aug 08, 2025)
-  Tyler Chen, Ethan N. Epperly, Raphael A. Meyer, Christopher Musco, Akash Rao
+::: {.paper-card}
+<div class="paper-date">Oct 02, 2025</div>
+<div class="paper-title"><a href="https://arxiv.org/abs/2510.02513v2">Adaptive randomized pivoting and volume sampling</a></div>
+<div class="paper-authors">Ethan N. Epperly</div>
+<div class="paper-links">
+<a class="paper-badge" href="https://arxiv.org/abs/2510.02513v2">arXiv:2510.02513v2</a>
+<a class="paper-badge" href="https://arxiv.org/pdf/2510.02513v2">PDF</a>
+<span class="paper-category">stat.ML, cs.DS, cs.LG</span>
+</div>
+:::
 
-- **[Advancing Science- and Evidence-based AI Policy](http://arxiv.org/abs/2508.02748v1)** (Aug 02, 2025)
-  Rishi Bommasani, Sanjeev Arora, Jennifer Chayes, Yejin Choi, Mariano-Florentino Cuéllar et al.
+::: {.paper-card}
+<div class="paper-date">Sep 25, 2025</div>
+<div class="paper-title"><a href="https://arxiv.org/abs/2509.21616v2">Coupling Theory, Optimal Transport, and Strassen's Theorem Beyond Regular Orders</a></div>
+<div class="paper-authors">Adam Quinn Jaffe, Daniel Raban</div>
+<div class="paper-links">
+<a class="paper-badge" href="https://arxiv.org/abs/2509.21616v2">arXiv:2509.21616v2</a>
+<a class="paper-badge" href="https://arxiv.org/pdf/2509.21616v2">PDF</a>
+<span class="paper-category">math.PR</span>
+</div>
+:::
 
-- **[Sharp moment and upper tail asymptotics for the critical $2d$ Stochastic Heat Flow](http://arxiv.org/abs/2507.22029v1)** (Jul 29, 2025)
-  Shirshendu Ganguly, Kyeongsik Nam
+::: {.paper-card}
+<div class="paper-date">Sep 08, 2025</div>
+<div class="paper-title"><a href="https://arxiv.org/abs/2509.06295v1">Largevars: An R Package for Testing Large VARs for the Presence of Cointegration</a></div>
+<div class="paper-authors">Anna Bykhovskaya, Vadim Gorin, Eszter Kiss</div>
+<div class="paper-links">
+<a class="paper-badge" href="https://arxiv.org/abs/2509.06295v1">arXiv:2509.06295v1</a>
+<a class="paper-badge" href="https://arxiv.org/pdf/2509.06295v1">PDF</a>
+<span class="paper-category">econ.EM, stat.CO, stat.ME</span>
+</div>
+:::
 
-- **[Global fluctuations for standard Young tableaux](http://arxiv.org/abs/2507.18601v2)** (Jul 24, 2025)
-  Gabriel Raposo
+::: {.paper-card}
+<div class="paper-date">Aug 28, 2025</div>
+<div class="paper-title"><a href="https://arxiv.org/abs/2508.21189v1">Faster Linear Algebra Algorithms with Structured Random Matrices</a></div>
+<div class="paper-authors">Chris Camaño, Ethan N. Epperly, Raphael A. Meyer, Joel A. Tropp</div>
+<div class="paper-links">
+<a class="paper-badge" href="https://arxiv.org/abs/2508.21189v1">arXiv:2508.21189v1</a>
+<a class="paper-badge" href="https://arxiv.org/pdf/2508.21189v1">PDF</a>
+<span class="paper-category">cs.DS, math.NA</span>
+</div>
+:::
 
-- **[How weak are weak factors? Uniform inference for signal strength in signal plus noise models](http://arxiv.org/abs/2507.18554v2)** (Jul 24, 2025)
-  Anna Bykhovskaya, Vadim Gorin, Sasha Sodin
+::: {.paper-card}
+<div class="paper-date">Aug 08, 2025</div>
+<div class="paper-title"><a href="https://arxiv.org/abs/2508.06486v2">Does block size matter in randomized block Krylov low-rank approximation?</a></div>
+<div class="paper-authors">Tyler Chen, Ethan N. Epperly, Raphael A. Meyer, Christopher Musco, Akash Rao</div>
+<div class="paper-links">
+<a class="paper-badge" href="https://arxiv.org/abs/2508.06486v2">arXiv:2508.06486v2</a>
+<a class="paper-badge" href="https://arxiv.org/pdf/2508.06486v2">PDF</a>
+<span class="paper-category">cs.DS, math.NA</span>
+</div>
+:::
 
-- **[Modulated Poisson-Dirichlet diffusions arising from inclusion processes with a slow phase](http://arxiv.org/abs/2507.13799v1)** (Jul 18, 2025)
-  Simon Gabriel
+::: {.paper-card}
+<div class="paper-date">Aug 02, 2025</div>
+<div class="paper-title"><a href="https://arxiv.org/abs/2508.02748v1">Advancing Science- and Evidence-based AI Policy</a></div>
+<div class="paper-authors">Rishi Bommasani, Sanjeev Arora, Jennifer Chayes, Yejin Choi, Mariano-Florentino Cuéllar, Li Fei-Fei, Daniel E. Ho, Dan Jurafsky et al.</div>
+<div class="paper-links">
+<a class="paper-badge" href="https://arxiv.org/abs/2508.02748v1">arXiv:2508.02748v1</a>
+<a class="paper-badge" href="https://arxiv.org/pdf/2508.02748v1">PDF</a>
+<span class="paper-category">cs.CY</span>
+</div>
+:::
 
-- **[Quantitative central limit theorems for exponential random graphs](http://arxiv.org/abs/2507.10531v2)** (Jul 14, 2025)
-  Vilas Winstein
+::: {.paper-card}
+<div class="paper-date">Jul 29, 2025</div>
+<div class="paper-title"><a href="https://arxiv.org/abs/2507.22029v1">Sharp moment and upper tail asymptotics for the critical $2d$ Stochastic Heat Flow</a></div>
+<div class="paper-authors">Shirshendu Ganguly, Kyeongsik Nam</div>
+<div class="paper-links">
+<a class="paper-badge" href="https://arxiv.org/abs/2507.22029v1">arXiv:2507.22029v1</a>
+<a class="paper-badge" href="https://arxiv.org/pdf/2507.22029v1">PDF</a>
+<span class="paper-category">math.PR, math-ph</span>
+</div>
+:::
 
-- **[Spectral properties of the zero temperature Edwards-Anderson model](http://arxiv.org/abs/2507.10507v1)** (Jul 14, 2025)
-  Mriganka Basu Roy Chowdhury, Shirshendu Ganguly
+::: {.paper-card}
+<div class="paper-date">Jul 24, 2025</div>
+<div class="paper-title"><a href="https://arxiv.org/abs/2507.18601v2">Global fluctuations for standard Young tableaux</a></div>
+<div class="paper-authors">Gabriel Raposo</div>
+<div class="paper-links">
+<a class="paper-badge" href="https://arxiv.org/abs/2507.18601v2">arXiv:2507.18601v2</a>
+<a class="paper-badge" href="https://arxiv.org/pdf/2507.18601v2">PDF</a>
+<span class="paper-category">math.PR, math-ph, math.CO</span>
+</div>
+:::
 
-- **[Detecting weighted hidden cliques](http://arxiv.org/abs/2506.21543v1)** (Jun 26, 2025)
-  Urmisha Chatterjee, Karissa Huang, Ritabrata Karmakar, B. R. Vinay Kumar, Gábor Lugosi et al.
+::: {.paper-card}
+<div class="paper-date">Jul 24, 2025</div>
+<div class="paper-title"><a href="https://arxiv.org/abs/2507.18554v2">How weak are weak factors? Uniform inference for signal strength in signal plus noise models</a></div>
+<div class="paper-authors">Anna Bykhovskaya, Vadim Gorin, Sasha Sodin</div>
+<div class="paper-links">
+<a class="paper-badge" href="https://arxiv.org/abs/2507.18554v2">arXiv:2507.18554v2</a>
+<a class="paper-badge" href="https://arxiv.org/pdf/2507.18554v2">PDF</a>
+<span class="paper-category">stat.ME, econ.EM, math.PR</span>
+</div>
+:::
 
-- **[The California Report on Frontier AI Policy](http://arxiv.org/abs/2506.17303v1)** (Jun 17, 2025)
-  Rishi Bommasani, Scott R. Singer, Ruth E. Appel, Sarah Cen, A. Feder Cooper et al.
+::: {.paper-card}
+<div class="paper-date">Jul 18, 2025</div>
+<div class="paper-title"><a href="https://arxiv.org/abs/2507.13799v1">Modulated Poisson-Dirichlet diffusions arising from inclusion processes with a slow phase</a></div>
+<div class="paper-authors">Simon Gabriel</div>
+<div class="paper-links">
+<a class="paper-badge" href="https://arxiv.org/abs/2507.13799v1">arXiv:2507.13799v1</a>
+<a class="paper-badge" href="https://arxiv.org/pdf/2507.13799v1">PDF</a>
+<span class="paper-category">math.PR, cond-mat.stat-mech</span>
+</div>
+:::
 
-- **[Branch lengths for geodesics in the directed landscape and mutation patterns in growing spatially structured populations](http://arxiv.org/abs/2506.01787v1)** (Jun 02, 2025)
-  Shirshendu Ganguly, Jason Schweinsberg, Yubo Shuai
+::: {.paper-card}
+<div class="paper-date">Jul 14, 2025</div>
+<div class="paper-title"><a href="https://arxiv.org/abs/2507.10531v2">Quantitative central limit theorems for exponential random graphs</a></div>
+<div class="paper-authors">Vilas Winstein</div>
+<div class="paper-links">
+<a class="paper-badge" href="https://arxiv.org/abs/2507.10531v2">arXiv:2507.10531v2</a>
+<a class="paper-badge" href="https://arxiv.org/pdf/2507.10531v2">PDF</a>
+<span class="paper-category">math.PR, cond-mat.stat-mech, cs.DM</span>
+</div>
+:::
 
-- **[Laws of Large Numbers for Information Resolution](http://arxiv.org/abs/2505.07958v1)** (May 12, 2025)
-  Daniel Raban
+::: {.paper-card}
+<div class="paper-date">Jul 14, 2025</div>
+<div class="paper-title"><a href="https://arxiv.org/abs/2507.10507v1">Spectral properties of the zero temperature Edwards-Anderson model</a></div>
+<div class="paper-authors">Mriganka Basu Roy Chowdhury, Shirshendu Ganguly</div>
+<div class="paper-links">
+<a class="paper-badge" href="https://arxiv.org/abs/2507.10507v1">arXiv:2507.10507v1</a>
+<a class="paper-badge" href="https://arxiv.org/pdf/2507.10507v1">PDF</a>
+<span class="paper-category">math.PR, cond-mat.dis-nn, math-ph</span>
+</div>
+:::
 
-- **[System of Agentic AI for the Discovery of Metal-Organic Frameworks](http://arxiv.org/abs/2504.14110v1)** (Apr 18, 2025)
-  Theo Jaffrelot Inizan, Sherry Yang, Aaron Kaplan, Yen-hsu Lin, Jian Yin et al.
+::: {.paper-card}
+<div class="paper-date">Jun 26, 2025</div>
+<div class="paper-title"><a href="https://arxiv.org/abs/2506.21543v1">Detecting weighted hidden cliques</a></div>
+<div class="paper-authors">Urmisha Chatterjee, Karissa Huang, Ritabrata Karmakar, B. R. Vinay Kumar, Gábor Lugosi, Nandan Malhotra, Anirban Mandal, Maruf Alam Tarafdar</div>
+<div class="paper-links">
+<a class="paper-badge" href="https://arxiv.org/abs/2506.21543v1">arXiv:2506.21543v1</a>
+<a class="paper-badge" href="https://arxiv.org/pdf/2506.21543v1">PDF</a>
+<span class="paper-category">math.ST, cs.IT, math.PR</span>
+</div>
+:::
 
-- **[Successive randomized compression: A randomized algorithm for the compressed MPO-MPS product](http://arxiv.org/abs/2504.06475v2)** (Apr 08, 2025)
-  Chris Camaño, Ethan N. Epperly, Joel A. Tropp
+::: {.paper-card}
+<div class="paper-date">Jun 17, 2025</div>
+<div class="paper-title"><a href="https://arxiv.org/abs/2506.17303v1">The California Report on Frontier AI Policy</a></div>
+<div class="paper-authors">Rishi Bommasani, Scott R. Singer, Ruth E. Appel, Sarah Cen, A. Feder Cooper, Elena Cryst, Lindsey A. Gailmard, Ian Klaus et al.</div>
+<div class="paper-links">
+<a class="paper-badge" href="https://arxiv.org/abs/2506.17303v1">arXiv:2506.17303v1</a>
+<a class="paper-badge" href="https://arxiv.org/pdf/2506.17303v1">PDF</a>
+<span class="paper-category">cs.CY</span>
+</div>
+:::
 
-- **[Concentration via metastable mixing, with applications to the supercritical exponential random graph model](http://arxiv.org/abs/2503.07571v2)** (Mar 10, 2025)
-  Vilas Winstein
+::: {.paper-card}
+<div class="paper-date">Jun 02, 2025</div>
+<div class="paper-title"><a href="https://arxiv.org/abs/2506.01787v2">Branch lengths for geodesics in the directed landscape and mutation patterns in growing spatially structured populations</a></div>
+<div class="paper-authors">Shirshendu Ganguly, Jason Schweinsberg, Yubo Shuai</div>
+<div class="paper-links">
+<a class="paper-badge" href="https://arxiv.org/abs/2506.01787v2">arXiv:2506.01787v2</a>
+<a class="paper-badge" href="https://arxiv.org/pdf/2506.01787v2">PDF</a>
+<span class="paper-category">math.PR, q-bio.PE</span>
+</div>
+:::
+
+::: {.paper-card}
+<div class="paper-date">May 12, 2025</div>
+<div class="paper-title"><a href="https://arxiv.org/abs/2505.07958v1">Laws of Large Numbers for Information Resolution</a></div>
+<div class="paper-authors">Daniel Raban</div>
+<div class="paper-links">
+<a class="paper-badge" href="https://arxiv.org/abs/2505.07958v1">arXiv:2505.07958v1</a>
+<a class="paper-badge" href="https://arxiv.org/pdf/2505.07958v1">PDF</a>
+<span class="paper-category">math.PR, math.ST</span>
+</div>
+:::

@@ -1,31 +1,170 @@
-*Last updated March 05, 2026. See more [here](contents/all-papers.qmd).*
+```{=html}
+<style>
+.paper-list-updated {
+  color: #555;
+  margin-bottom: 1rem;
+}
 
-- **[Fluctuations in the weakly coupled 4D Anderson Hamiltonian](http://arxiv.org/abs/2602.22509v1)** (Feb 26, 2026)
-  Simon Gabriel, Tommaso Rosati
+.paper-card {
+  border-top: 1px solid #d8dee6;
+  padding: 1rem 0 1.1rem 0;
+  margin: 0;
+}
 
-- **[Fast, High-Accuracy, Randomized Nullspace Computations for Tall Matrices](http://arxiv.org/abs/2602.16797v1)** (Feb 18, 2026)
-  Ethan N. Epperly, Taejun Park, Yuji Nakatsukasa
+.paper-card:last-child {
+  border-bottom: 1px solid #d8dee6;
+}
 
-- **[Finite Free Information Inequalities](http://arxiv.org/abs/2602.15822v1)** (Feb 17, 2026)
-  Jorge Garza-Vargas, Nikhil Srivastava, Zachary Stier
+.paper-date {
+  color: #666;
+  font-size: 0.9em;
+  margin-bottom: 0.15rem;
+}
 
-- **[Linear Systems and Eigenvalue Problems: Open Questions from a Simons Workshop](http://arxiv.org/abs/2602.05394v1)** (Feb 05, 2026)
-  Noah Amsel, Yves Baumann, Paul Beckman, Peter Bürgisser, Chris Camaño et al.
+.paper-title {
+  font-size: 1.05em;
+  font-weight: 700;
+  line-height: 1.35;
+}
 
-- **[First Proof](http://arxiv.org/abs/2602.05192v1)** (Feb 05, 2026)
-  Mohammed Abouzaid, Andrew J. Blumberg, Martin Hairer, Joe Kileel, Tamara G. Kolda et al.
+.paper-authors {
+  color: #333;
+  margin-top: 0.2rem;
+}
 
-- **[The matrix-vector complexity of $Ax=b$](http://arxiv.org/abs/2602.04842v2)** (Feb 04, 2026)
-  Michał Dereziński, Ethan N. Epperly, Raphael A. Meyer
+.paper-links {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.4rem;
+  margin-top: 0.45rem;
+}
 
-- **[Macroscopic asymptotics in discrete beta-ensembles and random tilings](http://arxiv.org/abs/2601.16377v2)** (Jan 23, 2026)
-  Gaëtan Borot, Vadim Gorin, Alice Guionnet
+.paper-badge,
+.paper-category {
+  border: 1px solid #d4dce5;
+  border-radius: 4px;
+  color: #1a6aab;
+  display: inline-block;
+  font-size: 0.82em;
+  line-height: 1;
+  padding: 0.28rem 0.42rem;
+}
 
-- **[Wasserstein distances between ERGMs and Erdős-Rényi models](http://arxiv.org/abs/2601.14170v1)** (Jan 20, 2026)
-  Vilas Winstein
+.paper-category {
+  color: #555;
+}
+</style>
+```
 
-- **[Approximate FKG inequalities for phase-bound spin systems](http://arxiv.org/abs/2601.07169v1)** (Jan 12, 2026)
-  Satyaki Mukherjee, Vilas Winstein
+<p class="paper-list-updated"><em>Last updated May 06, 2026. See more <a href="contents/all-papers.qmd">here</a>.</em></p>
 
-- **[van den Berg-Kesten--type correlation inequalities for disjoint polymers in the KPZ universality class](http://arxiv.org/abs/2512.17823v2)** (Dec 19, 2025)
-  Shirshendu Ganguly, Milind Hegde, Lingfu Zhang
+::: {.paper-card}
+<div class="paper-date">May 04, 2026</div>
+<div class="paper-title"><a href="https://arxiv.org/abs/2605.03206v1">The maximum-entropy median-martingale</a></div>
+<div class="paper-authors">Rikhav Shah, Vilas Winstein</div>
+<div class="paper-links">
+<a class="paper-badge" href="https://arxiv.org/abs/2605.03206v1">arXiv:2605.03206v1</a>
+<a class="paper-badge" href="https://arxiv.org/pdf/2605.03206v1">PDF</a>
+<span class="paper-category">math.PR</span>
+</div>
+:::
+
+::: {.paper-card}
+<div class="paper-date">Apr 30, 2026</div>
+<div class="paper-title"><a href="https://arxiv.org/abs/2604.27619v1">Rising GUE Eigenvalue Process from a Fixed Level</a></div>
+<div class="paper-authors">Zoe Himwich</div>
+<div class="paper-links">
+<a class="paper-badge" href="https://arxiv.org/abs/2604.27619v1">arXiv:2604.27619v1</a>
+<a class="paper-badge" href="https://arxiv.org/pdf/2604.27619v1">PDF</a>
+<span class="paper-category">math.PR</span>
+</div>
+:::
+
+::: {.paper-card}
+<div class="paper-date">Mar 17, 2026</div>
+<div class="paper-title"><a href="https://arxiv.org/abs/2603.17177v1">Discrete RG flow of a hierarchical singular SPDE</a></div>
+<div class="paper-authors">Leonard Ferdinand, Simon Gabriel</div>
+<div class="paper-links">
+<a class="paper-badge" href="https://arxiv.org/abs/2603.17177v1">arXiv:2603.17177v1</a>
+<a class="paper-badge" href="https://arxiv.org/pdf/2603.17177v1">PDF</a>
+<span class="paper-category">math.PR</span>
+</div>
+:::
+
+::: {.paper-card}
+<div class="paper-date">Mar 17, 2026</div>
+<div class="paper-title"><a href="https://arxiv.org/abs/2603.18053v1">Auditing the Auditors: Does Community-based Moderation Get It Right?</a></div>
+<div class="paper-authors">Yeganeh Alimohammadi, Karissa Huang, Christian Borgs, Jennifer Chayes</div>
+<div class="paper-links">
+<a class="paper-badge" href="https://arxiv.org/abs/2603.18053v1">arXiv:2603.18053v1</a>
+<a class="paper-badge" href="https://arxiv.org/pdf/2603.18053v1">PDF</a>
+<span class="paper-category">cs.SI, cs.CY, econ.GN</span>
+</div>
+:::
+
+::: {.paper-card}
+<div class="paper-date">Feb 26, 2026</div>
+<div class="paper-title"><a href="https://arxiv.org/abs/2602.22509v1">Fluctuations in the weakly coupled 4D Anderson Hamiltonian</a></div>
+<div class="paper-authors">Simon Gabriel, Tommaso Rosati</div>
+<div class="paper-links">
+<a class="paper-badge" href="https://arxiv.org/abs/2602.22509v1">arXiv:2602.22509v1</a>
+<a class="paper-badge" href="https://arxiv.org/pdf/2602.22509v1">PDF</a>
+<span class="paper-category">math.PR, math.AP</span>
+</div>
+:::
+
+::: {.paper-card}
+<div class="paper-date">Feb 18, 2026</div>
+<div class="paper-title"><a href="https://arxiv.org/abs/2602.16797v1">Fast, High-Accuracy, Randomized Nullspace Computations for Tall Matrices</a></div>
+<div class="paper-authors">Ethan N. Epperly, Taejun Park, Yuji Nakatsukasa</div>
+<div class="paper-links">
+<a class="paper-badge" href="https://arxiv.org/abs/2602.16797v1">arXiv:2602.16797v1</a>
+<a class="paper-badge" href="https://arxiv.org/pdf/2602.16797v1">PDF</a>
+<span class="paper-category">math.NA</span>
+</div>
+:::
+
+::: {.paper-card}
+<div class="paper-date">Feb 17, 2026</div>
+<div class="paper-title"><a href="https://arxiv.org/abs/2602.15822v1">Finite Free Information Inequalities</a></div>
+<div class="paper-authors">Jorge Garza-Vargas, Nikhil Srivastava, Zachary Stier</div>
+<div class="paper-links">
+<a class="paper-badge" href="https://arxiv.org/abs/2602.15822v1">arXiv:2602.15822v1</a>
+<a class="paper-badge" href="https://arxiv.org/pdf/2602.15822v1">PDF</a>
+<span class="paper-category">math.PR, math.CA, math.CO</span>
+</div>
+:::
+
+::: {.paper-card}
+<div class="paper-date">Feb 05, 2026</div>
+<div class="paper-title"><a href="https://arxiv.org/abs/2602.05394v2">Linear Systems and Eigenvalue Problems: Open Questions from a Simons Workshop</a></div>
+<div class="paper-authors">Noah Amsel, Yves Baumann, Paul Beckman, Peter Bürgisser, Chris Camaño, Tyler Chen, Edmond Chow, Anil Damle et al.</div>
+<div class="paper-links">
+<a class="paper-badge" href="https://arxiv.org/abs/2602.05394v2">arXiv:2602.05394v2</a>
+<a class="paper-badge" href="https://arxiv.org/pdf/2602.05394v2">PDF</a>
+<span class="paper-category">math.NA, cs.DS</span>
+</div>
+:::
+
+::: {.paper-card}
+<div class="paper-date">Feb 05, 2026</div>
+<div class="paper-title"><a href="https://arxiv.org/abs/2602.05192v2">First Proof</a></div>
+<div class="paper-authors">Mohammed Abouzaid, Andrew J. Blumberg, Martin Hairer, Joe Kileel, Tamara G. Kolda, Paul D. Nelson, Daniel Spielman, Nikhil Srivastava et al.</div>
+<div class="paper-links">
+<a class="paper-badge" href="https://arxiv.org/abs/2602.05192v2">arXiv:2602.05192v2</a>
+<a class="paper-badge" href="https://arxiv.org/pdf/2602.05192v2">PDF</a>
+<span class="paper-category">cs.AI, math.AG, math.CO</span>
+</div>
+:::
+
+::: {.paper-card}
+<div class="paper-date">Feb 04, 2026</div>
+<div class="paper-title"><a href="https://arxiv.org/abs/2602.04842v2">The matrix-vector complexity of $Ax=b$</a></div>
+<div class="paper-authors">Michał Dereziński, Ethan N. Epperly, Raphael A. Meyer</div>
+<div class="paper-links">
+<a class="paper-badge" href="https://arxiv.org/abs/2602.04842v2">arXiv:2602.04842v2</a>
+<a class="paper-badge" href="https://arxiv.org/pdf/2602.04842v2">PDF</a>
+<span class="paper-category">cs.DS, math.NA, math.OC</span>
+</div>
+:::
