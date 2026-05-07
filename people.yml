@@ -1,4 +1,8 @@
 people:
+  # Emeritus
+  - name: "David Aldous"
+  - name: "Jim Pitman"
+
   # Faculty
   - name: "Jennifer Chayes"
   - name: "Steven Evans"
@@ -15,6 +19,7 @@ people:
   - name: "Ethan Epperly"
   - name: "Simon Gabriel"
   - name: "Zoe Himwich"
+  - name: "Arash Jamshidpey"
 
   # Students
   - name: "Jorge Blanco"
@@ -23,7 +28,13 @@ people:
   - name: "Karissa Huang"
   - name: "Kaihao Jing"
   - name: "Philip LaPorte"
+  - name: "Zoe McDonald"
   - name: "Daniel Raban"
   - name: "Gabriel Raposo"
   - name: "Vilas Winstein"
   - name: "Chris Yao"
+
+  # Friends of Probability
+  - name: "Lisa Goldberg"
+  - name: "Dan-Virgil Voiculescu"
+  - name: "Nikita Zhivotovskiy"

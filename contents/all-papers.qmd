@@ -59,7 +59,7 @@
 
 ### Papers
 
-<p class="paper-list-updated"><em>Last updated May 06, 2026. Papers going back ~1 year.</em></p>
+<p class="paper-list-updated"><em>Last updated May 07, 2026. Papers going back ~1 year.</em></p>
 
 ::: {.paper-card}
 <div class="paper-date">May 04, 2026</div>
@@ -73,6 +73,17 @@
 :::
 
 ::: {.paper-card}
+<div class="paper-date">May 02, 2026</div>
+<div class="paper-title"><a href="https://arxiv.org/abs/2605.01628v1">Self-Normalized Martingales and Uniform Regret Bounds for Linear Regression</a></div>
+<div class="paper-authors">Fan Chen, Jian Qian, Alexander Rakhlin, Nikita Zhivotovskiy</div>
+<div class="paper-links">
+<a class="paper-badge" href="https://arxiv.org/abs/2605.01628v1">arXiv:2605.01628v1</a>
+<a class="paper-badge" href="https://arxiv.org/pdf/2605.01628v1">PDF</a>
+<span class="paper-category">stat.ML, cs.LG, math.ST</span>
+</div>
+:::
+
+::: {.paper-card}
 <div class="paper-date">Apr 30, 2026</div>
 <div class="paper-title"><a href="https://arxiv.org/abs/2604.27619v1">Rising GUE Eigenvalue Process from a Fixed Level</a></div>
 <div class="paper-authors">Zoe Himwich</div>
@@ -80,6 +91,28 @@
 <a class="paper-badge" href="https://arxiv.org/abs/2604.27619v1">arXiv:2604.27619v1</a>
 <a class="paper-badge" href="https://arxiv.org/pdf/2604.27619v1">PDF</a>
 <span class="paper-category">math.PR</span>
+</div>
+:::
+
+::: {.paper-card}
+<div class="paper-date">Apr 30, 2026</div>
+<div class="paper-title"><a href="https://arxiv.org/abs/2604.27287v1">A Levered ETF Anomaly Explained</a></div>
+<div class="paper-authors">Stephen W. Bianchi, Lisa R. Goldberg</div>
+<div class="paper-links">
+<a class="paper-badge" href="https://arxiv.org/abs/2604.27287v1">arXiv:2604.27287v1</a>
+<a class="paper-badge" href="https://arxiv.org/pdf/2604.27287v1">PDF</a>
+<span class="paper-category">q-fin.PM</span>
+</div>
+:::
+
+::: {.paper-card}
+<div class="paper-date">Apr 03, 2026</div>
+<div class="paper-title"><a href="https://arxiv.org/abs/2604.02920v1">Efficient Logistic Regression with Mixture of Sigmoids</a></div>
+<div class="paper-authors">Federico Di Gennaro, Saptarshi Chakraborty, Nikita Zhivotovskiy</div>
+<div class="paper-links">
+<a class="paper-badge" href="https://arxiv.org/abs/2604.02920v1">arXiv:2604.02920v1</a>
+<a class="paper-badge" href="https://arxiv.org/pdf/2604.02920v1">PDF</a>
+<span class="paper-category">cs.LG</span>
 </div>
 :::
 
@@ -106,6 +139,17 @@
 :::
 
 ::: {.paper-card}
+<div class="paper-date">Mar 03, 2026</div>
+<div class="paper-title"><a href="https://arxiv.org/abs/2603.02714v1">Gaussian Width of Convex Sets via Integral Decompositions, Projections, and the Distribution of Intrinsic Volumes</a></div>
+<div class="paper-authors">Reese Pathak, Nikita Zhivotovskiy</div>
+<div class="paper-links">
+<a class="paper-badge" href="https://arxiv.org/abs/2603.02714v1">arXiv:2603.02714v1</a>
+<a class="paper-badge" href="https://arxiv.org/pdf/2603.02714v1">PDF</a>
+<span class="paper-category">math.PR, cs.IT, math.ST</span>
+</div>
+:::
+
+::: {.paper-card}
 <div class="paper-date">Feb 26, 2026</div>
 <div class="paper-title"><a href="https://arxiv.org/abs/2602.22509v1">Fluctuations in the weakly coupled 4D Anderson Hamiltonian</a></div>
 <div class="paper-authors">Simon Gabriel, Tommaso Rosati</div>
@@ -124,6 +168,17 @@
 <a class="paper-badge" href="https://arxiv.org/abs/2602.16797v1">arXiv:2602.16797v1</a>
 <a class="paper-badge" href="https://arxiv.org/pdf/2602.16797v1">PDF</a>
 <span class="paper-category">math.NA</span>
+</div>
+:::
+
+::: {.paper-card}
+<div class="paper-date">Feb 18, 2026</div>
+<div class="paper-title"><a href="https://arxiv.org/abs/2602.16142v2">Ratio Covers of Convex Sets and Optimal Mixture Density Estimation</a></div>
+<div class="paper-authors">Spencer Compton, Gábor Lugosi, Jaouad Mourtada, Jian Qian, Nikita Zhivotovskiy</div>
+<div class="paper-links">
+<a class="paper-badge" href="https://arxiv.org/abs/2602.16142v2">arXiv:2602.16142v2</a>
+<a class="paper-badge" href="https://arxiv.org/pdf/2602.16142v2">PDF</a>
+<span class="paper-category">math.ST, cs.CG, cs.LG</span>
 </div>
 :::
 
@@ -238,6 +293,17 @@
 :::
 
 ::: {.paper-card}
+<div class="paper-date">Nov 20, 2025</div>
+<div class="paper-title"><a href="https://arxiv.org/abs/2511.16072v1">Early science acceleration experiments with GPT-5</a></div>
+<div class="paper-authors">Sébastien Bubeck, Christian Coester, Ronen Eldan, Timothy Gowers, Yin Tat Lee, Alexandru Lupsasca, Mehtaab Sawhney, Robert Scherrer et al.</div>
+<div class="paper-links">
+<a class="paper-badge" href="https://arxiv.org/abs/2511.16072v1">arXiv:2511.16072v1</a>
+<a class="paper-badge" href="https://arxiv.org/pdf/2511.16072v1">PDF</a>
+<span class="paper-category">cs.CL, cs.AI</span>
+</div>
+:::
+
+::: {.paper-card}
 <div class="paper-date">Nov 10, 2025</div>
 <div class="paper-title"><a href="https://arxiv.org/abs/2511.07350v1">Decoupling of clusters in independent sets in a percolated hypercube</a></div>
 <div class="paper-authors">Mriganka Basu Roy Chowdhury, Shirshendu Ganguly, Vilas Winstein</div>
@@ -261,11 +327,11 @@
 
 ::: {.paper-card}
 <div class="paper-date">Oct 10, 2025</div>
-<div class="paper-title"><a href="https://arxiv.org/abs/2510.08895v1">Travel Bans vs. Social Distancing: A Mathematical Analysis</a></div>
+<div class="paper-title"><a href="https://arxiv.org/abs/2510.08895v2">Travel Bans vs. Other Disease Mitigation Measures: A Mathematical Analysis</a></div>
 <div class="paper-authors">Christian Borgs, Karissa Huang, Geng Zhao</div>
 <div class="paper-links">
-<a class="paper-badge" href="https://arxiv.org/abs/2510.08895v1">arXiv:2510.08895v1</a>
-<a class="paper-badge" href="https://arxiv.org/pdf/2510.08895v1">PDF</a>
+<a class="paper-badge" href="https://arxiv.org/abs/2510.08895v2">arXiv:2510.08895v2</a>
+<a class="paper-badge" href="https://arxiv.org/pdf/2510.08895v2">PDF</a>
 <span class="paper-category">math.PR</span>
 </div>
 :::
@@ -421,6 +487,17 @@
 <a class="paper-badge" href="https://arxiv.org/abs/2507.10507v1">arXiv:2507.10507v1</a>
 <a class="paper-badge" href="https://arxiv.org/pdf/2507.10507v1">PDF</a>
 <span class="paper-category">math.PR, cond-mat.dis-nn, math-ph</span>
+</div>
+:::
+
+::: {.paper-card}
+<div class="paper-date">Jul 08, 2025</div>
+<div class="paper-title"><a href="https://arxiv.org/abs/2507.06226v1">Consistency and Inconsistency in $K$-Means Clustering</a></div>
+<div class="paper-authors">Moïse Blanchard, Adam Quinn Jaffe, Nikita Zhivotovskiy</div>
+<div class="paper-links">
+<a class="paper-badge" href="https://arxiv.org/abs/2507.06226v1">arXiv:2507.06226v1</a>
+<a class="paper-badge" href="https://arxiv.org/pdf/2507.06226v1">PDF</a>
+<span class="paper-category">math.ST, math.PR, stat.ML</span>
 </div>
 :::
 

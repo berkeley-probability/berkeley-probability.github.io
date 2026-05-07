@@ -7,6 +7,8 @@ Berkeley Statistical Machine Learning Group (Stat ML) homepage.
 - Go to faculty.qmd, student.qmd, or alumni.qmd under `contents` folder.
 - Copy and paste an existing entry, and change the information accordingly.
 - Note that headshot image file should be in `images` folder.
+- Add the person's name to `people.yml` if their arXiv papers should appear in
+  the generated recent/all papers lists.
 - Then the information will be automatically shown up following the 
   faculty-card/student-card/alumni-card template. (cf. The card templates are 
   defined in `_extensions` folder.)

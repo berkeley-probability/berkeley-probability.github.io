@@ -1,9 +1,9 @@
 """
 fetch_arxiv.py
 
-Fetches recent arXiv papers for faculty listed in people.yml and writes:
-  - contents/recent-papers.qmd  : last 6 months, up to 10 papers (homepage)
-  - contents/all-papers.qmd     : last 12 months, up to 50 papers (research page)
+Fetches recent arXiv papers for people listed in people.yml and writes:
+  - contents/recent-papers.qmd  : papers from the last 6 months (homepage)
+  - contents/all-papers.qmd     : papers from the last 12 months (research page)
 
 Run from the project root:
     python3 scripts/fetch_arxiv.py
@@ -161,15 +161,15 @@ def fetch_arxiv_response(query):
 
 
 def get_papers():
-    """Fetch all papers from arXiv for all faculty in one request."""
+    """Fetch all papers from arXiv for all people in one request."""
 
-    # Load faculty names from people.yml
+    # Load names from people.yml.
     with open(PEOPLE_FILE) as f:
         people = yaml.safe_load(f)
-    faculty = people.get("people", [])
+    roster = people.get("people", [])
 
     # Build a single search query: au:"Name1" OR au:"Name2" OR ...
-    names = [p["name"] for p in faculty if p.get("name")]
+    names = [p["name"] for p in roster if p.get("name")]
     query = " OR ".join(f'au:"{name}"' for name in names)
 
     # Call the arXiv API
@@ -216,7 +216,7 @@ def write_output(papers, filepath):
     today = datetime.now().strftime("%B %d, %Y")
     is_short = filepath == SHORT_FILE
     if is_short:
-        blurb = f'<p class="paper-list-updated"><em>Last updated {today}. See more <a href="contents/all-papers.qmd">here</a>.</em></p>'
+        blurb = f'<p class="paper-list-updated"><em>Last updated {today}. Papers from the last 6 months. See more <a href="contents/all-papers.qmd">here</a>.</em></p>'
     else:
         blurb = f'### Papers\n\n<p class="paper-list-updated"><em>Last updated {today}. Papers going back ~1 year.</em></p>'
     lines = [paper_list_styles(), "", blurb, ""]
@@ -247,7 +247,7 @@ def write_output(papers, filepath):
 
 def main():
     # Step 1: Fetch all papers in one request
-    print("Step 1: Loading faculty names from people.yml...")
+    print("Step 1: Loading names from people.yml...")
     print("Step 2: Sending request to arXiv API (this may take a few seconds)...")
     all_papers = get_papers()
     print(f"Step 3: Done! Retrieved {len(all_papers)} papers from arXiv.\n")
@@ -256,13 +256,13 @@ def main():
 
     # Step 4: Filter and write the short list (homepage)
     cutoff_short = now - timedelta(days=180)
-    short_papers = [p for p in all_papers if p["date"] >= cutoff_short][:10]
+    short_papers = [p for p in all_papers if p["date"] >= cutoff_short]
     print(f"Step 4: Filtered to {len(short_papers)} papers from the last 6 months (homepage).")
     write_output(short_papers, SHORT_FILE)
 
     # Step 5: Filter and write the long list (research page)
     cutoff_long = now - timedelta(days=365)
-    long_papers = [p for p in all_papers if p["date"] >= cutoff_long][:50]
+    long_papers = [p for p in all_papers if p["date"] >= cutoff_long]
     print(f"Step 5: Filtered to {len(long_papers)} papers from the last 12 months (research page).")
     write_output(long_papers, LONG_FILE)
 
