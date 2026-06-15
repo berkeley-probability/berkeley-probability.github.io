@@ -57,15 +57,70 @@
 </style>
 ```
 
-<p class="paper-list-updated"><em>Last updated May 07, 2026. Papers from the last 6 months. See more <a href="contents/all-papers.qmd">here</a>.</em></p>
+<p class="paper-list-updated"><em>Last updated June 15, 2026. Papers from the last 6 months. See more <a href="contents/all-papers.qmd">here</a>.</em></p>
+
+::: {.paper-card}
+<div class="paper-date">Jun 11, 2026</div>
+<div class="paper-title"><a href="https://arxiv.org/abs/2606.13614v1">Majority-of-Three is Optimal</a></div>
+<div class="paper-authors">Divit Rawal, Nikita Zhivotovskiy</div>
+<div class="paper-links">
+<a class="paper-badge" href="https://arxiv.org/abs/2606.13614v1">arXiv:2606.13614v1</a>
+<a class="paper-badge" href="https://arxiv.org/pdf/2606.13614v1">PDF</a>
+<span class="paper-category">stat.ML, cs.LG, math.ST</span>
+</div>
+:::
+
+::: {.paper-card}
+<div class="paper-date">Jun 02, 2026</div>
+<div class="paper-title"><a href="https://arxiv.org/abs/2606.03973v2">A remark on the majorizing measures theorem for general processes</a></div>
+<div class="paper-authors">Reese Pathak, Nikita Zhivotovskiy</div>
+<div class="paper-links">
+<a class="paper-badge" href="https://arxiv.org/abs/2606.03973v2">arXiv:2606.03973v2</a>
+<a class="paper-badge" href="https://arxiv.org/pdf/2606.03973v2">PDF</a>
+<span class="paper-category">math.PR, cs.IT, math.ST</span>
+</div>
+:::
+
+::: {.paper-card}
+<div class="paper-date">May 27, 2026</div>
+<div class="paper-title"><a href="https://arxiv.org/abs/2605.28677v1">Weak universality for stochastic reaction-diffusion models with long-range correlated noise</a></div>
+<div class="paper-authors">Simon Gabriel, Markus Tempelmayr</div>
+<div class="paper-links">
+<a class="paper-badge" href="https://arxiv.org/abs/2605.28677v1">arXiv:2605.28677v1</a>
+<a class="paper-badge" href="https://arxiv.org/pdf/2605.28677v1">PDF</a>
+<span class="paper-category">math.PR, math.AP</span>
+</div>
+:::
+
+::: {.paper-card}
+<div class="paper-date">May 18, 2026</div>
+<div class="paper-title"><a href="https://arxiv.org/abs/2605.19096v1">Sharp analysis of sketched least squares and randomized low-rank approximation</a></div>
+<div class="paper-authors">Ethan N. Epperly, Robert J. Webber</div>
+<div class="paper-links">
+<a class="paper-badge" href="https://arxiv.org/abs/2605.19096v1">arXiv:2605.19096v1</a>
+<a class="paper-badge" href="https://arxiv.org/pdf/2605.19096v1">PDF</a>
+<span class="paper-category">math.NA, stat.CO</span>
+</div>
+:::
+
+::: {.paper-card}
+<div class="paper-date">May 16, 2026</div>
+<div class="paper-title"><a href="https://arxiv.org/abs/2605.17185v1">Numerical Instabilities in the Kaczmarz Method and Stabilization by Iterative Refinement</a></div>
+<div class="paper-authors">Michał Dereziński, Ethan N. Epperly, Deanna Needell, Alexander Xue</div>
+<div class="paper-links">
+<a class="paper-badge" href="https://arxiv.org/abs/2605.17185v1">arXiv:2605.17185v1</a>
+<a class="paper-badge" href="https://arxiv.org/pdf/2605.17185v1">PDF</a>
+<span class="paper-category">math.NA</span>
+</div>
+:::
 
 ::: {.paper-card}
 <div class="paper-date">May 04, 2026</div>
-<div class="paper-title"><a href="https://arxiv.org/abs/2605.03206v1">The maximum-entropy median-martingale</a></div>
+<div class="paper-title"><a href="https://arxiv.org/abs/2605.03206v2">The maximum-entropy median-martingale</a></div>
 <div class="paper-authors">Rikhav Shah, Vilas Winstein</div>
 <div class="paper-links">
-<a class="paper-badge" href="https://arxiv.org/abs/2605.03206v1">arXiv:2605.03206v1</a>
-<a class="paper-badge" href="https://arxiv.org/pdf/2605.03206v1">PDF</a>
+<a class="paper-badge" href="https://arxiv.org/abs/2605.03206v2">arXiv:2605.03206v2</a>
+<a class="paper-badge" href="https://arxiv.org/pdf/2605.03206v2">PDF</a>
 <span class="paper-category">math.PR</span>
 </div>
 :::
@@ -127,22 +182,22 @@
 
 ::: {.paper-card}
 <div class="paper-date">Mar 17, 2026</div>
-<div class="paper-title"><a href="https://arxiv.org/abs/2603.18053v1">Auditing the Auditors: Does Community-based Moderation Get It Right?</a></div>
+<div class="paper-title"><a href="https://arxiv.org/abs/2603.18053v2">Auditing the Auditors: Does Community-based Moderation Get It Right?</a></div>
 <div class="paper-authors">Yeganeh Alimohammadi, Karissa Huang, Christian Borgs, Jennifer Chayes</div>
 <div class="paper-links">
-<a class="paper-badge" href="https://arxiv.org/abs/2603.18053v1">arXiv:2603.18053v1</a>
-<a class="paper-badge" href="https://arxiv.org/pdf/2603.18053v1">PDF</a>
+<a class="paper-badge" href="https://arxiv.org/abs/2603.18053v2">arXiv:2603.18053v2</a>
+<a class="paper-badge" href="https://arxiv.org/pdf/2603.18053v2">PDF</a>
 <span class="paper-category">cs.SI, cs.CY, econ.GN</span>
 </div>
 :::
 
 ::: {.paper-card}
 <div class="paper-date">Mar 03, 2026</div>
-<div class="paper-title"><a href="https://arxiv.org/abs/2603.02714v1">Gaussian Width of Convex Sets via Integral Decompositions, Projections, and the Distribution of Intrinsic Volumes</a></div>
+<div class="paper-title"><a href="https://arxiv.org/abs/2603.02714v2">Gaussian Width of Convex Sets via Integral Decompositions, Projections, and the Distribution of Intrinsic Volumes</a></div>
 <div class="paper-authors">Reese Pathak, Nikita Zhivotovskiy</div>
 <div class="paper-links">
-<a class="paper-badge" href="https://arxiv.org/abs/2603.02714v1">arXiv:2603.02714v1</a>
-<a class="paper-badge" href="https://arxiv.org/pdf/2603.02714v1">PDF</a>
+<a class="paper-badge" href="https://arxiv.org/abs/2603.02714v2">arXiv:2603.02714v2</a>
+<a class="paper-badge" href="https://arxiv.org/pdf/2603.02714v2">PDF</a>
 <span class="paper-category">math.PR, cs.IT, math.ST</span>
 </div>
 :::
@@ -248,11 +303,11 @@
 
 ::: {.paper-card}
 <div class="paper-date">Jan 12, 2026</div>
-<div class="paper-title"><a href="https://arxiv.org/abs/2601.07169v1">Approximate FKG inequalities for phase-bound spin systems</a></div>
+<div class="paper-title"><a href="https://arxiv.org/abs/2601.07169v2">Approximate FKG inequalities for phase-bound spin systems, with applications to central limit theorems for exponential random graphs</a></div>
 <div class="paper-authors">Satyaki Mukherjee, Vilas Winstein</div>
 <div class="paper-links">
-<a class="paper-badge" href="https://arxiv.org/abs/2601.07169v1">arXiv:2601.07169v1</a>
-<a class="paper-badge" href="https://arxiv.org/pdf/2601.07169v1">PDF</a>
+<a class="paper-badge" href="https://arxiv.org/abs/2601.07169v2">arXiv:2601.07169v2</a>
+<a class="paper-badge" href="https://arxiv.org/pdf/2601.07169v2">PDF</a>
 <span class="paper-category">math.PR, cond-mat.stat-mech, cs.DM</span>
 </div>
 :::
@@ -276,38 +331,5 @@
 <a class="paper-badge" href="https://arxiv.org/abs/2512.15929v1">arXiv:2512.15929v1</a>
 <a class="paper-badge" href="https://arxiv.org/pdf/2512.15929v1">PDF</a>
 <span class="paper-category">math.NA, cs.DS, stat.CO</span>
-</div>
-:::
-
-::: {.paper-card}
-<div class="paper-date">Dec 15, 2025</div>
-<div class="paper-title"><a href="https://arxiv.org/abs/2512.13664v1">Exponential Absolute Minimizing extension and biased infinity Laplacian</a></div>
-<div class="paper-authors">Yang Chu</div>
-<div class="paper-links">
-<a class="paper-badge" href="https://arxiv.org/abs/2512.13664v1">arXiv:2512.13664v1</a>
-<a class="paper-badge" href="https://arxiv.org/pdf/2512.13664v1">PDF</a>
-<span class="paper-category">math.AP, math.MG, math.OC</span>
-</div>
-:::
-
-::: {.paper-card}
-<div class="paper-date">Nov 20, 2025</div>
-<div class="paper-title"><a href="https://arxiv.org/abs/2511.16072v1">Early science acceleration experiments with GPT-5</a></div>
-<div class="paper-authors">Sébastien Bubeck, Christian Coester, Ronen Eldan, Timothy Gowers, Yin Tat Lee, Alexandru Lupsasca, Mehtaab Sawhney, Robert Scherrer et al.</div>
-<div class="paper-links">
-<a class="paper-badge" href="https://arxiv.org/abs/2511.16072v1">arXiv:2511.16072v1</a>
-<a class="paper-badge" href="https://arxiv.org/pdf/2511.16072v1">PDF</a>
-<span class="paper-category">cs.CL, cs.AI</span>
-</div>
-:::
-
-::: {.paper-card}
-<div class="paper-date">Nov 10, 2025</div>
-<div class="paper-title"><a href="https://arxiv.org/abs/2511.07350v1">Decoupling of clusters in independent sets in a percolated hypercube</a></div>
-<div class="paper-authors">Mriganka Basu Roy Chowdhury, Shirshendu Ganguly, Vilas Winstein</div>
-<div class="paper-links">
-<a class="paper-badge" href="https://arxiv.org/abs/2511.07350v1">arXiv:2511.07350v1</a>
-<a class="paper-badge" href="https://arxiv.org/pdf/2511.07350v1">PDF</a>
-<span class="paper-category">math.PR, cond-mat.stat-mech, cs.DM</span>
 </div>
 :::
