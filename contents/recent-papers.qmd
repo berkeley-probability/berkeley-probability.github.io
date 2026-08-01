@@ -57,7 +57,40 @@
 </style>
 ```
 
-<p class="paper-list-updated"><em>Last updated July 15, 2026. Papers from the last 6 months. See more <a href="contents/all-papers.qmd">here</a>.</em></p>
+<p class="paper-list-updated"><em>Last updated August 01, 2026. Papers from the last 6 months. See more <a href="contents/all-papers.qmd">here</a>.</em></p>
+
+::: {.paper-card}
+<div class="paper-date">Jul 25, 2026</div>
+<div class="paper-title"><a href="https://arxiv.org/abs/2607.22991v1">Mixing times and spectra of non-equilibrium symmetric exclusion processes on general graphs</a></div>
+<div class="paper-authors">Leonard J. Schulman, Alistair Sinclair</div>
+<div class="paper-links">
+<a class="paper-badge" href="https://arxiv.org/abs/2607.22991v1">arXiv:2607.22991v1</a>
+<a class="paper-badge" href="https://arxiv.org/pdf/2607.22991v1">PDF</a>
+<span class="paper-category">math.PR, cond-mat.stat-mech</span>
+</div>
+:::
+
+::: {.paper-card}
+<div class="paper-date">Jul 23, 2026</div>
+<div class="paper-title"><a href="https://arxiv.org/abs/2607.20818v1">Self-Balancing Sequential Sampling: Fast Convergence with Controlled Predictability</a></div>
+<div class="paper-authors">Zachary McNulty, Daniel Raban</div>
+<div class="paper-links">
+<a class="paper-badge" href="https://arxiv.org/abs/2607.20818v1">arXiv:2607.20818v1</a>
+<a class="paper-badge" href="https://arxiv.org/pdf/2607.20818v1">PDF</a>
+<span class="paper-category">math.PR, stat.ME, stat.ML</span>
+</div>
+:::
+
+::: {.paper-card}
+<div class="paper-date">Jul 20, 2026</div>
+<div class="paper-title"><a href="https://arxiv.org/abs/2607.18194v1">Temperature chaos in directed polymers</a></div>
+<div class="paper-authors">Shirshendu Ganguly, Victor Ginsburg, Zoe Himwich</div>
+<div class="paper-links">
+<a class="paper-badge" href="https://arxiv.org/abs/2607.18194v1">arXiv:2607.18194v1</a>
+<a class="paper-badge" href="https://arxiv.org/pdf/2607.18194v1">PDF</a>
+<span class="paper-category">math.PR, math-ph</span>
+</div>
+:::
 
 ::: {.paper-card}
 <div class="paper-date">Jun 30, 2026</div>
@@ -314,33 +347,11 @@
 
 ::: {.paper-card}
 <div class="paper-date">Feb 04, 2026</div>
-<div class="paper-title"><a href="https://arxiv.org/abs/2602.04842v3">The matrix-vector complexity of $Ax=b$</a></div>
+<div class="paper-title"><a href="https://arxiv.org/abs/2602.04842v4">The matrix-vector complexity of $Ax=b$</a></div>
 <div class="paper-authors">Michał Dereziński, Ethan N. Epperly, Raphael A. Meyer</div>
 <div class="paper-links">
-<a class="paper-badge" href="https://arxiv.org/abs/2602.04842v3">arXiv:2602.04842v3</a>
-<a class="paper-badge" href="https://arxiv.org/pdf/2602.04842v3">PDF</a>
+<a class="paper-badge" href="https://arxiv.org/abs/2602.04842v4">arXiv:2602.04842v4</a>
+<a class="paper-badge" href="https://arxiv.org/pdf/2602.04842v4">PDF</a>
 <span class="paper-category">cs.DS, math.NA, math.OC</span>
-</div>
-:::
-
-::: {.paper-card}
-<div class="paper-date">Jan 23, 2026</div>
-<div class="paper-title"><a href="https://arxiv.org/abs/2601.16377v2">Macroscopic asymptotics in discrete beta-ensembles and random tilings</a></div>
-<div class="paper-authors">Gaëtan Borot, Vadim Gorin, Alice Guionnet</div>
-<div class="paper-links">
-<a class="paper-badge" href="https://arxiv.org/abs/2601.16377v2">arXiv:2601.16377v2</a>
-<a class="paper-badge" href="https://arxiv.org/pdf/2601.16377v2">PDF</a>
-<span class="paper-category">math.PR, math-ph</span>
-</div>
-:::
-
-::: {.paper-card}
-<div class="paper-date">Jan 20, 2026</div>
-<div class="paper-title"><a href="https://arxiv.org/abs/2601.14170v1">Wasserstein distances between ERGMs and Erdős-Rényi models</a></div>
-<div class="paper-authors">Vilas Winstein</div>
-<div class="paper-links">
-<a class="paper-badge" href="https://arxiv.org/abs/2601.14170v1">arXiv:2601.14170v1</a>
-<a class="paper-badge" href="https://arxiv.org/pdf/2601.14170v1">PDF</a>
-<span class="paper-category">math.PR, cond-mat.stat-mech, cs.DM</span>
 </div>
 :::
