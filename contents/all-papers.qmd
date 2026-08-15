@@ -59,7 +59,73 @@
 
 ### Papers
 
-<p class="paper-list-updated"><em>Last updated August 01, 2026. Papers going back ~1 year.</em></p>
+<p class="paper-list-updated"><em>Last updated August 15, 2026. Papers going back ~1 year.</em></p>
+
+::: {.paper-card}
+<div class="paper-date">Aug 12, 2026</div>
+<div class="paper-title"><a href="https://arxiv.org/abs/2608.12503v1">Fast Length-Squared Sampling for Positive-Semidefinite Matrices</a></div>
+<div class="paper-authors">Rajarshi Bhattacharjee, Ethan N. Epperly, Cameron Musco, Aaron Tian</div>
+<div class="paper-links">
+<a class="paper-badge" href="https://arxiv.org/abs/2608.12503v1">arXiv:2608.12503v1</a>
+<a class="paper-badge" href="https://arxiv.org/pdf/2608.12503v1">PDF</a>
+<span class="paper-category">cs.DS, cs.LG</span>
+</div>
+:::
+
+::: {.paper-card}
+<div class="paper-date">Aug 12, 2026</div>
+<div class="paper-title"><a href="https://arxiv.org/abs/2608.12270v1">Logarithmic intermittency of the critical 2D SHF</a></div>
+<div class="paper-authors">Shirshendu Ganguly, Kyeongsik Nam</div>
+<div class="paper-links">
+<a class="paper-badge" href="https://arxiv.org/abs/2608.12270v1">arXiv:2608.12270v1</a>
+<a class="paper-badge" href="https://arxiv.org/pdf/2608.12270v1">PDF</a>
+<span class="paper-category">math.PR, math-ph</span>
+</div>
+:::
+
+::: {.paper-card}
+<div class="paper-date">Aug 06, 2026</div>
+<div class="paper-title"><a href="https://arxiv.org/abs/2608.06363v1">An Optimal Agnostic PAC Algorithm</a></div>
+<div class="paper-authors">Markus Engelund Mathiasen, Jian Qian, Nikita Zhivotovskiy</div>
+<div class="paper-links">
+<a class="paper-badge" href="https://arxiv.org/abs/2608.06363v1">arXiv:2608.06363v1</a>
+<a class="paper-badge" href="https://arxiv.org/pdf/2608.06363v1">PDF</a>
+<span class="paper-category">cs.LG, cs.AI, cs.DS</span>
+</div>
+:::
+
+::: {.paper-card}
+<div class="paper-date">Aug 05, 2026</div>
+<div class="paper-title"><a href="https://arxiv.org/abs/2608.05089v1">Correlation decay in area-tilted line ensembles</a></div>
+<div class="paper-authors">Shirshendu Ganguly, Vilas Winstein</div>
+<div class="paper-links">
+<a class="paper-badge" href="https://arxiv.org/abs/2608.05089v1">arXiv:2608.05089v1</a>
+<a class="paper-badge" href="https://arxiv.org/pdf/2608.05089v1">PDF</a>
+<span class="paper-category">math.PR, math-ph</span>
+</div>
+:::
+
+::: {.paper-card}
+<div class="paper-date">Aug 03, 2026</div>
+<div class="paper-title"><a href="https://arxiv.org/abs/2608.02507v1">Beyond Modern Asymptotics for Log-Likelihood Ratios in Logistic Regression</a></div>
+<div class="paper-authors">Hugo Chardon, Reese Pathak, Nikita Zhivotovskiy</div>
+<div class="paper-links">
+<a class="paper-badge" href="https://arxiv.org/abs/2608.02507v1">arXiv:2608.02507v1</a>
+<a class="paper-badge" href="https://arxiv.org/pdf/2608.02507v1">PDF</a>
+<span class="paper-category">math.ST, cs.IT, cs.LG</span>
+</div>
+:::
+
+::: {.paper-card}
+<div class="paper-date">Jul 31, 2026</div>
+<div class="paper-title"><a href="https://arxiv.org/abs/2607.29016v1">Nonlinear Exchange Dynamics for Independent Sets</a></div>
+<div class="paper-authors">Mehrad Abbaszadeh Minab, Pietro Caputo, Zongchen Chen, Mario Morellini, Alistair Sinclair</div>
+<div class="paper-links">
+<a class="paper-badge" href="https://arxiv.org/abs/2607.29016v1">arXiv:2607.29016v1</a>
+<a class="paper-badge" href="https://arxiv.org/pdf/2607.29016v1">PDF</a>
+<span class="paper-category">cs.DS, math.PR</span>
+</div>
+:::
 
 ::: {.paper-card}
 <div class="paper-date">Jul 25, 2026</div>
@@ -173,11 +239,11 @@
 
 ::: {.paper-card}
 <div class="paper-date">May 18, 2026</div>
-<div class="paper-title"><a href="https://arxiv.org/abs/2605.19096v1">Sharp analysis of sketched least squares and randomized low-rank approximation</a></div>
+<div class="paper-title"><a href="https://arxiv.org/abs/2605.19096v2">Sharp analysis of sketched least squares and randomized low-rank approximation</a></div>
 <div class="paper-authors">Ethan N. Epperly, Robert J. Webber</div>
 <div class="paper-links">
-<a class="paper-badge" href="https://arxiv.org/abs/2605.19096v1">arXiv:2605.19096v1</a>
-<a class="paper-badge" href="https://arxiv.org/pdf/2605.19096v1">PDF</a>
+<a class="paper-badge" href="https://arxiv.org/abs/2605.19096v2">arXiv:2605.19096v2</a>
+<a class="paper-badge" href="https://arxiv.org/pdf/2605.19096v2">PDF</a>
 <span class="paper-category">math.NA, stat.CO</span>
 </div>
 :::
@@ -195,11 +261,11 @@
 
 ::: {.paper-card}
 <div class="paper-date">May 04, 2026</div>
-<div class="paper-title"><a href="https://arxiv.org/abs/2605.03206v2">The maximum-entropy median-martingale</a></div>
+<div class="paper-title"><a href="https://arxiv.org/abs/2605.03206v3">The maximum-entropy median-martingale</a></div>
 <div class="paper-authors">Rikhav Shah, Vilas Winstein</div>
 <div class="paper-links">
-<a class="paper-badge" href="https://arxiv.org/abs/2605.03206v2">arXiv:2605.03206v2</a>
-<a class="paper-badge" href="https://arxiv.org/pdf/2605.03206v2">PDF</a>
+<a class="paper-badge" href="https://arxiv.org/abs/2605.03206v3">arXiv:2605.03206v3</a>
+<a class="paper-badge" href="https://arxiv.org/pdf/2605.03206v3">PDF</a>
 <span class="paper-category">math.PR</span>
 </div>
 :::
@@ -531,27 +597,5 @@
 <a class="paper-badge" href="https://arxiv.org/abs/2508.21189v1">arXiv:2508.21189v1</a>
 <a class="paper-badge" href="https://arxiv.org/pdf/2508.21189v1">PDF</a>
 <span class="paper-category">cs.DS, math.NA</span>
-</div>
-:::
-
-::: {.paper-card}
-<div class="paper-date">Aug 08, 2025</div>
-<div class="paper-title"><a href="https://arxiv.org/abs/2508.06486v2">Does block size matter in randomized block Krylov low-rank approximation?</a></div>
-<div class="paper-authors">Tyler Chen, Ethan N. Epperly, Raphael A. Meyer, Christopher Musco, Akash Rao</div>
-<div class="paper-links">
-<a class="paper-badge" href="https://arxiv.org/abs/2508.06486v2">arXiv:2508.06486v2</a>
-<a class="paper-badge" href="https://arxiv.org/pdf/2508.06486v2">PDF</a>
-<span class="paper-category">cs.DS, math.NA</span>
-</div>
-:::
-
-::: {.paper-card}
-<div class="paper-date">Aug 02, 2025</div>
-<div class="paper-title"><a href="https://arxiv.org/abs/2508.02748v1">Advancing Science- and Evidence-based AI Policy</a></div>
-<div class="paper-authors">Rishi Bommasani, Sanjeev Arora, Jennifer Chayes, Yejin Choi, Mariano-Florentino Cuéllar, Li Fei-Fei, Daniel E. Ho, Dan Jurafsky et al.</div>
-<div class="paper-links">
-<a class="paper-badge" href="https://arxiv.org/abs/2508.02748v1">arXiv:2508.02748v1</a>
-<a class="paper-badge" href="https://arxiv.org/pdf/2508.02748v1">PDF</a>
-<span class="paper-category">cs.CY</span>
 </div>
 :::

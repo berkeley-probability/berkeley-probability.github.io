@@ -57,7 +57,73 @@
 </style>
 ```
 
-<p class="paper-list-updated"><em>Last updated August 01, 2026. Papers from the last 6 months. See more <a href="contents/all-papers.qmd">here</a>.</em></p>
+<p class="paper-list-updated"><em>Last updated August 15, 2026. Papers from the last 6 months. See more <a href="contents/all-papers.qmd">here</a>.</em></p>
+
+::: {.paper-card}
+<div class="paper-date">Aug 12, 2026</div>
+<div class="paper-title"><a href="https://arxiv.org/abs/2608.12503v1">Fast Length-Squared Sampling for Positive-Semidefinite Matrices</a></div>
+<div class="paper-authors">Rajarshi Bhattacharjee, Ethan N. Epperly, Cameron Musco, Aaron Tian</div>
+<div class="paper-links">
+<a class="paper-badge" href="https://arxiv.org/abs/2608.12503v1">arXiv:2608.12503v1</a>
+<a class="paper-badge" href="https://arxiv.org/pdf/2608.12503v1">PDF</a>
+<span class="paper-category">cs.DS, cs.LG</span>
+</div>
+:::
+
+::: {.paper-card}
+<div class="paper-date">Aug 12, 2026</div>
+<div class="paper-title"><a href="https://arxiv.org/abs/2608.12270v1">Logarithmic intermittency of the critical 2D SHF</a></div>
+<div class="paper-authors">Shirshendu Ganguly, Kyeongsik Nam</div>
+<div class="paper-links">
+<a class="paper-badge" href="https://arxiv.org/abs/2608.12270v1">arXiv:2608.12270v1</a>
+<a class="paper-badge" href="https://arxiv.org/pdf/2608.12270v1">PDF</a>
+<span class="paper-category">math.PR, math-ph</span>
+</div>
+:::
+
+::: {.paper-card}
+<div class="paper-date">Aug 06, 2026</div>
+<div class="paper-title"><a href="https://arxiv.org/abs/2608.06363v1">An Optimal Agnostic PAC Algorithm</a></div>
+<div class="paper-authors">Markus Engelund Mathiasen, Jian Qian, Nikita Zhivotovskiy</div>
+<div class="paper-links">
+<a class="paper-badge" href="https://arxiv.org/abs/2608.06363v1">arXiv:2608.06363v1</a>
+<a class="paper-badge" href="https://arxiv.org/pdf/2608.06363v1">PDF</a>
+<span class="paper-category">cs.LG, cs.AI, cs.DS</span>
+</div>
+:::
+
+::: {.paper-card}
+<div class="paper-date">Aug 05, 2026</div>
+<div class="paper-title"><a href="https://arxiv.org/abs/2608.05089v1">Correlation decay in area-tilted line ensembles</a></div>
+<div class="paper-authors">Shirshendu Ganguly, Vilas Winstein</div>
+<div class="paper-links">
+<a class="paper-badge" href="https://arxiv.org/abs/2608.05089v1">arXiv:2608.05089v1</a>
+<a class="paper-badge" href="https://arxiv.org/pdf/2608.05089v1">PDF</a>
+<span class="paper-category">math.PR, math-ph</span>
+</div>
+:::
+
+::: {.paper-card}
+<div class="paper-date">Aug 03, 2026</div>
+<div class="paper-title"><a href="https://arxiv.org/abs/2608.02507v1">Beyond Modern Asymptotics for Log-Likelihood Ratios in Logistic Regression</a></div>
+<div class="paper-authors">Hugo Chardon, Reese Pathak, Nikita Zhivotovskiy</div>
+<div class="paper-links">
+<a class="paper-badge" href="https://arxiv.org/abs/2608.02507v1">arXiv:2608.02507v1</a>
+<a class="paper-badge" href="https://arxiv.org/pdf/2608.02507v1">PDF</a>
+<span class="paper-category">math.ST, cs.IT, cs.LG</span>
+</div>
+:::
+
+::: {.paper-card}
+<div class="paper-date">Jul 31, 2026</div>
+<div class="paper-title"><a href="https://arxiv.org/abs/2607.29016v1">Nonlinear Exchange Dynamics for Independent Sets</a></div>
+<div class="paper-authors">Mehrad Abbaszadeh Minab, Pietro Caputo, Zongchen Chen, Mario Morellini, Alistair Sinclair</div>
+<div class="paper-links">
+<a class="paper-badge" href="https://arxiv.org/abs/2607.29016v1">arXiv:2607.29016v1</a>
+<a class="paper-badge" href="https://arxiv.org/pdf/2607.29016v1">PDF</a>
+<span class="paper-category">cs.DS, math.PR</span>
+</div>
+:::
 
 ::: {.paper-card}
 <div class="paper-date">Jul 25, 2026</div>
@@ -171,11 +237,11 @@
 
 ::: {.paper-card}
 <div class="paper-date">May 18, 2026</div>
-<div class="paper-title"><a href="https://arxiv.org/abs/2605.19096v1">Sharp analysis of sketched least squares and randomized low-rank approximation</a></div>
+<div class="paper-title"><a href="https://arxiv.org/abs/2605.19096v2">Sharp analysis of sketched least squares and randomized low-rank approximation</a></div>
 <div class="paper-authors">Ethan N. Epperly, Robert J. Webber</div>
 <div class="paper-links">
-<a class="paper-badge" href="https://arxiv.org/abs/2605.19096v1">arXiv:2605.19096v1</a>
-<a class="paper-badge" href="https://arxiv.org/pdf/2605.19096v1">PDF</a>
+<a class="paper-badge" href="https://arxiv.org/abs/2605.19096v2">arXiv:2605.19096v2</a>
+<a class="paper-badge" href="https://arxiv.org/pdf/2605.19096v2">PDF</a>
 <span class="paper-category">math.NA, stat.CO</span>
 </div>
 :::
@@ -193,11 +259,11 @@
 
 ::: {.paper-card}
 <div class="paper-date">May 04, 2026</div>
-<div class="paper-title"><a href="https://arxiv.org/abs/2605.03206v2">The maximum-entropy median-martingale</a></div>
+<div class="paper-title"><a href="https://arxiv.org/abs/2605.03206v3">The maximum-entropy median-martingale</a></div>
 <div class="paper-authors">Rikhav Shah, Vilas Winstein</div>
 <div class="paper-links">
-<a class="paper-badge" href="https://arxiv.org/abs/2605.03206v2">arXiv:2605.03206v2</a>
-<a class="paper-badge" href="https://arxiv.org/pdf/2605.03206v2">PDF</a>
+<a class="paper-badge" href="https://arxiv.org/abs/2605.03206v3">arXiv:2605.03206v3</a>
+<a class="paper-badge" href="https://arxiv.org/pdf/2605.03206v3">PDF</a>
 <span class="paper-category">math.PR</span>
 </div>
 :::
@@ -320,38 +386,5 @@
 <a class="paper-badge" href="https://arxiv.org/abs/2602.15822v1">arXiv:2602.15822v1</a>
 <a class="paper-badge" href="https://arxiv.org/pdf/2602.15822v1">PDF</a>
 <span class="paper-category">math.PR, math.CA, math.CO</span>
-</div>
-:::
-
-::: {.paper-card}
-<div class="paper-date">Feb 05, 2026</div>
-<div class="paper-title"><a href="https://arxiv.org/abs/2602.05394v2">Linear Systems and Eigenvalue Problems: Open Questions from a Simons Workshop</a></div>
-<div class="paper-authors">Noah Amsel, Yves Baumann, Paul Beckman, Peter Bürgisser, Chris Camaño, Tyler Chen, Edmond Chow, Anil Damle et al.</div>
-<div class="paper-links">
-<a class="paper-badge" href="https://arxiv.org/abs/2602.05394v2">arXiv:2602.05394v2</a>
-<a class="paper-badge" href="https://arxiv.org/pdf/2602.05394v2">PDF</a>
-<span class="paper-category">math.NA, cs.DS</span>
-</div>
-:::
-
-::: {.paper-card}
-<div class="paper-date">Feb 05, 2026</div>
-<div class="paper-title"><a href="https://arxiv.org/abs/2602.05192v2">First Proof</a></div>
-<div class="paper-authors">Mohammed Abouzaid, Andrew J. Blumberg, Martin Hairer, Joe Kileel, Tamara G. Kolda, Paul D. Nelson, Daniel Spielman, Nikhil Srivastava et al.</div>
-<div class="paper-links">
-<a class="paper-badge" href="https://arxiv.org/abs/2602.05192v2">arXiv:2602.05192v2</a>
-<a class="paper-badge" href="https://arxiv.org/pdf/2602.05192v2">PDF</a>
-<span class="paper-category">cs.AI, math.AG, math.CO</span>
-</div>
-:::
-
-::: {.paper-card}
-<div class="paper-date">Feb 04, 2026</div>
-<div class="paper-title"><a href="https://arxiv.org/abs/2602.04842v4">The matrix-vector complexity of $Ax=b$</a></div>
-<div class="paper-authors">Michał Dereziński, Ethan N. Epperly, Raphael A. Meyer</div>
-<div class="paper-links">
-<a class="paper-badge" href="https://arxiv.org/abs/2602.04842v4">arXiv:2602.04842v4</a>
-<a class="paper-badge" href="https://arxiv.org/pdf/2602.04842v4">PDF</a>
-<span class="paper-category">cs.DS, math.NA, math.OC</span>
 </div>
 :::
