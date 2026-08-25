@@ -32,3 +32,13 @@ jobs:
         with:
           commit_message: "Update arXiv papers"
           file_pattern: contents/recent-papers.qmd contents/all-papers.qmd
+
+      - name: Set up Quarto
+        uses: quarto-dev/quarto-actions/setup@v2
+
+      - name: Render and publish updated site
+        uses: quarto-dev/quarto-actions/publish@v2
+        with:
+          target: gh-pages
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
