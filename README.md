@@ -1,6 +1,6 @@
 # Berkeley Probability
 
-Berkeley Probability Grouphomepage.
+Berkeley Probability Group homepage.
 
 ## How to add faculty/student/alumni member?
 
