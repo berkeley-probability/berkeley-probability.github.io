@@ -1,55 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://probability.berkeley.edu/index.html</loc>
-    <lastmod>2026-05-12T16:57:47.963Z</lastmod>
-  </url>
-  <url>
-    <loc>https://probability.berkeley.edu/contents/miscellaneous.html</loc>
-    <lastmod>2026-05-12T16:57:47.885Z</lastmod>
-  </url>
-  <url>
-    <loc>https://probability.berkeley.edu/contents/emeritus.html</loc>
-    <lastmod>2026-05-12T16:57:47.885Z</lastmod>
-  </url>
-  <url>
-    <loc>https://probability.berkeley.edu/contents/students.html</loc>
-    <lastmod>2026-05-12T16:57:47.885Z</lastmod>
-  </url>
-  <url>
-    <loc>https://probability.berkeley.edu/contents/all-papers.html</loc>
-    <lastmod>2026-05-12T16:57:47.884Z</lastmod>
-  </url>
-  <url>
-    <loc>https://probability.berkeley.edu/contents/postdocs.html</loc>
-    <lastmod>2026-05-12T16:57:47.885Z</lastmod>
-  </url>
-  <url>
     <loc>https://probability.berkeley.edu/people.html</loc>
-    <lastmod>2026-05-12T16:57:47.963Z</lastmod>
-  </url>
-  <url>
-    <loc>https://probability.berkeley.edu/contents/friends.html</loc>
-    <lastmod>2026-05-12T16:57:47.885Z</lastmod>
-  </url>
-  <url>
-    <loc>https://probability.berkeley.edu/contents/events.html</loc>
-    <lastmod>2026-05-12T16:57:47.885Z</lastmod>
-  </url>
-  <url>
-    <loc>https://probability.berkeley.edu/contents/recent-papers.html</loc>
-    <lastmod>2026-05-12T16:57:47.885Z</lastmod>
-  </url>
-  <url>
-    <loc>https://probability.berkeley.edu/contents/alumni-list.html</loc>
-    <lastmod>2026-05-12T16:57:47.885Z</lastmod>
+    <lastmod>2026-08-25T20:14:53.718Z</lastmod>
   </url>
   <url>
     <loc>https://probability.berkeley.edu/contents/visitors.html</loc>
-    <lastmod>2026-05-12T16:57:47.885Z</lastmod>
+    <lastmod>2026-08-25T20:14:53.628Z</lastmod>
   </url>
   <url>
     <loc>https://probability.berkeley.edu/contents/faculty.html</loc>
-    <lastmod>2026-05-12T16:57:47.885Z</lastmod>
+    <lastmod>2026-08-25T20:14:53.628Z</lastmod>
+  </url>
+  <url>
+    <loc>https://probability.berkeley.edu/contents/students.html</loc>
+    <lastmod>2026-08-25T20:14:53.628Z</lastmod>
+  </url>
+  <url>
+    <loc>https://probability.berkeley.edu/contents/postdocs.html</loc>
+    <lastmod>2026-08-25T20:14:53.628Z</lastmod>
+  </url>
+  <url>
+    <loc>https://probability.berkeley.edu/contents/alumni-list.html</loc>
+    <lastmod>2026-08-25T20:14:53.628Z</lastmod>
+  </url>
+  <url>
+    <loc>https://probability.berkeley.edu/index.html</loc>
+    <lastmod>2026-08-25T20:14:53.718Z</lastmod>
+  </url>
+  <url>
+    <loc>https://probability.berkeley.edu/contents/emeritus.html</loc>
+    <lastmod>2026-08-25T20:14:53.628Z</lastmod>
+  </url>
+  <url>
+    <loc>https://probability.berkeley.edu/contents/miscellaneous.html</loc>
+    <lastmod>2026-08-25T20:14:53.628Z</lastmod>
+  </url>
+  <url>
+    <loc>https://probability.berkeley.edu/contents/friends.html</loc>
+    <lastmod>2026-08-25T20:14:53.628Z</lastmod>
+  </url>
+  <url>
+    <loc>https://probability.berkeley.edu/contents/recent-papers.html</loc>
+    <lastmod>2026-08-25T20:14:53.628Z</lastmod>
+  </url>
+  <url>
+    <loc>https://probability.berkeley.edu/contents/events.html</loc>
+    <lastmod>2026-08-25T20:14:53.628Z</lastmod>
+  </url>
+  <url>
+    <loc>https://probability.berkeley.edu/contents/all-papers.html</loc>
+    <lastmod>2026-08-25T20:14:53.627Z</lastmod>
   </url>
 </urlset>

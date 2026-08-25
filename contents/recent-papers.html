@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.9.37">
+<meta name="generator" content="quarto-1.10.18">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -12,10 +12,13 @@
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
 */
-code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
-div.columns{display: flex; gap: min(4vw, 1.5em);}
-div.column{flex: auto; overflow-x: auto;}
+div.columns{display: flex; gap: 1.5em;}
+div.column{flex: auto;}
+@media screen {
+div.columns{gap: min(4vw, 1.5em);}
+div.column{overflow-x: auto;}
+}
 div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
 ul.task-list li input[type="checkbox"] {
@@ -35,10 +38,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-7f8f88aac4f3542376d5c11b86a4c14d.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-64a204ab8560d761af7679ceaba22944.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-fb299822a110b525ef900ae9bc1234b5.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-14ed52d64cebd2125cf0662d49733eaf.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "language": {
     "search-no-results-text": "No results",
@@ -57,35 +60,6 @@ ul.task-list li input[type="checkbox"] {
 <script src="../assets/external-links.js"></script>
 
 
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
 
 <link rel="stylesheet" href="../assets/styles.css">
 </head>
@@ -216,20 +190,272 @@ window.Quarto = {
 }
 </style>
 <p class="paper-list-updated">
-<em>Last updated May 07, 2026. Papers from the last 6 months. See more <a href="contents/all-papers.qmd">here</a>.</em>
+<em>Last updated August 15, 2026. Papers from the last 6 months. See more <a href="contents/all-papers.qmd">here</a>.</em>
 </p>
+<div class="paper-card">
+<div class="paper-date">
+Aug 12, 2026
+</div>
+<div class="paper-title">
+<a href="https://arxiv.org/abs/2608.12503v1">Fast Length-Squared Sampling for Positive-Semidefinite Matrices</a>
+</div>
+<div class="paper-authors">
+Rajarshi Bhattacharjee, Ethan N. Epperly, Cameron Musco, Aaron Tian
+</div>
+<div class="paper-links">
+<p><a class="paper-badge" href="https://arxiv.org/abs/2608.12503v1">arXiv:2608.12503v1</a> <a class="paper-badge" href="https://arxiv.org/pdf/2608.12503v1">PDF</a> <span class="paper-category">cs.DS, cs.LG</span></p>
+</div>
+</div>
+<div class="paper-card">
+<div class="paper-date">
+Aug 12, 2026
+</div>
+<div class="paper-title">
+<a href="https://arxiv.org/abs/2608.12270v1">Logarithmic intermittency of the critical 2D SHF</a>
+</div>
+<div class="paper-authors">
+Shirshendu Ganguly, Kyeongsik Nam
+</div>
+<div class="paper-links">
+<p><a class="paper-badge" href="https://arxiv.org/abs/2608.12270v1">arXiv:2608.12270v1</a> <a class="paper-badge" href="https://arxiv.org/pdf/2608.12270v1">PDF</a> <span class="paper-category">math.PR, math-ph</span></p>
+</div>
+</div>
+<div class="paper-card">
+<div class="paper-date">
+Aug 06, 2026
+</div>
+<div class="paper-title">
+<a href="https://arxiv.org/abs/2608.06363v1">An Optimal Agnostic PAC Algorithm</a>
+</div>
+<div class="paper-authors">
+Markus Engelund Mathiasen, Jian Qian, Nikita Zhivotovskiy
+</div>
+<div class="paper-links">
+<p><a class="paper-badge" href="https://arxiv.org/abs/2608.06363v1">arXiv:2608.06363v1</a> <a class="paper-badge" href="https://arxiv.org/pdf/2608.06363v1">PDF</a> <span class="paper-category">cs.LG, cs.AI, cs.DS</span></p>
+</div>
+</div>
+<div class="paper-card">
+<div class="paper-date">
+Aug 05, 2026
+</div>
+<div class="paper-title">
+<a href="https://arxiv.org/abs/2608.05089v1">Correlation decay in area-tilted line ensembles</a>
+</div>
+<div class="paper-authors">
+Shirshendu Ganguly, Vilas Winstein
+</div>
+<div class="paper-links">
+<p><a class="paper-badge" href="https://arxiv.org/abs/2608.05089v1">arXiv:2608.05089v1</a> <a class="paper-badge" href="https://arxiv.org/pdf/2608.05089v1">PDF</a> <span class="paper-category">math.PR, math-ph</span></p>
+</div>
+</div>
+<div class="paper-card">
+<div class="paper-date">
+Aug 03, 2026
+</div>
+<div class="paper-title">
+<a href="https://arxiv.org/abs/2608.02507v1">Beyond Modern Asymptotics for Log-Likelihood Ratios in Logistic Regression</a>
+</div>
+<div class="paper-authors">
+Hugo Chardon, Reese Pathak, Nikita Zhivotovskiy
+</div>
+<div class="paper-links">
+<p><a class="paper-badge" href="https://arxiv.org/abs/2608.02507v1">arXiv:2608.02507v1</a> <a class="paper-badge" href="https://arxiv.org/pdf/2608.02507v1">PDF</a> <span class="paper-category">math.ST, cs.IT, cs.LG</span></p>
+</div>
+</div>
+<div class="paper-card">
+<div class="paper-date">
+Jul 31, 2026
+</div>
+<div class="paper-title">
+<a href="https://arxiv.org/abs/2607.29016v1">Nonlinear Exchange Dynamics for Independent Sets</a>
+</div>
+<div class="paper-authors">
+Mehrad Abbaszadeh Minab, Pietro Caputo, Zongchen Chen, Mario Morellini, Alistair Sinclair
+</div>
+<div class="paper-links">
+<p><a class="paper-badge" href="https://arxiv.org/abs/2607.29016v1">arXiv:2607.29016v1</a> <a class="paper-badge" href="https://arxiv.org/pdf/2607.29016v1">PDF</a> <span class="paper-category">cs.DS, math.PR</span></p>
+</div>
+</div>
+<div class="paper-card">
+<div class="paper-date">
+Jul 25, 2026
+</div>
+<div class="paper-title">
+<a href="https://arxiv.org/abs/2607.22991v1">Mixing times and spectra of non-equilibrium symmetric exclusion processes on general graphs</a>
+</div>
+<div class="paper-authors">
+Leonard J. Schulman, Alistair Sinclair
+</div>
+<div class="paper-links">
+<p><a class="paper-badge" href="https://arxiv.org/abs/2607.22991v1">arXiv:2607.22991v1</a> <a class="paper-badge" href="https://arxiv.org/pdf/2607.22991v1">PDF</a> <span class="paper-category">math.PR, cond-mat.stat-mech</span></p>
+</div>
+</div>
+<div class="paper-card">
+<div class="paper-date">
+Jul 23, 2026
+</div>
+<div class="paper-title">
+<a href="https://arxiv.org/abs/2607.20818v1">Self-Balancing Sequential Sampling: Fast Convergence with Controlled Predictability</a>
+</div>
+<div class="paper-authors">
+Zachary McNulty, Daniel Raban
+</div>
+<div class="paper-links">
+<p><a class="paper-badge" href="https://arxiv.org/abs/2607.20818v1">arXiv:2607.20818v1</a> <a class="paper-badge" href="https://arxiv.org/pdf/2607.20818v1">PDF</a> <span class="paper-category">math.PR, stat.ME, stat.ML</span></p>
+</div>
+</div>
+<div class="paper-card">
+<div class="paper-date">
+Jul 20, 2026
+</div>
+<div class="paper-title">
+<a href="https://arxiv.org/abs/2607.18194v1">Temperature chaos in directed polymers</a>
+</div>
+<div class="paper-authors">
+Shirshendu Ganguly, Victor Ginsburg, Zoe Himwich
+</div>
+<div class="paper-links">
+<p><a class="paper-badge" href="https://arxiv.org/abs/2607.18194v1">arXiv:2607.18194v1</a> <a class="paper-badge" href="https://arxiv.org/pdf/2607.18194v1">PDF</a> <span class="paper-category">math.PR, math-ph</span></p>
+</div>
+</div>
+<div class="paper-card">
+<div class="paper-date">
+Jun 30, 2026
+</div>
+<div class="paper-title">
+<a href="https://arxiv.org/abs/2606.31051v1">Capacity and measure approximations for Schrödinger operators</a>
+</div>
+<div class="paper-authors">
+Burak Hatinoğlu, Svetlana Jitomirskaya
+</div>
+<div class="paper-links">
+<p><a class="paper-badge" href="https://arxiv.org/abs/2606.31051v1">arXiv:2606.31051v1</a> <a class="paper-badge" href="https://arxiv.org/pdf/2606.31051v1">PDF</a> <span class="paper-category">math.SP, math-ph, math.DS</span></p>
+</div>
+</div>
+<div class="paper-card">
+<div class="paper-date">
+Jun 26, 2026
+</div>
+<div class="paper-title">
+<a href="https://arxiv.org/abs/2606.28594v2">A Sharp Kato-Rosenblum Type Theorem for Unbounded n-Tuples</a>
+</div>
+<div class="paper-authors">
+Rishabh Bhutani, Dan Virgil Voiculescu
+</div>
+<div class="paper-links">
+<p><a class="paper-badge" href="https://arxiv.org/abs/2606.28594v2">arXiv:2606.28594v2</a> <a class="paper-badge" href="https://arxiv.org/pdf/2606.28594v2">PDF</a> <span class="paper-category">math.FA, math.SP</span></p>
+</div>
+</div>
+<div class="paper-card">
+<div class="paper-date">
+Jun 16, 2026
+</div>
+<div class="paper-title">
+<a href="https://arxiv.org/abs/2606.18119v1">First Proof Second Batch</a>
+</div>
+<div class="paper-authors">
+Mohammed Abouzaid, Nikhil Srivastava, Rachel Ward, Lauren Williams
+</div>
+<div class="paper-links">
+<p><a class="paper-badge" href="https://arxiv.org/abs/2606.18119v1">arXiv:2606.18119v1</a> <a class="paper-badge" href="https://arxiv.org/pdf/2606.18119v1">PDF</a> <span class="paper-category">cs.AI</span></p>
+</div>
+</div>
+<div class="paper-card">
+<div class="paper-date">
+Jun 13, 2026
+</div>
+<div class="paper-title">
+<a href="https://arxiv.org/abs/2606.15350v1">Linear algebra at exponential scale via tensor network dimension reduction</a>
+</div>
+<div class="paper-authors">
+Chris Camaño, Ethan N. Epperly, Raphael A. Meyer, Joel A. Tropp
+</div>
+<div class="paper-links">
+<p><a class="paper-badge" href="https://arxiv.org/abs/2606.15350v1">arXiv:2606.15350v1</a> <a class="paper-badge" href="https://arxiv.org/pdf/2606.15350v1">PDF</a> <span class="paper-category">math.NA, cond-mat.str-el, cs.DS</span></p>
+</div>
+</div>
+<div class="paper-card">
+<div class="paper-date">
+Jun 11, 2026
+</div>
+<div class="paper-title">
+<a href="https://arxiv.org/abs/2606.13614v1">Majority-of-Three is Optimal</a>
+</div>
+<div class="paper-authors">
+Divit Rawal, Nikita Zhivotovskiy
+</div>
+<div class="paper-links">
+<p><a class="paper-badge" href="https://arxiv.org/abs/2606.13614v1">arXiv:2606.13614v1</a> <a class="paper-badge" href="https://arxiv.org/pdf/2606.13614v1">PDF</a> <span class="paper-category">stat.ML, cs.LG, math.ST</span></p>
+</div>
+</div>
+<div class="paper-card">
+<div class="paper-date">
+Jun 02, 2026
+</div>
+<div class="paper-title">
+<a href="https://arxiv.org/abs/2606.03973v2">A remark on the majorizing measures theorem for general processes</a>
+</div>
+<div class="paper-authors">
+Reese Pathak, Nikita Zhivotovskiy
+</div>
+<div class="paper-links">
+<p><a class="paper-badge" href="https://arxiv.org/abs/2606.03973v2">arXiv:2606.03973v2</a> <a class="paper-badge" href="https://arxiv.org/pdf/2606.03973v2">PDF</a> <span class="paper-category">math.PR, cs.IT, math.ST</span></p>
+</div>
+</div>
+<div class="paper-card">
+<div class="paper-date">
+May 27, 2026
+</div>
+<div class="paper-title">
+<a href="https://arxiv.org/abs/2605.28677v1">Weak universality for stochastic reaction-diffusion models with long-range correlated noise</a>
+</div>
+<div class="paper-authors">
+Simon Gabriel, Markus Tempelmayr
+</div>
+<div class="paper-links">
+<p><a class="paper-badge" href="https://arxiv.org/abs/2605.28677v1">arXiv:2605.28677v1</a> <a class="paper-badge" href="https://arxiv.org/pdf/2605.28677v1">PDF</a> <span class="paper-category">math.PR, math.AP</span></p>
+</div>
+</div>
+<div class="paper-card">
+<div class="paper-date">
+May 18, 2026
+</div>
+<div class="paper-title">
+<a href="https://arxiv.org/abs/2605.19096v2">Sharp analysis of sketched least squares and randomized low-rank approximation</a>
+</div>
+<div class="paper-authors">
+Ethan N. Epperly, Robert J. Webber
+</div>
+<div class="paper-links">
+<p><a class="paper-badge" href="https://arxiv.org/abs/2605.19096v2">arXiv:2605.19096v2</a> <a class="paper-badge" href="https://arxiv.org/pdf/2605.19096v2">PDF</a> <span class="paper-category">math.NA, stat.CO</span></p>
+</div>
+</div>
+<div class="paper-card">
+<div class="paper-date">
+May 16, 2026
+</div>
+<div class="paper-title">
+<a href="https://arxiv.org/abs/2605.17185v1">Numerical Instabilities in the Kaczmarz Method and Stabilization by Iterative Refinement</a>
+</div>
+<div class="paper-authors">
+Michał Dereziński, Ethan N. Epperly, Deanna Needell, Alexander Xue
+</div>
+<div class="paper-links">
+<p><a class="paper-badge" href="https://arxiv.org/abs/2605.17185v1">arXiv:2605.17185v1</a> <a class="paper-badge" href="https://arxiv.org/pdf/2605.17185v1">PDF</a> <span class="paper-category">math.NA</span></p>
+</div>
+</div>
 <div class="paper-card">
 <div class="paper-date">
 May 04, 2026
 </div>
 <div class="paper-title">
-<a href="https://arxiv.org/abs/2605.03206v1">The maximum-entropy median-martingale</a>
+<a href="https://arxiv.org/abs/2605.03206v3">The maximum-entropy median-martingale</a>
 </div>
 <div class="paper-authors">
 Rikhav Shah, Vilas Winstein
 </div>
 <div class="paper-links">
-<p><a class="paper-badge" href="https://arxiv.org/abs/2605.03206v1">arXiv:2605.03206v1</a> <a class="paper-badge" href="https://arxiv.org/pdf/2605.03206v1">PDF</a> <span class="paper-category">math.PR</span></p>
+<p><a class="paper-badge" href="https://arxiv.org/abs/2605.03206v3">arXiv:2605.03206v3</a> <a class="paper-badge" href="https://arxiv.org/pdf/2605.03206v3">PDF</a> <span class="paper-category">math.PR</span></p>
 </div>
 </div>
 <div class="paper-card">
@@ -307,13 +533,13 @@ Leonard Ferdinand, Simon Gabriel
 Mar 17, 2026
 </div>
 <div class="paper-title">
-<a href="https://arxiv.org/abs/2603.18053v1">Auditing the Auditors: Does Community-based Moderation Get It Right?</a>
+<a href="https://arxiv.org/abs/2603.18053v2">Auditing the Auditors: Does Community-based Moderation Get It Right?</a>
 </div>
 <div class="paper-authors">
 Yeganeh Alimohammadi, Karissa Huang, Christian Borgs, Jennifer Chayes
 </div>
 <div class="paper-links">
-<p><a class="paper-badge" href="https://arxiv.org/abs/2603.18053v1">arXiv:2603.18053v1</a> <a class="paper-badge" href="https://arxiv.org/pdf/2603.18053v1">PDF</a> <span class="paper-category">cs.SI, cs.CY, econ.GN</span></p>
+<p><a class="paper-badge" href="https://arxiv.org/abs/2603.18053v2">arXiv:2603.18053v2</a> <a class="paper-badge" href="https://arxiv.org/pdf/2603.18053v2">PDF</a> <span class="paper-category">cs.SI, cs.CY, econ.GN</span></p>
 </div>
 </div>
 <div class="paper-card">
@@ -321,13 +547,13 @@ Yeganeh Alimohammadi, Karissa Huang, Christian Borgs, Jennifer Chayes
 Mar 03, 2026
 </div>
 <div class="paper-title">
-<a href="https://arxiv.org/abs/2603.02714v1">Gaussian Width of Convex Sets via Integral Decompositions, Projections, and the Distribution of Intrinsic Volumes</a>
+<a href="https://arxiv.org/abs/2603.02714v2">Gaussian Width of Convex Sets via Integral Decompositions, Projections, and the Distribution of Intrinsic Volumes</a>
 </div>
 <div class="paper-authors">
 Reese Pathak, Nikita Zhivotovskiy
 </div>
 <div class="paper-links">
-<p><a class="paper-badge" href="https://arxiv.org/abs/2603.02714v1">arXiv:2603.02714v1</a> <a class="paper-badge" href="https://arxiv.org/pdf/2603.02714v1">PDF</a> <span class="paper-category">math.PR, cs.IT, math.ST</span></p>
+<p><a class="paper-badge" href="https://arxiv.org/abs/2603.02714v2">arXiv:2603.02714v2</a> <a class="paper-badge" href="https://arxiv.org/pdf/2603.02714v2">PDF</a> <span class="paper-category">math.PR, cs.IT, math.ST</span></p>
 </div>
 </div>
 <div class="paper-card">
@@ -384,160 +610,6 @@ Jorge Garza-Vargas, Nikhil Srivastava, Zachary Stier
 </div>
 <div class="paper-links">
 <p><a class="paper-badge" href="https://arxiv.org/abs/2602.15822v1">arXiv:2602.15822v1</a> <a class="paper-badge" href="https://arxiv.org/pdf/2602.15822v1">PDF</a> <span class="paper-category">math.PR, math.CA, math.CO</span></p>
-</div>
-</div>
-<div class="paper-card">
-<div class="paper-date">
-Feb 05, 2026
-</div>
-<div class="paper-title">
-<a href="https://arxiv.org/abs/2602.05394v2">Linear Systems and Eigenvalue Problems: Open Questions from a Simons Workshop</a>
-</div>
-<div class="paper-authors">
-Noah Amsel, Yves Baumann, Paul Beckman, Peter Bürgisser, Chris Camaño, Tyler Chen, Edmond Chow, Anil Damle et al.
-</div>
-<div class="paper-links">
-<p><a class="paper-badge" href="https://arxiv.org/abs/2602.05394v2">arXiv:2602.05394v2</a> <a class="paper-badge" href="https://arxiv.org/pdf/2602.05394v2">PDF</a> <span class="paper-category">math.NA, cs.DS</span></p>
-</div>
-</div>
-<div class="paper-card">
-<div class="paper-date">
-Feb 05, 2026
-</div>
-<div class="paper-title">
-<a href="https://arxiv.org/abs/2602.05192v2">First Proof</a>
-</div>
-<div class="paper-authors">
-Mohammed Abouzaid, Andrew J. Blumberg, Martin Hairer, Joe Kileel, Tamara G. Kolda, Paul D. Nelson, Daniel Spielman, Nikhil Srivastava et al.
-</div>
-<div class="paper-links">
-<p><a class="paper-badge" href="https://arxiv.org/abs/2602.05192v2">arXiv:2602.05192v2</a> <a class="paper-badge" href="https://arxiv.org/pdf/2602.05192v2">PDF</a> <span class="paper-category">cs.AI, math.AG, math.CO</span></p>
-</div>
-</div>
-<div class="paper-card">
-<div class="paper-date">
-Feb 04, 2026
-</div>
-<div class="paper-title">
-<a href="https://arxiv.org/abs/2602.04842v2">The matrix-vector complexity of <span class="math inline">\(Ax=b\)</span></a>
-</div>
-<div class="paper-authors">
-Michał Dereziński, Ethan N. Epperly, Raphael A. Meyer
-</div>
-<div class="paper-links">
-<p><a class="paper-badge" href="https://arxiv.org/abs/2602.04842v2">arXiv:2602.04842v2</a> <a class="paper-badge" href="https://arxiv.org/pdf/2602.04842v2">PDF</a> <span class="paper-category">cs.DS, math.NA, math.OC</span></p>
-</div>
-</div>
-<div class="paper-card">
-<div class="paper-date">
-Jan 23, 2026
-</div>
-<div class="paper-title">
-<a href="https://arxiv.org/abs/2601.16377v2">Macroscopic asymptotics in discrete beta-ensembles and random tilings</a>
-</div>
-<div class="paper-authors">
-Gaëtan Borot, Vadim Gorin, Alice Guionnet
-</div>
-<div class="paper-links">
-<p><a class="paper-badge" href="https://arxiv.org/abs/2601.16377v2">arXiv:2601.16377v2</a> <a class="paper-badge" href="https://arxiv.org/pdf/2601.16377v2">PDF</a> <span class="paper-category">math.PR, math-ph</span></p>
-</div>
-</div>
-<div class="paper-card">
-<div class="paper-date">
-Jan 20, 2026
-</div>
-<div class="paper-title">
-<a href="https://arxiv.org/abs/2601.14170v1">Wasserstein distances between ERGMs and Erdős-Rényi models</a>
-</div>
-<div class="paper-authors">
-Vilas Winstein
-</div>
-<div class="paper-links">
-<p><a class="paper-badge" href="https://arxiv.org/abs/2601.14170v1">arXiv:2601.14170v1</a> <a class="paper-badge" href="https://arxiv.org/pdf/2601.14170v1">PDF</a> <span class="paper-category">math.PR, cond-mat.stat-mech, cs.DM</span></p>
-</div>
-</div>
-<div class="paper-card">
-<div class="paper-date">
-Jan 12, 2026
-</div>
-<div class="paper-title">
-<a href="https://arxiv.org/abs/2601.07169v1">Approximate FKG inequalities for phase-bound spin systems</a>
-</div>
-<div class="paper-authors">
-Satyaki Mukherjee, Vilas Winstein
-</div>
-<div class="paper-links">
-<p><a class="paper-badge" href="https://arxiv.org/abs/2601.07169v1">arXiv:2601.07169v1</a> <a class="paper-badge" href="https://arxiv.org/pdf/2601.07169v1">PDF</a> <span class="paper-category">math.PR, cond-mat.stat-mech, cs.DM</span></p>
-</div>
-</div>
-<div class="paper-card">
-<div class="paper-date">
-Dec 19, 2025
-</div>
-<div class="paper-title">
-<a href="https://arxiv.org/abs/2512.17823v2">van den Berg-Kesten–type correlation inequalities for disjoint polymers in the KPZ universality class</a>
-</div>
-<div class="paper-authors">
-Shirshendu Ganguly, Milind Hegde, Lingfu Zhang
-</div>
-<div class="paper-links">
-<p><a class="paper-badge" href="https://arxiv.org/abs/2512.17823v2">arXiv:2512.17823v2</a> <a class="paper-badge" href="https://arxiv.org/pdf/2512.17823v2">PDF</a> <span class="paper-category">math.PR, math-ph</span></p>
-</div>
-</div>
-<div class="paper-card">
-<div class="paper-date">
-Dec 17, 2025
-</div>
-<div class="paper-title">
-<a href="https://arxiv.org/abs/2512.15929v1">Make the most of what you have: Resource-efficient randomized algorithms for matrix computations</a>
-</div>
-<div class="paper-authors">
-Ethan N. Epperly
-</div>
-<div class="paper-links">
-<p><a class="paper-badge" href="https://arxiv.org/abs/2512.15929v1">arXiv:2512.15929v1</a> <a class="paper-badge" href="https://arxiv.org/pdf/2512.15929v1">PDF</a> <span class="paper-category">math.NA, cs.DS, stat.CO</span></p>
-</div>
-</div>
-<div class="paper-card">
-<div class="paper-date">
-Dec 15, 2025
-</div>
-<div class="paper-title">
-<a href="https://arxiv.org/abs/2512.13664v1">Exponential Absolute Minimizing extension and biased infinity Laplacian</a>
-</div>
-<div class="paper-authors">
-Yang Chu
-</div>
-<div class="paper-links">
-<p><a class="paper-badge" href="https://arxiv.org/abs/2512.13664v1">arXiv:2512.13664v1</a> <a class="paper-badge" href="https://arxiv.org/pdf/2512.13664v1">PDF</a> <span class="paper-category">math.AP, math.MG, math.OC</span></p>
-</div>
-</div>
-<div class="paper-card">
-<div class="paper-date">
-Nov 20, 2025
-</div>
-<div class="paper-title">
-<a href="https://arxiv.org/abs/2511.16072v1">Early science acceleration experiments with GPT-5</a>
-</div>
-<div class="paper-authors">
-Sébastien Bubeck, Christian Coester, Ronen Eldan, Timothy Gowers, Yin Tat Lee, Alexandru Lupsasca, Mehtaab Sawhney, Robert Scherrer et al.
-</div>
-<div class="paper-links">
-<p><a class="paper-badge" href="https://arxiv.org/abs/2511.16072v1">arXiv:2511.16072v1</a> <a class="paper-badge" href="https://arxiv.org/pdf/2511.16072v1">PDF</a> <span class="paper-category">cs.CL, cs.AI</span></p>
-</div>
-</div>
-<div class="paper-card">
-<div class="paper-date">
-Nov 10, 2025
-</div>
-<div class="paper-title">
-<a href="https://arxiv.org/abs/2511.07350v1">Decoupling of clusters in independent sets in a percolated hypercube</a>
-</div>
-<div class="paper-authors">
-Mriganka Basu Roy Chowdhury, Shirshendu Ganguly, Vilas Winstein
-</div>
-<div class="paper-links">
-<p><a class="paper-badge" href="https://arxiv.org/abs/2511.07350v1">arXiv:2511.07350v1</a> <a class="paper-badge" href="https://arxiv.org/pdf/2511.07350v1">PDF</a> <span class="paper-category">math.PR, cond-mat.stat-mech, cs.DM</span></p>
 </div>
 </div>
 
