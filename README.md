@@ -1,6 +1,6 @@
-# Berkeley Stat ML
+# Berkeley Probability
 
-Berkeley Statistical Machine Learning Group (Stat ML) homepage.
+Berkeley Probability Grouphomepage.
 
 ## How to add faculty/student/alumni member?
 
