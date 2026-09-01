@@ -59,7 +59,18 @@
 
 ### Papers
 
-<p class="paper-list-updated"><em>Last updated August 25, 2026. Papers going back ~1 year.</em></p>
+<p class="paper-list-updated"><em>Last updated September 01, 2026. Papers going back ~1 year.</em></p>
+
+::: {.paper-card}
+<div class="paper-date">Aug 30, 2026</div>
+<div class="paper-title"><a href="https://arxiv.org/abs/2608.29957v1">Equilibrium fluctuations of the weakly asymmetric inclusion process</a></div>
+<div class="paper-authors">Simon Gabriel</div>
+<div class="paper-links">
+<a class="paper-badge" href="https://arxiv.org/abs/2608.29957v1">arXiv:2608.29957v1</a>
+<a class="paper-badge" href="https://arxiv.org/pdf/2608.29957v1">PDF</a>
+<span class="paper-category">math.PR, cond-mat.stat-mech</span>
+</div>
+:::
 
 ::: {.paper-card}
 <div class="paper-date">Aug 21, 2026</div>
@@ -151,11 +162,11 @@
 
 ::: {.paper-card}
 <div class="paper-date">Jul 23, 2026</div>
-<div class="paper-title"><a href="https://arxiv.org/abs/2607.20818v1">Self-Balancing Sequential Sampling: Fast Convergence with Controlled Predictability</a></div>
+<div class="paper-title"><a href="https://arxiv.org/abs/2607.20818v2">Self-Balancing Sequential Sampling: Fast Convergence with Controlled Predictability</a></div>
 <div class="paper-authors">Zachary McNulty, Daniel Raban</div>
 <div class="paper-links">
-<a class="paper-badge" href="https://arxiv.org/abs/2607.20818v1">arXiv:2607.20818v1</a>
-<a class="paper-badge" href="https://arxiv.org/pdf/2607.20818v1">PDF</a>
+<a class="paper-badge" href="https://arxiv.org/abs/2607.20818v2">arXiv:2607.20818v2</a>
+<a class="paper-badge" href="https://arxiv.org/pdf/2607.20818v2">PDF</a>
 <span class="paper-category">math.PR, stat.ME, stat.ML</span>
 </div>
 :::
@@ -597,16 +608,5 @@
 <a class="paper-badge" href="https://arxiv.org/abs/2509.06295v1">arXiv:2509.06295v1</a>
 <a class="paper-badge" href="https://arxiv.org/pdf/2509.06295v1">PDF</a>
 <span class="paper-category">econ.EM, stat.CO, stat.ME</span>
-</div>
-:::
-
-::: {.paper-card}
-<div class="paper-date">Aug 28, 2025</div>
-<div class="paper-title"><a href="https://arxiv.org/abs/2508.21189v1">Faster Linear Algebra Algorithms with Structured Random Matrices</a></div>
-<div class="paper-authors">Chris Camaño, Ethan N. Epperly, Raphael A. Meyer, Joel A. Tropp</div>
-<div class="paper-links">
-<a class="paper-badge" href="https://arxiv.org/abs/2508.21189v1">arXiv:2508.21189v1</a>
-<a class="paper-badge" href="https://arxiv.org/pdf/2508.21189v1">PDF</a>
-<span class="paper-category">cs.DS, math.NA</span>
 </div>
 :::
