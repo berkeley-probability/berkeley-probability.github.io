@@ -41,7 +41,7 @@ ul.task-list li input[type="checkbox"] {
 <link href="../site_libs/quarto-html/quarto-syntax-highlighting-64a204ab8560d761af7679ceaba22944.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-14ed52d64cebd2125cf0662d49733eaf.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-c27816be57bfcae138a1d28f861e56f4.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "language": {
     "search-no-results-text": "No results",
@@ -60,6 +60,35 @@ ul.task-list li input[type="checkbox"] {
 <script src="../assets/external-links.js"></script>
 
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@4/tex-chtml.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="../assets/styles.css">
 </head>
@@ -190,8 +219,106 @@ ul.task-list li input[type="checkbox"] {
 }
 </style>
 <p class="paper-list-updated">
-<em>Last updated September 01, 2026. Papers from the last 6 months. See more <a href="contents/all-papers.qmd">here</a>.</em>
+<em>Last updated October 01, 2026. Papers from the last 6 months. See more <a href="contents/all-papers.qmd">here</a>.</em>
 </p>
+<div class="paper-card">
+<div class="paper-date">
+Sep 17, 2026
+</div>
+<div class="paper-title">
+<a href="https://arxiv.org/abs/2609.20707v1">Interpolation of Gaussian Free Fields via Random Matrices</a>
+</div>
+<div class="paper-authors">
+Gabriel Raposo
+</div>
+<div class="paper-links">
+<p><a class="paper-badge" href="https://arxiv.org/abs/2609.20707v1">arXiv:2609.20707v1</a> <a class="paper-badge" href="https://arxiv.org/pdf/2609.20707v1">PDF</a> <span class="paper-category">math.PR, math-ph</span></p>
+</div>
+</div>
+<div class="paper-card">
+<div class="paper-date">
+Sep 17, 2026
+</div>
+<div class="paper-title">
+<a href="https://arxiv.org/abs/2609.20550v1">Principal component error in high-dimensional factor models</a>
+</div>
+<div class="paper-authors">
+Alex Bernstein, Lisa R. Goldberg, Nicholas Gunther, Alec N. Kercheval, Tian Lan, Yian Lin, Dayi Yao
+</div>
+<div class="paper-links">
+<p><a class="paper-badge" href="https://arxiv.org/abs/2609.20550v1">arXiv:2609.20550v1</a> <a class="paper-badge" href="https://arxiv.org/pdf/2609.20550v1">PDF</a> <span class="paper-category">math.ST, q-fin.PM, q-fin.ST</span></p>
+</div>
+</div>
+<div class="paper-card">
+<div class="paper-date">
+Sep 15, 2026
+</div>
+<div class="paper-title">
+<a href="https://arxiv.org/abs/2609.17520v1">Renormalizing small ball events for branching random walk</a>
+</div>
+<div class="paper-authors">
+Vilas Winstein
+</div>
+<div class="paper-links">
+<p><a class="paper-badge" href="https://arxiv.org/abs/2609.17520v1">arXiv:2609.17520v1</a> <a class="paper-badge" href="https://arxiv.org/pdf/2609.17520v1">PDF</a> <span class="paper-category">math.PR, cond-mat.stat-mech, math-ph</span></p>
+</div>
+</div>
+<div class="paper-card">
+<div class="paper-date">
+Sep 14, 2026
+</div>
+<div class="paper-title">
+<a href="https://arxiv.org/abs/2609.15908v1">Sharp decay thresholds for eigenvalues of discrete Schrödinger operators on <span class="math inline">\(\mathbb{Z}^2\)</span></a>
+</div>
+<div class="paper-authors">
+Shirshendu Ganguly, Wencai Liu
+</div>
+<div class="paper-links">
+<p><a class="paper-badge" href="https://arxiv.org/abs/2609.15908v1">arXiv:2609.15908v1</a> <a class="paper-badge" href="https://arxiv.org/pdf/2609.15908v1">PDF</a> <span class="paper-category">math-ph, math.SP</span></p>
+</div>
+</div>
+<div class="paper-card">
+<div class="paper-date">
+Sep 14, 2026
+</div>
+<div class="paper-title">
+<a href="https://arxiv.org/abs/2609.15812v1">The Robust Ten Martini Problem</a>
+</div>
+<div class="paper-authors">
+Lingrui Ge, Svetlana Jitomirskaya, Jiangong You
+</div>
+<div class="paper-links">
+<p><a class="paper-badge" href="https://arxiv.org/abs/2609.15812v1">arXiv:2609.15812v1</a> <a class="paper-badge" href="https://arxiv.org/pdf/2609.15812v1">PDF</a> <span class="paper-category">math-ph, math.DS, math.SP</span></p>
+</div>
+</div>
+<div class="paper-card">
+<div class="paper-date">
+Sep 13, 2026
+</div>
+<div class="paper-title">
+<a href="https://arxiv.org/abs/2609.14217v1">A law of large numbers for Macdonald coherent measures</a>
+</div>
+<div class="paper-authors">
+Vadim Gorin
+</div>
+<div class="paper-links">
+<p><a class="paper-badge" href="https://arxiv.org/abs/2609.14217v1">arXiv:2609.14217v1</a> <a class="paper-badge" href="https://arxiv.org/pdf/2609.14217v1">PDF</a> <span class="paper-category">math.PR, math.CO, math.RT</span></p>
+</div>
+</div>
+<div class="paper-card">
+<div class="paper-date">
+Sep 10, 2026
+</div>
+<div class="paper-title">
+<a href="https://arxiv.org/abs/2609.11774v1">Circular Rearrangement Inequality and Optimal Cyclic Birth and Death Chains</a>
+</div>
+<div class="paper-authors">
+Gabriel Raposo
+</div>
+<div class="paper-links">
+<p><a class="paper-badge" href="https://arxiv.org/abs/2609.11774v1">arXiv:2609.11774v1</a> <a class="paper-badge" href="https://arxiv.org/pdf/2609.11774v1">PDF</a> <span class="paper-category">math.CO, math.PR</span></p>
+</div>
+</div>
 <div class="paper-card">
 <div class="paper-date">
 Aug 30, 2026
@@ -526,48 +653,6 @@ Stephen W. Bianchi, Lisa R. Goldberg
 </div>
 <div class="paper-links">
 <p><a class="paper-badge" href="https://arxiv.org/abs/2604.27287v1">arXiv:2604.27287v1</a> <a class="paper-badge" href="https://arxiv.org/pdf/2604.27287v1">PDF</a> <span class="paper-category">q-fin.PM</span></p>
-</div>
-</div>
-<div class="paper-card">
-<div class="paper-date">
-Apr 03, 2026
-</div>
-<div class="paper-title">
-<a href="https://arxiv.org/abs/2604.02920v1">Efficient Logistic Regression with Mixture of Sigmoids</a>
-</div>
-<div class="paper-authors">
-Federico Di Gennaro, Saptarshi Chakraborty, Nikita Zhivotovskiy
-</div>
-<div class="paper-links">
-<p><a class="paper-badge" href="https://arxiv.org/abs/2604.02920v1">arXiv:2604.02920v1</a> <a class="paper-badge" href="https://arxiv.org/pdf/2604.02920v1">PDF</a> <span class="paper-category">cs.LG</span></p>
-</div>
-</div>
-<div class="paper-card">
-<div class="paper-date">
-Mar 17, 2026
-</div>
-<div class="paper-title">
-<a href="https://arxiv.org/abs/2603.17177v1">Discrete RG flow of a hierarchical singular SPDE</a>
-</div>
-<div class="paper-authors">
-Leonard Ferdinand, Simon Gabriel
-</div>
-<div class="paper-links">
-<p><a class="paper-badge" href="https://arxiv.org/abs/2603.17177v1">arXiv:2603.17177v1</a> <a class="paper-badge" href="https://arxiv.org/pdf/2603.17177v1">PDF</a> <span class="paper-category">math.PR</span></p>
-</div>
-</div>
-<div class="paper-card">
-<div class="paper-date">
-Mar 17, 2026
-</div>
-<div class="paper-title">
-<a href="https://arxiv.org/abs/2603.18053v2">Auditing the Auditors: Does Community-based Moderation Get It Right?</a>
-</div>
-<div class="paper-authors">
-Yeganeh Alimohammadi, Karissa Huang, Christian Borgs, Jennifer Chayes
-</div>
-<div class="paper-links">
-<p><a class="paper-badge" href="https://arxiv.org/abs/2603.18053v2">arXiv:2603.18053v2</a> <a class="paper-badge" href="https://arxiv.org/pdf/2603.18053v2">PDF</a> <span class="paper-category">cs.SI, cs.CY, econ.GN</span></p>
 </div>
 </div>
 
