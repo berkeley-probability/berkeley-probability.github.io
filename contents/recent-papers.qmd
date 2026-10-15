@@ -57,7 +57,29 @@
 </style>
 ```
 
-<p class="paper-list-updated"><em>Last updated October 01, 2026. Papers from the last 6 months. See more <a href="contents/all-papers.qmd">here</a>.</em></p>
+<p class="paper-list-updated"><em>Last updated October 15, 2026. Papers from the last 6 months. See more <a href="contents/all-papers.qmd">here</a>.</em></p>
+
+::: {.paper-card}
+<div class="paper-date">Oct 12, 2026</div>
+<div class="paper-title"><a href="https://arxiv.org/abs/2610.17139v1">(Sharp arithmetic) localization beyond transversality</a></div>
+<div class="paper-authors">Svetlana Jitomirskaya, Netanel Levi, Tom Stoiber</div>
+<div class="paper-links">
+<a class="paper-badge" href="https://arxiv.org/abs/2610.17139v1">arXiv:2610.17139v1</a>
+<a class="paper-badge" href="https://arxiv.org/pdf/2610.17139v1">PDF</a>
+<span class="paper-category">math.SP, math-ph, math.DS</span>
+</div>
+:::
+
+::: {.paper-card}
+<div class="paper-date">Oct 08, 2026</div>
+<div class="paper-title"><a href="https://arxiv.org/abs/2610.12366v1">Directed fractal percolation and non-Lipschitz variants</a></div>
+<div class="paper-authors">Shirshendu Ganguly, Victor Ginsburg, Kaihao Jing</div>
+<div class="paper-links">
+<a class="paper-badge" href="https://arxiv.org/abs/2610.12366v1">arXiv:2610.12366v1</a>
+<a class="paper-badge" href="https://arxiv.org/pdf/2610.12366v1">PDF</a>
+<span class="paper-category">math.PR, math-ph, math.CA</span>
+</div>
+:::
 
 ::: {.paper-card}
 <div class="paper-date">Sep 17, 2026</div>
@@ -94,11 +116,11 @@
 
 ::: {.paper-card}
 <div class="paper-date">Sep 14, 2026</div>
-<div class="paper-title"><a href="https://arxiv.org/abs/2609.15908v1">Sharp decay thresholds for eigenvalues of discrete Schrödinger operators on $\mathbb{Z}^2$</a></div>
+<div class="paper-title"><a href="https://arxiv.org/abs/2609.15908v2">Sharp decay thresholds for eigenvalues of discrete Schrödinger operators on $\mathbb{Z}^2$</a></div>
 <div class="paper-authors">Shirshendu Ganguly, Wencai Liu</div>
 <div class="paper-links">
-<a class="paper-badge" href="https://arxiv.org/abs/2609.15908v1">arXiv:2609.15908v1</a>
-<a class="paper-badge" href="https://arxiv.org/pdf/2609.15908v1">PDF</a>
+<a class="paper-badge" href="https://arxiv.org/abs/2609.15908v2">arXiv:2609.15908v2</a>
+<a class="paper-badge" href="https://arxiv.org/pdf/2609.15908v2">PDF</a>
 <span class="paper-category">math-ph, math.SP</span>
 </div>
 :::
