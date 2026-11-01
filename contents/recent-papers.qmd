@@ -57,7 +57,62 @@
 </style>
 ```
 
-<p class="paper-list-updated"><em>Last updated October 15, 2026. Papers from the last 6 months. See more <a href="contents/all-papers.qmd">here</a>.</em></p>
+<p class="paper-list-updated"><em>Last updated November 01, 2026. Papers from the last 6 months. See more <a href="contents/all-papers.qmd">here</a>.</em></p>
+
+::: {.paper-card}
+<div class="paper-date">Oct 29, 2026</div>
+<div class="paper-title"><a href="https://arxiv.org/abs/2610.40027v1">Counting approximate breakpoint medians of random genomes</a></div>
+<div class="paper-authors">Poly H. da Silva, Arash Jamshidpey, David Sankoff</div>
+<div class="paper-links">
+<a class="paper-badge" href="https://arxiv.org/abs/2610.40027v1">arXiv:2610.40027v1</a>
+<a class="paper-badge" href="https://arxiv.org/pdf/2610.40027v1">PDF</a>
+<span class="paper-category">cs.CE, cs.DS, q-bio.PE</span>
+</div>
+:::
+
+::: {.paper-card}
+<div class="paper-date">Oct 28, 2026</div>
+<div class="paper-title"><a href="https://arxiv.org/abs/2610.38157v1">Randomized algorithms in numerical linear algebra for scientific computing</a></div>
+<div class="paper-authors">Ethan N. W. Epperly, Daniel Kressner, Yuji Nakatsukasa</div>
+<div class="paper-links">
+<a class="paper-badge" href="https://arxiv.org/abs/2610.38157v1">arXiv:2610.38157v1</a>
+<a class="paper-badge" href="https://arxiv.org/pdf/2610.38157v1">PDF</a>
+<span class="paper-category">math.NA</span>
+</div>
+:::
+
+::: {.paper-card}
+<div class="paper-date">Oct 26, 2026</div>
+<div class="paper-title"><a href="https://arxiv.org/abs/2610.35822v1">Hidden Singularity and Fractal Dimensions for Extended Harper Operators</a></div>
+<div class="paper-authors">Simon Becker, Svetlana Jitomirskaya, Igor Krasovsky</div>
+<div class="paper-links">
+<a class="paper-badge" href="https://arxiv.org/abs/2610.35822v1">arXiv:2610.35822v1</a>
+<a class="paper-badge" href="https://arxiv.org/pdf/2610.35822v1">PDF</a>
+<span class="paper-category">math-ph, cond-mat.mes-hall, math.SP</span>
+</div>
+:::
+
+::: {.paper-card}
+<div class="paper-date">Oct 22, 2026</div>
+<div class="paper-title"><a href="https://arxiv.org/abs/2610.30699v1">The Laplace transform of the stationary measure of the open KPZ equation in the shock region</a></div>
+<div class="paper-authors">Zoe Himwich, Yizao Wang</div>
+<div class="paper-links">
+<a class="paper-badge" href="https://arxiv.org/abs/2610.30699v1">arXiv:2610.30699v1</a>
+<a class="paper-badge" href="https://arxiv.org/pdf/2610.30699v1">PDF</a>
+<span class="paper-category">math.PR</span>
+</div>
+:::
+
+::: {.paper-card}
+<div class="paper-date">Oct 18, 2026</div>
+<div class="paper-title"><a href="https://arxiv.org/abs/2610.24969v2">Towards Human-AI Complementarity for AI Safety</a></div>
+<div class="paper-authors">Sander Lanbo Shi, Miranda Anna Christ, Eric Modesitt, Andrew Louis, Konrad Cheng, Brandon Thai Tran, Sewoong Lee, Ratnakar Pawar et al.</div>
+<div class="paper-links">
+<a class="paper-badge" href="https://arxiv.org/abs/2610.24969v2">arXiv:2610.24969v2</a>
+<a class="paper-badge" href="https://arxiv.org/pdf/2610.24969v2">PDF</a>
+<span class="paper-category">cs.AI</span>
+</div>
+:::
 
 ::: {.paper-card}
 <div class="paper-date">Oct 12, 2026</div>
@@ -94,11 +149,11 @@
 
 ::: {.paper-card}
 <div class="paper-date">Sep 17, 2026</div>
-<div class="paper-title"><a href="https://arxiv.org/abs/2609.20550v1">Principal component error in high-dimensional factor models</a></div>
+<div class="paper-title"><a href="https://arxiv.org/abs/2609.20550v2">Principal component error in high-dimensional factor models</a></div>
 <div class="paper-authors">Alex Bernstein, Lisa R. Goldberg, Nicholas Gunther, Alec N. Kercheval, Tian Lan, Yian Lin, Dayi Yao</div>
 <div class="paper-links">
-<a class="paper-badge" href="https://arxiv.org/abs/2609.20550v1">arXiv:2609.20550v1</a>
-<a class="paper-badge" href="https://arxiv.org/pdf/2609.20550v1">PDF</a>
+<a class="paper-badge" href="https://arxiv.org/abs/2609.20550v2">arXiv:2609.20550v2</a>
+<a class="paper-badge" href="https://arxiv.org/pdf/2609.20550v2">PDF</a>
 <span class="paper-category">math.ST, q-fin.PM, q-fin.ST</span>
 </div>
 :::
@@ -237,11 +292,11 @@
 
 ::: {.paper-card}
 <div class="paper-date">Jul 31, 2026</div>
-<div class="paper-title"><a href="https://arxiv.org/abs/2607.29016v1">Nonlinear Exchange Dynamics for Independent Sets</a></div>
+<div class="paper-title"><a href="https://arxiv.org/abs/2607.29016v2">Nonlinear Exchange Dynamics for Independent Sets</a></div>
 <div class="paper-authors">Mehrad Abbaszadeh Minab, Pietro Caputo, Zongchen Chen, Mario Morellini, Alistair Sinclair</div>
 <div class="paper-links">
-<a class="paper-badge" href="https://arxiv.org/abs/2607.29016v1">arXiv:2607.29016v1</a>
-<a class="paper-badge" href="https://arxiv.org/pdf/2607.29016v1">PDF</a>
+<a class="paper-badge" href="https://arxiv.org/abs/2607.29016v2">arXiv:2607.29016v2</a>
+<a class="paper-badge" href="https://arxiv.org/pdf/2607.29016v2">PDF</a>
 <span class="paper-category">cs.DS, math.PR</span>
 </div>
 :::
@@ -375,49 +430,5 @@
 <a class="paper-badge" href="https://arxiv.org/abs/2605.17185v1">arXiv:2605.17185v1</a>
 <a class="paper-badge" href="https://arxiv.org/pdf/2605.17185v1">PDF</a>
 <span class="paper-category">math.NA</span>
-</div>
-:::
-
-::: {.paper-card}
-<div class="paper-date">May 04, 2026</div>
-<div class="paper-title"><a href="https://arxiv.org/abs/2605.03206v3">The maximum-entropy median-martingale</a></div>
-<div class="paper-authors">Rikhav Shah, Vilas Winstein</div>
-<div class="paper-links">
-<a class="paper-badge" href="https://arxiv.org/abs/2605.03206v3">arXiv:2605.03206v3</a>
-<a class="paper-badge" href="https://arxiv.org/pdf/2605.03206v3">PDF</a>
-<span class="paper-category">math.PR</span>
-</div>
-:::
-
-::: {.paper-card}
-<div class="paper-date">May 02, 2026</div>
-<div class="paper-title"><a href="https://arxiv.org/abs/2605.01628v1">Self-Normalized Martingales and Uniform Regret Bounds for Linear Regression</a></div>
-<div class="paper-authors">Fan Chen, Jian Qian, Alexander Rakhlin, Nikita Zhivotovskiy</div>
-<div class="paper-links">
-<a class="paper-badge" href="https://arxiv.org/abs/2605.01628v1">arXiv:2605.01628v1</a>
-<a class="paper-badge" href="https://arxiv.org/pdf/2605.01628v1">PDF</a>
-<span class="paper-category">stat.ML, cs.LG, math.ST</span>
-</div>
-:::
-
-::: {.paper-card}
-<div class="paper-date">Apr 30, 2026</div>
-<div class="paper-title"><a href="https://arxiv.org/abs/2604.27619v1">Rising GUE Eigenvalue Process from a Fixed Level</a></div>
-<div class="paper-authors">Zoe Himwich</div>
-<div class="paper-links">
-<a class="paper-badge" href="https://arxiv.org/abs/2604.27619v1">arXiv:2604.27619v1</a>
-<a class="paper-badge" href="https://arxiv.org/pdf/2604.27619v1">PDF</a>
-<span class="paper-category">math.PR</span>
-</div>
-:::
-
-::: {.paper-card}
-<div class="paper-date">Apr 30, 2026</div>
-<div class="paper-title"><a href="https://arxiv.org/abs/2604.27287v1">A Levered ETF Anomaly Explained</a></div>
-<div class="paper-authors">Stephen W. Bianchi, Lisa R. Goldberg</div>
-<div class="paper-links">
-<a class="paper-badge" href="https://arxiv.org/abs/2604.27287v1">arXiv:2604.27287v1</a>
-<a class="paper-badge" href="https://arxiv.org/pdf/2604.27287v1">PDF</a>
-<span class="paper-category">q-fin.PM</span>
 </div>
 :::
