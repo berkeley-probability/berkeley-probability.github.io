@@ -20,7 +20,7 @@
     name   = "Shirshendu Ganguly"
     url    = "https://www.stat.berkeley.edu/~sganguly/"
     image  = "/images/shirshendu-ganguly.jpg"
-    affil  = "Associate Professor"
+    affil  = "Professor"
 >}}
 
 {{<faculty-card
