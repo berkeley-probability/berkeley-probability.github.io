@@ -9,25 +9,11 @@
 >}}
 
 {{<faculty-card
-    name   = "Yang Chu"
-    url    = "https://sites.google.com/view/yangch2"
-    image  = "/images/CHU_Yang - Yang Chu.jpg"
-    affil  = "Advised by: Steven Evans, Alan Hammond"
->}}
-
-{{<faculty-card
     name   = "Victor Ginsburg"
     url    = "https://math.berkeley.edu/~victor/"
     image  = "/images/victor - Victor Ginsburg.jpg"
     affil  = "Advised by: Shirshendu Ganguly"
 >}}
-
-{{<faculty-card
-    name   = "Karissa Huang"
-    image  = "/images/karissa-huang.JPG"
-    affil  = "Advised by: Christian Borgs, Jennifer Chayes"
->}}
-
 
 {{<faculty-card
     name   = "Kaihao Jing"
@@ -54,13 +40,6 @@
     url    = "https://pillowmath.github.io/"
     image  = "/images/IMG_3615 - Daniel Cyrus Raban.jpg"
     affil  = "Advised by: Steven Evans"
->}}
-
-{{<faculty-card
-    name   = "Gabriel Raposo"
-    url    = "https://www.stat.berkeley.edu/~raposo/"
-    image  = "/images/PictureGabriel - Gabriel Raposo.jpeg"
-    affil  = "Advised by: Vadim Gorin"
 >}}
 
 {{<faculty-card

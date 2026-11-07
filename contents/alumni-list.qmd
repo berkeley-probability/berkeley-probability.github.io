@@ -1,7 +1,27 @@
----
-title: "Alumni"
----
+### Alumni
 
----
+::: {.grid}
 
-Forthcoming
+{{<alumni-card
+    name   = "Yang Chu"
+    url    = "https://sites.google.com/view/yangch2"
+    image  = "/images/CHU_Yang - Yang Chu.jpg"
+    year     = "PhD 2026"
+>}}
+
+{{<alumni-card
+    name   = "Karissa Huang"
+    image  = "/images/karissa-huang.JPG"
+    year     = "PhD 2026"
+    position = "Postdoctoral Associate, Yale University"
+>}}
+
+{{<alumni-card
+    name     = "Gabriel Raposo"
+    url      = "https://www.stat.berkeley.edu/~raposo/"
+    image    = "/images/PictureGabriel - Gabriel Raposo.jpeg"
+    year     = "PhD 2026"
+    position = ""
+>}}
+
+:::

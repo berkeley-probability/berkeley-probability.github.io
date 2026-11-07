@@ -20,7 +20,7 @@
     name   = "Zoe Himwich"
     url    = "https://scholar.google.com/citations?user=SvDf-MwAAAAJ&hl=en"
     image  = "/images/zoe-himwich.jpeg"
-    affil  = "NSF Postdoc, Hosted by Shirshendu Ganguly"
+    affil  = "NSF Postdoctoral Fellow, Hosted by Shirshendu Ganguly"
 >}}
 
 
@@ -28,6 +28,20 @@
     name   = "Arash Jamshidpey"
     url    = "https://sites.google.com/view/arash-jamshidpey"
     image  = "/images/Arash-Jamshidpey.jpg"
-    affil  = "Neyamn Assistant Professor"
+    affil  = "Neyman Assistant Professor"
+>}}
+
+{{<faculty-card
+    name   = "Christian Serio"
+    url    = "http://cdserio.github.io/"
+    image  = "/images/christian_serio.jpg"
+    affil  = "NSF Postdoctoral Fellow, Hosted by Shirshendu Ganguly"
+>}}
+
+{{<faculty-card
+    name   = "Zongrui Yang"
+    url    = "https://zongruiyang1.github.io/"
+    image  = "/images/Zongrui_Yang_Headshot.jpeg"
+    affil  = "Miller Postdoctoral Fellow, Hosted by Alan Hammond"
 >}}
 :::

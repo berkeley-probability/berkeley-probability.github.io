@@ -73,4 +73,11 @@
     affil  = "Associate Professor"
 >}}
 
+{{<faculty-card
+    name   = "Kevin Yang"
+    url    = "https://yang-kev.github.io/"
+    image  = "/images/Kevin_Yang.jpeg"
+    affil  = "Assistant Professor"
+>}}
+
 :::
