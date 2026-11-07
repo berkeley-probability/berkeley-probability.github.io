@@ -35,7 +35,7 @@
     name   = "Christian Serio"
     url    = "http://cdserio.github.io/"
     image  = "/images/christian_serio.jpg"
-    affil  = "NSF Postdoctoral Fellow, Hosted by Shirshendu Ganguly"
+    affil  = "NSF Postdoctoral Fellow, Hosted by Alan Hammond and Shirshendu Ganguly"
 >}}
 
 {{<faculty-card
