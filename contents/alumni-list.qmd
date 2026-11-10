@@ -13,7 +13,7 @@
     name   = "Karissa Huang"
     image  = "/images/karissa-huang.JPG"
     year     = "PhD 2026"
-    position = "Postdoctoral Associate, Yale University"
+    position = "First job: Postdoctoral Associate, Yale University"
 >}}
 
 {{<alumni-card
@@ -21,7 +21,7 @@
     url      = "https://www.stat.berkeley.edu/~raposo/"
     image    = "/images/PictureGabriel - Gabriel Raposo.jpeg"
     year     = "PhD 2026"
-    position = ""
+    position = "First job: Postdoctoral Fellow, University of Toronto"
 >}}
 
 :::
